@@ -1,72 +1,59 @@
-import React from "react"
-import { useState, useEffect } from "react"
+import React, { useState, useEffect } from "react";
+import styles from './Guess.module.css';
+import Flag from 'react-world-flags';
+import { IoCaretDown, IoCaretUp, IoClose } from "react-icons/io5";
+import { FaCheck } from "react-icons/fa";
 
-const Guess = ({guessPlayer, data, correctAnswer}) => {
+const Guess = ({ guesses, data, correctAnswer }) => {
+  const [guessedPlayersInfo, setGuessedPlayersInfo] = useState([]);
 
-    const [playerInfo, setPlayerInfo] = useState(data.find(player => player.player === guessPlayer));
-    const [isPlayerFound, setIsPlayerFound] = useState(false);
-    const [compareAge, setCompareAge] = useState("x");
-    const [compareRank, setCompareRank] = useState("x");
-    const [IsSameNationality , setIsSameNationality] = useState(false);
+  useEffect(() => {
+    const guessedInfo = guesses.map(guess => {
+      const playerInfo = data.find(player => player.player === guess);
 
-    useEffect(() => {
-        setPlayerInfo(data.find(player => player.player === guessPlayer));
-      }, [guessPlayer, data]);
+      if (!playerInfo || !correctAnswer) return null;
 
-    useEffect(() => {
-        if (!isPlayerFound && playerInfo != undefined) {
-            if (playerInfo.age > correctAnswer.age) {
-                setCompareAge("<");
-            }
-            if (playerInfo.age === correctAnswer.age) {
-                setCompareAge("=");
-            }
-            if (playerInfo.age < correctAnswer.age) {
-                setCompareAge(">");
-            }
-            if (playerInfo.rank > correctAnswer.rank) {
-                setCompareRank("<");
-            }
-            if (playerInfo.rank === correctAnswer.rank) {
-                setCompareRank("=");
-            }
-            if (playerInfo.rank < correctAnswer.rank) {
-                setCompareRank(">");
-            }
-            if (playerInfo.country === correctAnswer.country) {
-                setIsSameNationality(true);
-            } else {
-                setIsSameNationality(false);
-            }
-        }
-      }, [guessPlayer, correctAnswer, playerInfo]);
+      const isCorrect = guess === correctAnswer.player;
 
-    useEffect(() => {
-        if (guessPlayer != null) {
+      const compareAge = playerInfo.age > correctAnswer.age
+        ? <IoCaretDown color="red" />
+        : playerInfo.age < correctAnswer.age
+        ? <IoCaretUp color="green" />
+        : <FaCheck color="green" />;
 
-        if (guessPlayer === correctAnswer.player) {
-          console.log("bien");
-          setIsPlayerFound(true);
-        } else {
-            console.log("c'est pas ça");
-            setIsPlayerFound(false);
-        }
-    }
-      }, [guessPlayer, correctAnswer]);
+      const compareRank = playerInfo.rank > correctAnswer.rank
+        ? <IoCaretUp color="green" />
+        : playerInfo.rank < correctAnswer.rank
+        ? <IoCaretDown color="red" />
+        : <FaCheck color="green" />;
+
+      const isSameNationality = playerInfo.country === correctAnswer.country;
+
+      return {
+        ...playerInfo,
+        isCorrect, compareAge, compareRank, isSameNationality,
+      };
+    }).filter(Boolean);
+
+    setGuessedPlayersInfo(guessedInfo);
+  }, [guesses, data, correctAnswer]);
+
 
   return (
     <div>
-        {playerInfo && 
-        <div>
-            <p><strong>Player:</strong> {playerInfo.player}{isPlayerFound ? "oui" : "x"}</p>
-            <p><strong>Rank:</strong> {playerInfo.rank}{compareRank}</p>
-            <p><strong>Age:</strong> {playerInfo.age}{compareAge}</p>
-            <p><strong>Country:</strong> {playerInfo.country}{IsSameNationality ? "oui" : "non"}</p>
-            <p><strong>Points:</strong> {playerInfo.points}{compareRank}</p>
-          </div> 
-          }
+      {guessedPlayersInfo.map((playerInfo, index) => (
+        playerInfo && (
+          <div key={index} className={styles.container}>
+            <p><strong>Player:</strong> {playerInfo.player} {playerInfo.isCorrect ? <FaCheck color="green" /> : <IoClose color="red" />}</p>
+            <p><strong>Rank:</strong> {playerInfo.rank} {playerInfo.compareRank}</p>
+            <p><strong>Age:</strong> {playerInfo.age} {playerInfo.compareAge}</p>
+            <p><strong>Country:</strong> <Flag code={playerInfo.country} /> {playerInfo.isSameNationality ? <FaCheck color="green" /> : <IoClose color="red" />}</p>
+            <p><strong>Points:</strong> {playerInfo.points}</p>
+          </div>
+        )
+      ))}
     </div>
-  )
+  );
 };
 
 export default Guess;

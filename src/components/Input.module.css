@@ -1,7 +1,7 @@
 .suggestions {
     list-style: none;
     text-align: left;
-    max-height: 100px;
+    max-height: 200px;
     padding: 0;
     overflow: scroll;
     border: 2px solid white;
@@ -17,6 +17,7 @@
 .suggestions li {
     border: solid 2px rgb(56, 56, 56);
     transition: .5s ease;
+    padding: 8px;
 }
 
 .suggestions li:hover {

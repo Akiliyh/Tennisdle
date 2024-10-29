@@ -14,11 +14,11 @@ const getRandomPlayer = (data) => {
 
 function App() {
   const [randomPlayer, setRandomPlayer] = useState(null);
-  const [guessPlayer, setGuessPlayer] = useState(null);
+  const [guesses, setGuesses] = useState([]);
 
   const handleGuess = (guess) => {
-    setGuessPlayer(guess);
-  }
+    setGuesses((prevGuesses) => [...prevGuesses, guess]);
+  };
 
   const handleGetRandomPlayer = () => {
     const player = getRandomPlayer(rankingsDataATP);
@@ -38,7 +38,7 @@ function App() {
   return (
     <>
       <Input player={playerNamesATP} handleGuess={handleGuess}></Input>
-      <Guess guessPlayer={guessPlayer} data={rankingsDataATP} correctAnswer={randomPlayer}></Guess>
+      <Guess guesses={guesses} data={rankingsDataATP} correctAnswer={randomPlayer}></Guess>
     </>
   )
 }
