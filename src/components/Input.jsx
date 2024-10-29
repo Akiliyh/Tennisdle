@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styles from './Input.module.css';
 
-const Input = ({ player }) => {
+const Input = ({ player, handleGuess }) => {
   const [inputValue, setInputValue] = useState('');
   const [suggestions, setSuggestions] = useState([]);
 
@@ -22,13 +22,13 @@ const Input = ({ player }) => {
   const handleSuggestionClick = (suggestion) => {
     setInputValue(suggestion);
     setSuggestions([]);
+    handleGuess(suggestion);
   };
 
   const handleKeyDown = (e, suggestion) => {
     if (e.key === "Enter") {
       e.preventDefault();
       handleSuggestionClick(suggestion);
-      setInputValue(suggestion);
     }
   };
 

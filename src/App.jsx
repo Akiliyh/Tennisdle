@@ -3,6 +3,7 @@ import './App.css'
 import rankingsDataATP from './data/atp_ranking_data.json'
 import rankingsDataWTA from './data/wta_ranking_data.json'
 import Input from './components/Input' 
+import Guess from './components/Guess' 
 
 const playerNamesATP = rankingsDataATP.map(player => player.player);
 
@@ -13,6 +14,11 @@ const getRandomPlayer = (data) => {
 
 function App() {
   const [randomPlayer, setRandomPlayer] = useState(null);
+  const [guessPlayer, setGuessPlayer] = useState(null);
+
+  const handleGuess = (guess) => {
+    setGuessPlayer(guess);
+  }
 
   const handleGetRandomPlayer = () => {
     const player = getRandomPlayer(rankingsDataATP);
@@ -24,15 +30,15 @@ function App() {
   }, []);
 
   useEffect(() => {
-    // Log randomPlayer whenever it changes
     if (randomPlayer) {
       console.log(randomPlayer);
     }
-  }, [randomPlayer]); // This effect runs every time randomPlayer changes
+  }, [randomPlayer]);
 
   return (
     <>
-      <Input player={playerNamesATP}></Input>
+      <Input player={playerNamesATP} handleGuess={handleGuess}></Input>
+      <Guess guessPlayer={guessPlayer} data={rankingsDataATP} correctAnswer={randomPlayer}></Guess>
     </>
   )
 }
