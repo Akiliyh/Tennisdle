@@ -1,33 +1,38 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { useState, useEffect } from 'react'
 import './App.css'
+import rankingsDataATP from './data/atp_ranking_data.json'
+import rankingsDataWTA from './data/wta_ranking_data.json'
+import Input from './components/Input' 
+
+const playerNamesATP = rankingsDataATP.map(player => player.player);
+
+const getRandomPlayer = (data) => {
+  const randomIndex = Math.floor(Math.random() * data.length);
+  return data[randomIndex];
+};
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [randomPlayer, setRandomPlayer] = useState(null);
+
+  const handleGetRandomPlayer = () => {
+    const player = getRandomPlayer(rankingsDataATP);
+    setRandomPlayer(player);
+  };
+
+  useEffect(() => {
+    handleGetRandomPlayer();
+  }, []);
+
+  useEffect(() => {
+    // Log randomPlayer whenever it changes
+    if (randomPlayer) {
+      console.log(randomPlayer);
+    }
+  }, [randomPlayer]); // This effect runs every time randomPlayer changes
 
   return (
     <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <Input player={playerNamesATP}></Input>
     </>
   )
 }
