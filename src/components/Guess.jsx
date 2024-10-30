@@ -6,14 +6,19 @@ import { FaCheck } from "react-icons/fa";
 
 const Guess = ({ guesses, data, correctAnswer }) => {
   const [guessedPlayersInfo, setGuessedPlayersInfo] = useState([]);
+  const [lastGuess, setLastGuess] = useState(null);
 
   useEffect(() => {
-    const guessedInfo = guesses.map(guess => {
-      const playerInfo = data.find(player => player.player === guess);
+    const latestGuess = guesses[guesses.length - 1];
+    
+    if (latestGuess && latestGuess !== lastGuess) {
+      setLastGuess(latestGuess);
 
-      if (!playerInfo || !correctAnswer) return null;
+      const playerInfo = data.find(player => player.player === latestGuess);
+      
+      if (!playerInfo || !correctAnswer) return;
 
-      const isCorrect = guess === correctAnswer.player;
+      const isCorrect = latestGuess === correctAnswer.player;
 
       const compareAge = playerInfo.age > correctAnswer.age
         ? <IoCaretDown color="red" />
@@ -21,27 +26,29 @@ const Guess = ({ guesses, data, correctAnswer }) => {
         ? <IoCaretUp color="green" />
         : <FaCheck color="green" />;
 
-      const compareRank = playerInfo.rank > correctAnswer.rank
+      const compareRank = parseInt(playerInfo.rank) > parseInt(correctAnswer.rank)
         ? <IoCaretUp color="green" />
-        : playerInfo.rank < correctAnswer.rank
+        : parseInt(playerInfo.rank) < parseInt(correctAnswer.rank)
         ? <IoCaretDown color="red" />
         : <FaCheck color="green" />;
 
       const isSameNationality = playerInfo.country === correctAnswer.country;
 
-      return {
+      const newGuessInfo = {
         ...playerInfo,
-        isCorrect, compareAge, compareRank, isSameNationality,
+        isCorrect,
+        compareAge,
+        compareRank,
+        isSameNationality,
       };
-    }).filter(Boolean);
 
-    setGuessedPlayersInfo(guessedInfo);
-  }, [guesses, data, correctAnswer]);
-
+      setGuessedPlayersInfo(prevGuesses => [...prevGuesses, newGuessInfo]);
+    }
+  }, [guesses, data, correctAnswer, lastGuess]);
 
   return (
     <div>
-      {guessedPlayersInfo.map((playerInfo, index) => (
+      {guessedPlayersInfo.slice().reverse().map((playerInfo, index) => (
         playerInfo && (
           <div key={index} className={styles.container}>
             <p><strong>Player:</strong> {playerInfo.player} {playerInfo.isCorrect ? <FaCheck color="green" /> : <IoClose color="red" />}</p>
@@ -52,6 +59,10 @@ const Guess = ({ guesses, data, correctAnswer }) => {
           </div>
         )
       ))}
+    <div>
+      {/* Numer of tries */}
+      {guessedPlayersInfo && guessedPlayersInfo.length}
+    </div>
     </div>
   );
 };

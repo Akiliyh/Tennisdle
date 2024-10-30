@@ -8,7 +8,8 @@ import Guess from './components/Guess'
 const playerNamesATP = rankingsDataATP.map(player => player.player);
 
 const getRandomPlayer = (data) => {
-  const randomIndex = Math.floor(Math.random() * data.length);
+  const limit = Math.min(250, data.length); // Only top 250
+  const randomIndex = Math.floor(Math.random() * limit);
   return data[randomIndex];
 };
 

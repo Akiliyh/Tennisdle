@@ -5,14 +5,19 @@ const Input = ({ player, handleGuess }) => {
   const [inputValue, setInputValue] = useState('');
   const [suggestions, setSuggestions] = useState([]);
 
+  const removeDiacritics = (str) => {
+    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  };
+
   const handleInputChange = (event) => {
     const value = event.target.value;
     setInputValue(value);
 
     if (value) {
       const filteredSuggestions = player.filter(name =>
-        name.toLowerCase().includes(value.toLowerCase())
-      );
+        removeDiacritics(name).toLowerCase().includes(removeDiacritics(value).toLowerCase())
+      ).sort((a, b) => a.localeCompare(b)); // Sort alphabetically
+      
       setSuggestions(filteredSuggestions);
     } else {
       setSuggestions([]);
