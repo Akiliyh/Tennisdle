@@ -2,7057 +2,2497 @@
   {
     "rank": "1",
     "player": "Jannik Sinner",
-    "age": "23",
-    "country": "ITA",
-    "points": "11420"
+    "playerLink": "https://www.atptour.com/en/players/jannik-sinner/s0ag/overview",
+    "age": "23 (2001/08/16)",
+    "weight": "170 lbs (77kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Italy"
   },
   {
     "rank": "2",
     "player": "Carlos Alcaraz",
-    "age": "21",
-    "country": "ESP",
-    "points": "7120"
+    "playerLink": "https://www.atptour.com/en/players/carlos-alcaraz/a0e2/overview",
+    "age": "21 (2003/05/05)",
+    "weight": "163 lbs (74kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Spain"
   },
   {
     "rank": "3",
     "player": "Alexander Zverev",
-    "age": "27",
-    "country": "GER",
-    "points": "6805"
+    "playerLink": "https://www.atptour.com/en/players/alexander-zverev/z355/overview",
+    "age": "27 (1997/04/20)",
+    "weight": "198 lbs (90kg)",
+    "height": "6'6\" (198cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Germany"
   },
   {
     "rank": "4",
-    "player": "Novak Djoković",
-    "age": "37",
-    "country": "SRB",
-    "points": "6210"
+    "player": "Novak Djokovic",
+    "playerLink": "https://www.atptour.com/en/players/novak-djokovic/d643/overview",
+    "age": "37 (1987/05/22)",
+    "weight": "170 lbs (77kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Serbia"
   },
   {
     "rank": "5",
     "player": "Daniil Medvedev",
-    "age": "28",
-    "country": "RUS",
-    "points": "5230"
+    "playerLink": "https://www.atptour.com/en/players/daniil-medvedev/mm58/overview",
+    "age": "28 (1996/02/11)",
+    "weight": "182 lbs (83kg)",
+    "height": "6'6\" (198cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": ""
   },
   {
     "rank": "6",
     "player": "Taylor Fritz",
-    "age": "27",
-    "country": "USA",
-    "points": "4335"
+    "playerLink": "https://www.atptour.com/en/players/taylor-fritz/fb98/overview",
+    "age": "26 (1997/10/28)",
+    "weight": "190 lbs (86kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "7",
     "player": "Andrey Rublev",
-    "age": "27",
-    "country": "RUS",
-    "points": "4070"
+    "playerLink": "https://www.atptour.com/en/players/andrey-rublev/re44/overview",
+    "age": "27 (1997/10/20)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": ""
   },
   {
     "rank": "8",
     "player": "Casper Ruud",
-    "age": "25",
-    "country": "NOR",
-    "points": "3855"
+    "playerLink": "https://www.atptour.com/en/players/casper-ruud/rh16/overview",
+    "age": "25 (1998/12/22)",
+    "weight": "178 lbs (81kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Norway"
   },
   {
     "rank": "9",
     "player": "Grigor Dimitrov",
-    "age": "33",
-    "country": "BUL",
-    "points": "3740"
+    "playerLink": "https://www.atptour.com/en/players/grigor-dimitrov/d875/overview",
+    "age": "33 (1991/05/16)",
+    "weight": "179 lbs (81kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "Bulgaria"
   },
   {
     "rank": "10",
-    "player": "Alex de Minaur",
-    "age": "25",
-    "country": "AUS",
-    "points": "3725"
-  },
-  {
-    "rank": "Publicité",
-    "player": "",
-    "age": "",
-    "country": "",
-    "points": ""
+    "player": "Alex De Minaur",
+    "playerLink": "https://www.atptour.com/en/players/alex-de-minaur/dh58/overview",
+    "age": "25 (1999/02/17)",
+    "weight": "152 lbs (69kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Australia"
   },
   {
     "rank": "11",
     "player": "Stefanos Tsitsipas",
-    "age": "26",
-    "country": "GRE",
-    "points": "3325"
+    "playerLink": "https://www.atptour.com/en/players/stefanos-tsitsipas/te51/overview",
+    "age": "26 (1998/08/12)",
+    "weight": "198 lbs (90kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "Greece"
   },
   {
     "rank": "12",
     "player": "Tommy Paul",
-    "age": "27",
-    "country": "USA",
-    "points": "3180"
+    "playerLink": "https://www.atptour.com/en/players/tommy-paul/pl56/overview",
+    "age": "27 (1997/05/17)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "13",
     "player": "Holger Rune",
-    "age": "21",
-    "country": "DEN",
-    "points": "3005"
+    "playerLink": "https://www.atptour.com/en/players/holger-rune/r0dg/overview",
+    "age": "21 (2003/04/29)",
+    "weight": "169 lbs (77kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Denmark"
   },
   {
     "rank": "14",
     "player": "Hubert Hurkacz",
-    "age": "27",
-    "country": "POL",
-    "points": "2810"
+    "playerLink": "https://www.atptour.com/en/players/hubert-hurkacz/hb71/overview",
+    "age": "27 (1997/02/11)",
+    "weight": "179 lbs (81kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Poland"
   },
   {
     "rank": "15",
     "player": "Jack Draper",
-    "age": "22",
-    "country": "GBR",
-    "points": "2800"
+    "playerLink": "https://www.atptour.com/en/players/jack-draper/d0co/overview",
+    "age": "22 (2001/12/22)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Great Britain"
   },
   {
     "rank": "16",
     "player": "Lorenzo Musetti",
-    "age": "22",
-    "country": "ITA",
-    "points": "2600"
+    "playerLink": "https://www.atptour.com/en/players/lorenzo-musetti/m0ej/overview",
+    "age": "22 (2002/03/03)",
+    "weight": "172 lbs (78kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "Italy"
   },
   {
     "rank": "17",
     "player": "Frances Tiafoe",
-    "age": "26",
-    "country": "USA",
-    "points": "2585"
+    "playerLink": "https://www.atptour.com/en/players/frances-tiafoe/td51/overview",
+    "age": "26 (1998/01/20)",
+    "weight": "190 lbs (86kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "18",
     "player": "Ugo Humbert",
-    "age": "26",
-    "country": "FRA",
-    "points": "2385"
+    "playerLink": "https://www.atptour.com/en/players/ugo-humbert/hh26/overview",
+    "age": "26 (1998/06/26)",
+    "weight": "160 lbs (73kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "19",
     "player": "Ben Shelton",
-    "age": "22",
-    "country": "USA",
-    "points": "2330"
+    "playerLink": "https://www.atptour.com/en/players/ben-shelton/s0s1/overview",
+    "age": "22 (2002/10/09)",
+    "weight": "195 lbs (88kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "20",
     "player": "Arthur Fils",
-    "age": "20",
-    "country": "FRA",
-    "points": "2265"
+    "playerLink": "https://www.atptour.com/en/players/arthur-fils/f0f1/overview",
+    "age": "20 (2004/06/12)",
+    "weight": "182 lbs (83kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "21",
     "player": "Karen Khachanov",
-    "age": "28",
-    "country": "RUS",
-    "points": "2225"
+    "playerLink": "https://www.atptour.com/en/players/karen-khachanov/ke29/overview",
+    "age": "28 (1996/05/21)",
+    "weight": "192 lbs (87kg)",
+    "height": "6'6\" (198cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": ""
   },
   {
     "rank": "22",
     "player": "Alejandro Tabilo",
-    "age": "27",
-    "country": "CHI",
-    "points": "2043"
+    "playerLink": "https://www.atptour.com/en/players/alejandro-tabilo/te30/overview",
+    "age": "27 (1997/06/02)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Chile"
   },
   {
     "rank": "23",
     "player": "Sebastian Korda",
-    "age": "24",
-    "country": "USA",
-    "points": "2010"
+    "playerLink": "https://www.atptour.com/en/players/sebastian-korda/k0ah/overview",
+    "age": "24 (2000/07/05)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "24",
     "player": "Alexei Popyrin",
-    "age": "25",
-    "country": "AUS",
-    "points": "1775"
+    "playerLink": "https://www.atptour.com/en/players/alexei-popyrin/p09z/overview",
+    "age": "25 (1999/08/05)",
+    "weight": "172 lbs (78kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Australia"
   },
   {
     "rank": "25",
-    "player": "Tomáš Macháč",
-    "age": "24",
-    "country": "CZE",
-    "points": "1758"
+    "player": "Tomas Machac",
+    "playerLink": "https://www.atptour.com/en/players/tomas-machac/m0fh/overview",
+    "age": "24 (2000/10/13)",
+    "weight": "163 lbs (74kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Czechia"
   },
   {
     "rank": "26",
-    "player": "Sebastián Báez",
-    "age": "23",
-    "country": "ARG",
-    "points": "1690"
+    "player": "Sebastian Baez",
+    "playerLink": "https://www.atptour.com/en/players/sebastian-baez/b0bi/overview",
+    "age": "23 (2000/12/28)",
+    "weight": "154 lbs (70kg)",
+    "height": "5'7\" (170cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "27",
-    "player": "Félix Auger-Aliassime",
-    "age": "24",
-    "country": "CAN",
-    "points": "1680"
+    "player": "Felix Auger-Aliassime",
+    "playerLink": "https://www.atptour.com/en/players/felix-auger-aliassime/ag37/overview",
+    "age": "24 (2000/08/08)",
+    "weight": "194 lbs (88kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Canada"
   },
   {
     "rank": "28",
     "player": "Jordan Thompson",
-    "age": "30",
-    "country": "AUS",
-    "points": "1571"
+    "playerLink": "https://www.atptour.com/en/players/jordan-thompson/tc61/overview",
+    "age": "30 (1994/04/20)",
+    "weight": "181 lbs (82kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Australia"
   },
   {
     "rank": "29",
-    "player": "Francisco Cerúndolo",
-    "age": "26",
-    "country": "ARG",
-    "points": "1570"
+    "player": "Francisco Cerundolo",
+    "playerLink": "https://www.atptour.com/en/players/francisco-cerundolo/c0au/overview",
+    "age": "26 (1998/08/13)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "30",
-    "player": "Jiří Lehečka",
-    "age": "22",
-    "country": "CZE",
-    "points": "1560"
+    "player": "Jiri Lehecka",
+    "playerLink": "https://www.atptour.com/en/players/jiri-lehecka/l0bv/overview",
+    "age": "22 (2001/11/08)",
+    "weight": "179 lbs (81kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Czechia"
   },
   {
     "rank": "31",
     "player": "Giovanni Mpetshi Perricard",
-    "age": "21",
-    "country": "FRA",
-    "points": "1519"
+    "playerLink": "https://www.atptour.com/en/players/giovanni-mpetshi-perricard/m0gz/overview",
+    "age": "21 (2003/07/08)",
+    "weight": "216 lbs (98kg)",
+    "height": "6'8\" (203cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "32",
     "player": "Flavio Cobolli",
-    "age": "22",
-    "country": "ITA",
-    "points": "1502"
+    "playerLink": "https://www.atptour.com/en/players/flavio-cobolli/c0e9/overview",
+    "age": "22 (2002/05/06)",
+    "weight": "163 lbs (74kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Italy"
   },
   {
     "rank": "33",
     "player": "Alexander Bublik",
-    "age": "27",
-    "country": "KAZ",
-    "points": "1460"
+    "playerLink": "https://www.atptour.com/en/players/alexander-bublik/bk92/overview",
+    "age": "27 (1997/06/17)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Kazakhstan"
   },
   {
     "rank": "34",
     "player": "Nuno Borges",
-    "age": "27",
-    "country": "POR",
-    "points": "1446"
+    "playerLink": "https://www.atptour.com/en/players/nuno-borges/bt72/overview",
+    "age": "27 (1997/02/19)",
+    "weight": "171 lbs (78kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Portugal"
   },
   {
     "rank": "35",
     "player": "Brandon Nakashima",
-    "age": "23",
-    "country": "USA",
-    "points": "1375"
+    "playerLink": "https://www.atptour.com/en/players/brandon-nakashima/n0ae/overview",
+    "age": "23 (2001/08/03)",
+    "weight": "183 lbs (83kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "36",
     "player": "Matteo Berrettini",
-    "age": "28",
-    "country": "ITA",
-    "points": "1370"
+    "playerLink": "https://www.atptour.com/en/players/matteo-berrettini/bk40/overview",
+    "age": "28 (1996/04/12)",
+    "weight": "209 lbs (95kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Italy"
   },
   {
     "rank": "37",
-    "player": "Nicolás Jarry",
-    "age": "29",
-    "country": "CHI",
-    "points": "1365"
+    "player": "Nicolas Jarry",
+    "playerLink": "https://www.atptour.com/en/players/nicolas-jarry/j551/overview",
+    "age": "29 (1995/10/11)",
+    "weight": "198 lbs (90kg)",
+    "height": "6'7\" (201cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Chile"
   },
   {
     "rank": "38",
     "player": "Matteo Arnaldi",
-    "age": "23",
-    "country": "ITA",
-    "points": "1335"
+    "playerLink": "https://www.atptour.com/en/players/matteo-arnaldi/a0fc/overview",
+    "age": "23 (2001/02/22)",
+    "weight": "157 lbs (71kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Italy"
   },
   {
     "rank": "39",
     "player": "Tallon Griekspoor",
-    "age": "28",
-    "country": "NED",
-    "points": "1320"
+    "playerLink": "https://www.atptour.com/en/players/tallon-griekspoor/gj37/overview",
+    "age": "28 (1996/07/02)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Netherlands"
   },
   {
     "rank": "40",
-    "player": "Tomás Martín Etcheverry",
-    "age": "25",
-    "country": "ARG",
-    "points": "1310"
+    "player": "Tomas Martin Etcheverry",
+    "playerLink": "https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/overview",
+    "age": "25 (1999/07/18)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "41",
-    "player": "Pedro Martínez",
-    "age": "27",
-    "country": "ESP",
-    "points": "1270"
+    "player": "Pedro Martinez",
+    "playerLink": "https://www.atptour.com/en/players/pedro-martinez/mo44/overview",
+    "age": "27 (1997/04/26)",
+    "weight": "168 lbs (76kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Spain"
   },
   {
     "rank": "42",
-    "player": "Jan Lennard Struff",
-    "age": "34",
-    "country": "GER",
-    "points": "1265"
+    "player": "Jan-Lennard Struff",
+    "playerLink": "https://www.atptour.com/en/players/jan-lennard-struff/sl28/overview",
+    "age": "34 (1990/04/25)",
+    "weight": "202 lbs (92kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Germany"
   },
   {
     "rank": "43",
     "player": "Luciano Darderi",
-    "age": "22",
-    "country": "ITA",
-    "points": "1263"
+    "playerLink": "https://www.atptour.com/en/players/luciano-darderi/d0fj/overview",
+    "age": "22 (2002/02/14)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Italy"
   },
   {
     "rank": "44",
     "player": "Alex Michelsen",
-    "age": "20",
-    "country": "USA",
-    "points": "1220"
+    "playerLink": "https://www.atptour.com/en/players/alex-michelsen/m0qi/overview",
+    "age": "20 (2004/08/25)",
+    "weight": "175 lbs (79kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "45",
     "player": "Mariano Navone",
-    "age": "23",
-    "country": "ARG",
-    "points": "1188"
+    "playerLink": "https://www.atptour.com/en/players/mariano-navone/n0bs/overview",
+    "age": "23 (2001/02/27)",
+    "weight": "160 lbs (73kg)",
+    "height": "5'10\" (178cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "46",
     "player": "Roberto Bautista Agut",
-    "age": "36",
-    "country": "ESP",
-    "points": "1171"
+    "playerLink": "https://www.atptour.com/en/players/roberto-bautista-agut/bd06/overview",
+    "age": "36 (1988/04/14)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Spain"
   },
   {
     "rank": "47",
     "player": "Zhizhen Zhang",
-    "age": "28",
-    "country": "CHN",
-    "points": "1145"
+    "playerLink": "https://www.atptour.com/en/players/zhizhen-zhang/z371/overview",
+    "age": "28 (1996/10/16)",
+    "weight": "192 lbs (87kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "China"
   },
   {
     "rank": "48",
-    "player": "Jakub Menšík",
-    "age": "19",
-    "country": "CZE",
-    "points": "1137"
+    "player": "Jakub Mensik",
+    "playerLink": "https://www.atptour.com/en/players/jakub-mensik/m0ni/overview",
+    "age": "19 (2005/09/01)",
+    "weight": "184 lbs (83kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Czechia"
   },
   {
     "rank": "49",
     "player": "Marcos Giron",
-    "age": "31",
-    "country": "USA",
-    "points": "1105"
+    "playerLink": "https://www.atptour.com/en/players/marcos-giron/gc88/overview",
+    "age": "31 (1993/07/24)",
+    "weight": "170 lbs (77kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "50",
     "player": "David Goffin",
-    "age": "33",
-    "country": "BEL",
-    "points": "1080"
-  },
-  {
-    "rank": "Publicité",
-    "player": "",
-    "age": "",
-    "country": "",
-    "points": ""
+    "playerLink": "https://www.atptour.com/en/players/david-goffin/gb88/overview",
+    "age": "33 (1990/12/07)",
+    "weight": "154 lbs (70kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Belgium"
   },
   {
     "rank": "51",
     "player": "Juncheng Shang",
-    "age": "19",
-    "country": "CHN",
-    "points": "1075"
+    "playerLink": "https://www.atptour.com/en/players/juncheng-shang/s0re/overview",
+    "age": "19 (2005/02/02)",
+    "weight": "162 lbs (73kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "China"
   },
   {
     "rank": "52",
     "player": "Lorenzo Sonego",
-    "age": "29",
-    "country": "ITA",
-    "points": "1022"
+    "playerLink": "https://www.atptour.com/en/players/lorenzo-sonego/su87/overview",
+    "age": "29 (1995/05/11)",
+    "weight": "168 lbs (76kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Italy"
   },
   {
     "rank": "53",
-    "player": "Gaël Monfils",
-    "age": "38",
-    "country": "FRA",
-    "points": "1015"
+    "player": "Gael Monfils",
+    "playerLink": "https://www.atptour.com/en/players/gael-monfils/mc65/overview",
+    "age": "38 (1986/09/01)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "54",
-    "player": "Roberto Carballés Baena",
-    "age": "31",
-    "country": "ESP",
-    "points": "980"
+    "player": "Roberto Carballes Baena",
+    "playerLink": "https://www.atptour.com/en/players/roberto-carballes-baena/cf59/overview",
+    "age": "31 (1993/03/23)",
+    "weight": "170 lbs (77kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Spain"
   },
   {
     "rank": "55",
-    "player": "Miomir Kecmanović",
-    "age": "25",
-    "country": "SRB",
-    "points": "965"
+    "player": "Miomir Kecmanovic",
+    "playerLink": "https://www.atptour.com/en/players/miomir-kecmanovic/ki95/overview",
+    "age": "25 (1999/08/31)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Serbia"
   },
   {
     "rank": "56",
     "player": "Cameron Norrie",
-    "age": "29",
-    "country": "GBR",
-    "points": "954"
+    "playerLink": "https://www.atptour.com/en/players/cameron-norrie/n771/overview",
+    "age": "29 (1995/08/23)",
+    "weight": "181 lbs (82kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Great Britain"
   },
   {
     "rank": "57",
-    "player": "Fábián Marozsán",
-    "age": "25",
-    "country": "HUN",
-    "points": "930"
+    "player": "Fabian Marozsan",
+    "playerLink": "https://www.atptour.com/en/players/fabian-marozsan/m0ci/overview",
+    "age": "25 (1999/10/08)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Hungary"
   },
   {
     "rank": "58",
     "player": "Adrian Mannarino",
-    "age": "36",
-    "country": "FRA",
-    "points": "929"
+    "playerLink": "https://www.atptour.com/en/players/adrian-mannarino/me82/overview",
+    "age": "36 (1988/06/29)",
+    "weight": "174 lbs (79kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "59",
     "player": "Roman Safiullin",
-    "age": "27",
-    "country": "RUS",
-    "points": "888"
+    "playerLink": "https://www.atptour.com/en/players/roman-safiullin/sx50/overview",
+    "age": "27 (1997/08/07)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": ""
   },
   {
     "rank": "60",
     "player": "Arthur Rinderknech",
-    "age": "29",
-    "country": "FRA",
-    "points": "872"
+    "playerLink": "https://www.atptour.com/en/players/arthur-rinderknech/rc91/overview",
+    "age": "29 (1995/07/23)",
+    "weight": "193 lbs (88kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "61",
     "player": "Alejandro Davidovich Fokina",
-    "age": "25",
-    "country": "ESP",
-    "points": "860"
+    "playerLink": "https://www.atptour.com/en/players/alejandro-davidovich-fokina/dh50/overview",
+    "age": "25 (1999/06/05)",
+    "weight": "173 lbs (78kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Spain"
   },
   {
     "rank": "62",
     "player": "Jaume Munar",
-    "age": "27",
-    "country": "ESP",
-    "points": "847"
+    "playerLink": "https://www.atptour.com/en/players/jaume-munar/mu94/overview",
+    "age": "27 (1997/05/05)",
+    "weight": "168 lbs (76kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Spain"
   },
   {
     "rank": "63",
     "player": "Alexander Shevchenko",
-    "age": "23",
-    "country": "KAZ",
-    "points": "840"
+    "playerLink": "https://www.atptour.com/en/players/alexander-shevchenko/s0h2/overview",
+    "age": "23 (2000/11/29)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Kazakhstan"
   },
   {
     "rank": "64",
     "player": "Yoshihito Nishioka",
-    "age": "29",
-    "country": "JPN",
-    "points": "839"
+    "playerLink": "https://www.atptour.com/en/players/yoshihito-nishioka/n732/overview",
+    "age": "29 (1995/09/27)",
+    "weight": "141 lbs (64kg)",
+    "height": "5'7\" (170cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Japan"
   },
   {
     "rank": "65",
     "player": "Zizou Bergs",
-    "age": "25",
-    "country": "BEL",
-    "points": "833"
+    "playerLink": "https://www.atptour.com/en/players/zizou-bergs/bu13/overview",
+    "age": "25 (1999/06/03)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Belgium"
   },
   {
     "rank": "66",
-    "player": "Facundo Díaz Acosta",
-    "age": "23",
-    "country": "ARG",
-    "points": "830"
+    "player": "Facundo Diaz Acosta",
+    "playerLink": "https://www.atptour.com/en/players/facundo-diaz-acosta/d0cg/overview",
+    "age": "23 (2000/12/15)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "67",
-    "player": "Botic van de Zandschulp",
-    "age": "29",
-    "country": "NED",
-    "points": "814"
+    "player": "Botic Van De Zandschulp",
+    "playerLink": "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/overview",
+    "age": "29 (1995/10/04)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Netherlands"
   },
   {
     "rank": "68",
-    "player": "Alexandre Müller",
-    "age": "27",
-    "country": "FRA",
-    "points": "790"
+    "player": "Alexandre Muller",
+    "playerLink": "https://www.atptour.com/en/players/alexandre-muller/mp20/overview",
+    "age": "27 (1997/02/01)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "69",
     "player": "Aleksandar Vukic",
-    "age": "28",
-    "country": "AUS",
-    "points": "778"
+    "playerLink": "https://www.atptour.com/en/players/aleksandar-vukic/v832/overview",
+    "age": "28 (1996/04/06)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Australia"
   },
   {
     "rank": "70",
     "player": "Corentin Moutet",
-    "age": "25",
-    "country": "FRA",
-    "points": "764"
+    "playerLink": "https://www.atptour.com/en/players/corentin-moutet/mw02/overview",
+    "age": "25 (1999/04/19)",
+    "weight": "156 lbs (71kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "71",
     "player": "Christopher O'Connell",
-    "age": "30",
-    "country": "AUS",
-    "points": "755"
+    "playerLink": "https://www.atptour.com/en/players/christopher-o'connell/o483/overview",
+    "age": "30 (1994/06/03)",
+    "weight": "172 lbs (78kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "Australia"
   },
   {
     "rank": "72",
-    "player": "Dušan Lajović",
-    "age": "34",
-    "country": "SRB",
-    "points": "746"
+    "player": "Dusan Lajovic",
+    "playerLink": "https://www.atptour.com/en/players/dusan-lajovic/l987/overview",
+    "age": "34 (1990/06/30)",
+    "weight": "183 lbs (83kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "Serbia"
   },
   {
     "rank": "73",
     "player": "Pavel Kotov",
-    "age": "25",
-    "country": "RUS",
-    "points": "745"
+    "playerLink": "https://www.atptour.com/en/players/pavel-kotov/k09f/overview",
+    "age": "25 (1998/11/18)",
+    "weight": "196 lbs (89kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": ""
   },
   {
     "rank": "74",
     "player": "Yunchaokete Bu",
-    "age": "22",
-    "country": "CHN",
-    "points": "737"
+    "playerLink": "https://www.atptour.com/en/players/yunchaokete-bu/y09v/overview",
+    "age": "22 (2002/01/19)",
+    "weight": "181 lbs (82kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "China"
   },
   {
     "rank": "75",
     "player": "Thiago Seyboth Wild",
-    "age": "24",
-    "country": "BRA",
-    "points": "732"
+    "playerLink": "https://www.atptour.com/en/players/thiago-seyboth-wild/sx91/overview",
+    "age": "24 (2000/03/10)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Brazil"
   },
   {
     "rank": "76",
     "player": "Rinky Hijikata",
-    "age": "23",
-    "country": "AUS",
-    "points": "732"
+    "playerLink": "https://www.atptour.com/en/players/rinky-hijikata/h0bh/overview",
+    "age": "23 (2001/02/23)",
+    "weight": "159 lbs (72kg)",
+    "height": "5'10\" (178cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Australia"
   },
   {
     "rank": "77",
     "player": "James Duckworth",
-    "age": "32",
-    "country": "AUS",
-    "points": "731"
+    "playerLink": "https://www.atptour.com/en/players/james-duckworth/d994/overview",
+    "age": "32 (1992/01/21)",
+    "weight": "181 lbs (82kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Australia"
   },
   {
     "rank": "78",
     "player": "Taro Daniel",
-    "age": "31",
-    "country": "JPN",
-    "points": "724"
+    "playerLink": "https://www.atptour.com/en/players/taro-daniel/da81/overview",
+    "age": "31 (1993/01/27)",
+    "weight": "185 lbs (84kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Japan"
   },
   {
     "rank": "79",
     "player": "Fabio Fognini",
-    "age": "37",
-    "country": "ITA",
-    "points": "721"
+    "playerLink": "https://www.atptour.com/en/players/fabio-fognini/f510/overview",
+    "age": "37 (1987/05/24)",
+    "weight": "174 lbs (79kg)",
+    "height": "5'10\" (178cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Italy"
   },
   {
     "rank": "80",
     "player": "Denis Shapovalov",
-    "age": "25",
-    "country": "CAN",
-    "points": "718"
+    "playerLink": "https://www.atptour.com/en/players/denis-shapovalov/su55/overview",
+    "age": "25 (1999/04/15)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Left-Handed, One-Handed Backhand",
+    "country": "Canada"
   },
   {
     "rank": "81",
     "player": "Hugo Gaston",
-    "age": "24",
-    "country": "FRA",
-    "points": "712"
+    "playerLink": "https://www.atptour.com/en/players/hugo-gaston/g09o/overview",
+    "age": "24 (2000/09/26)",
+    "weight": "149 lbs (68kg)",
+    "height": "5'8\" (173cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "82",
     "player": "Daniel Altmaier",
-    "age": "26",
-    "country": "GER",
-    "points": "705"
+    "playerLink": "https://www.atptour.com/en/players/daniel-altmaier/ae14/overview",
+    "age": "26 (1998/09/12)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "Germany"
   },
   {
     "rank": "83",
     "player": "Sebastian Ofner",
-    "age": "28",
-    "country": "AUT",
-    "points": "704"
+    "playerLink": "https://www.atptour.com/en/players/sebastian-ofner/o513/overview",
+    "age": "28 (1996/05/12)",
+    "weight": "179 lbs (81kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Austria"
   },
   {
     "rank": "84",
     "player": "Sumit Nagal",
-    "age": "27",
-    "country": "IND",
-    "points": "697"
+    "playerLink": "https://www.atptour.com/en/players/sumit-nagal/n897/overview",
+    "age": "27 (1997/08/16)",
+    "weight": "152 lbs (69kg)",
+    "height": "5'10\" (178cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "India"
   },
   {
     "rank": "85",
     "player": "Arthur Cazaux",
-    "age": "22",
-    "country": "FRA",
-    "points": "678"
+    "playerLink": "https://www.atptour.com/en/players/arthur-cazaux/c0h0/overview",
+    "age": "22 (2002/08/23)",
+    "weight": "162 lbs (73kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "86",
     "player": "Dominik Koepfer",
-    "age": "30",
-    "country": "GER",
-    "points": "676"
+    "playerLink": "https://www.atptour.com/en/players/dominik-koepfer/ke73/overview",
+    "age": "30 (1994/04/29)",
+    "weight": "175 lbs (79kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Germany"
   },
   {
     "rank": "87",
     "player": "Thanasi Kokkinakis",
-    "age": "28",
-    "country": "AUS",
-    "points": "671"
+    "playerLink": "https://www.atptour.com/en/players/thanasi-kokkinakis/kd46/overview",
+    "age": "28 (1996/04/10)",
+    "weight": "185 lbs (84kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Australia"
   },
   {
     "rank": "88",
-    "player": "Márton Fucsovics",
-    "age": "32",
-    "country": "HUN",
-    "points": "664"
+    "player": "Marton Fucsovics",
+    "playerLink": "https://www.atptour.com/en/players/marton-fucsovics/f724/overview",
+    "age": "32 (1992/02/08)",
+    "weight": "181 lbs (82kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Hungary"
   },
   {
     "rank": "89",
     "player": "Gabriel Diallo",
-    "age": "23",
-    "country": "CAN",
-    "points": "657"
+    "playerLink": "https://www.atptour.com/en/players/gabriel-diallo/d0f6/overview",
+    "age": "23 (2001/09/24)",
+    "weight": "198 lbs (90kg)",
+    "height": "6'8\" (203cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Canada"
   },
   {
     "rank": "90",
     "player": "Quentin Halys",
-    "age": "28",
-    "country": "FRA",
-    "points": "653"
+    "playerLink": "https://www.atptour.com/en/players/quentin-halys/hb64/overview",
+    "age": "28 (1996/10/26)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "91",
     "player": "Emil Ruusuvuori",
-    "age": "25",
-    "country": "FIN",
-    "points": "653"
+    "playerLink": "https://www.atptour.com/en/players/emil-ruusuvuori/rh24/overview",
+    "age": "25 (1999/04/02)",
+    "weight": "174 lbs (79kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Finland"
   },
   {
     "rank": "92",
     "player": "Adam Walton",
-    "age": "25",
-    "country": "AUS",
-    "points": "636"
+    "playerLink": "https://www.atptour.com/en/players/adam-walton/w09e/overview",
+    "age": "25 (1999/04/17)",
+    "weight": "170 lbs (77kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Australia"
   },
   {
     "rank": "93",
     "player": "Yannick Hanfmann",
-    "age": "32",
-    "country": "GER",
-    "points": "627"
+    "playerLink": "https://www.atptour.com/en/players/yannick-hanfmann/h997/overview",
+    "age": "32 (1991/11/13)",
+    "weight": "190 lbs (86kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Germany"
   },
   {
     "rank": "94",
     "player": "Max Purcell",
-    "age": "26",
-    "country": "AUS",
-    "points": "621"
+    "playerLink": "https://www.atptour.com/en/players/max-purcell/ph71/overview",
+    "age": "26 (1998/04/03)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Australia"
   },
   {
     "rank": "95",
-    "player": "Borna Ćorić",
-    "age": "27",
-    "country": "CRO",
-    "points": "620"
+    "player": "Borna Coric",
+    "playerLink": "https://www.atptour.com/en/players/borna-coric/cg80/overview",
+    "age": "27 (1996/11/14)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Croatia"
   },
   {
     "rank": "96",
     "player": "Otto Virtanen",
-    "age": "23",
-    "country": "FIN",
-    "points": "618"
+    "playerLink": "https://www.atptour.com/en/players/otto-virtanen/v0am/overview",
+    "age": "23 (2001/06/21)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Finland"
   },
   {
     "rank": "97",
     "player": "Lucas Pouille",
-    "age": "30",
-    "country": "FRA",
-    "points": "616"
+    "playerLink": "https://www.atptour.com/en/players/lucas-pouille/pf39/overview",
+    "age": "30 (1994/02/23)",
+    "weight": "185 lbs (84kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "98",
     "player": "Jacob Fearnley",
-    "age": "23",
-    "country": "GBR",
-    "points": "614"
+    "playerLink": "https://www.atptour.com/en/players/jacob-fearnley/f0by/overview",
+    "age": "23 (2001/07/15)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Great Britain"
   },
   {
     "rank": "99",
-    "player": "Aleksandar Kovačević",
-    "age": "26",
-    "country": "USA",
-    "points": "607"
+    "player": "Aleksandar Kovacevic",
+    "playerLink": "https://www.atptour.com/en/players/aleksandar-kovacevic/k0az/overview",
+    "age": "26 (1998/08/29)",
+    "weight": "174 lbs (79kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "100",
     "player": "Thiago Monteiro",
-    "age": "30",
-    "country": "BRA",
-    "points": "606"
-  },
-  {
-    "rank": "Publicité",
-    "player": "",
-    "age": "",
-    "country": "",
-    "points": ""
+    "playerLink": "https://www.atptour.com/en/players/thiago-monteiro/mj08/overview",
+    "age": "30 (1994/05/31)",
+    "weight": "172 lbs (78kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Brazil"
   },
   {
     "rank": "101",
-    "player": "Francisco Comesaña",
-    "age": "24",
-    "country": "ARG",
-    "points": "604"
+    "player": "Francisco Comesana",
+    "playerLink": "https://www.atptour.com/en/players/francisco-comesana/c0df/overview",
+    "age": "24 (2000/10/06)",
+    "weight": "158 lbs (72kg)",
+    "height": "5'10\" (178cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "102",
     "player": "Luca Nardi",
-    "age": "21",
-    "country": "ITA",
-    "points": "594"
+    "playerLink": "https://www.atptour.com/en/players/luca-nardi/n0bg/overview",
+    "age": "21 (2003/08/06)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Italy"
   },
   {
     "rank": "103",
-    "player": "Damir Džumhur",
-    "age": "32",
-    "country": "BIH",
-    "points": "591"
+    "player": "Damir Dzumhur",
+    "playerLink": "https://www.atptour.com/en/players/damir-dzumhur/d923/overview",
+    "age": "32 (1992/05/20)",
+    "weight": "150 lbs (68kg)",
+    "height": "5'9\" (175cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Bosnia-Herzegovina"
   },
   {
     "rank": "104",
     "player": "Federico Coria",
-    "age": "32",
-    "country": "ARG",
-    "points": "588"
+    "playerLink": "https://www.atptour.com/en/players/federico-coria/ce77/overview",
+    "age": "32 (1992/03/09)",
+    "weight": "161 lbs (73kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "105",
     "player": "Mattia Bellucci",
-    "age": "23",
-    "country": "ITA",
-    "points": "586"
+    "playerLink": "https://www.atptour.com/en/players/mattia-bellucci/b0gg/overview",
+    "age": "23 (2001/06/01)",
+    "weight": "169 lbs (77kg)",
+    "height": "5'9\" (175cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Italy"
   },
   {
     "rank": "106",
     "player": "Camilo Ugo Carabelli",
-    "age": "25",
-    "country": "ARG",
-    "points": "581"
+    "playerLink": "https://www.atptour.com/en/players/camilo-ugo-carabelli/u182/overview",
+    "age": "25 (1999/06/17)",
+    "weight": "182 lbs (83kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "107",
     "player": "Harold Mayot",
-    "age": "22",
-    "country": "FRA",
-    "points": "567"
+    "playerLink": "https://www.atptour.com/en/players/harold-mayot/m0g4/overview",
+    "age": "22 (2002/02/04)",
+    "weight": "176 lbs (80kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "108",
     "player": "Alexander Ritschard",
-    "age": "30",
-    "country": "SUI",
-    "points": "545"
+    "playerLink": "https://www.atptour.com/en/players/alexander-ritschard/rc04/overview",
+    "age": "30 (1994/03/24)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Switzerland"
   },
   {
     "rank": "109",
-    "player": "Jesper de Jong",
-    "age": "24",
-    "country": "NED",
-    "points": "541"
+    "player": "Jesper De Jong",
+    "playerLink": "https://www.atptour.com/en/players/jesper-de-jong/d0c1/overview",
+    "age": "24 (2000/05/31)",
+    "weight": "154 lbs (70kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Netherlands"
   },
   {
     "rank": "110",
     "player": "Mikhail Kukushkin",
-    "age": "36",
-    "country": "KAZ",
-    "points": "541"
+    "playerLink": "https://www.atptour.com/en/players/mikhail-kukushkin/k926/overview",
+    "age": "36 (1987/12/26)",
+    "weight": "159 lbs (72kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Kazakhstan"
   },
   {
     "rank": "111",
     "player": "Francesco Passaro",
-    "age": "23",
-    "country": "ITA",
-    "points": "533"
+    "playerLink": "https://www.atptour.com/en/players/francesco-passaro/p0ct/overview",
+    "age": "23 (2001/01/07)",
+    "weight": "182 lbs (83kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Italy"
   },
   {
     "rank": "112",
-    "player": "Daniel Elahi Galán",
-    "age": "28",
-    "country": "COL",
-    "points": "519"
+    "player": "Daniel Elahi Galan",
+    "playerLink": "https://www.atptour.com/en/players/daniel-elahi-galan/ge33/overview",
+    "age": "28 (1996/06/18)",
+    "weight": "159 lbs (72kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Colombia"
   },
   {
     "rank": "113",
     "player": "Billy Harris",
-    "age": "29",
-    "country": "GBR",
-    "points": "511"
+    "playerLink": "https://www.atptour.com/en/players/billy-harris/hd68/overview",
+    "age": "29 (1995/01/25)",
+    "weight": "196 lbs (89kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Great Britain"
   },
   {
     "rank": "114",
     "player": "Luca Van Assche",
-    "age": "20",
-    "country": "FRA",
-    "points": "509"
+    "playerLink": "https://www.atptour.com/en/players/luca-van-assche/v0dz/overview",
+    "age": "20 (2004/05/11)",
+    "weight": "158 lbs (72kg)",
+    "height": "5'10\" (178cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "115",
-    "player": "Chun Hsin Tseng",
-    "age": "23",
-    "country": "TWN",
-    "points": "509"
+    "player": "Chun-Hsin Tseng",
+    "playerLink": "https://www.atptour.com/en/players/chun-hsin-tseng/t0ap/overview",
+    "age": "23 (2001/08/08)",
+    "weight": "143 lbs (65kg)",
+    "height": "5'9\" (175cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Chinese Taipei"
   },
   {
     "rank": "116",
     "player": "Kamil Majchrzak",
-    "age": "28",
-    "country": "POL",
-    "points": "506"
+    "playerLink": "https://www.atptour.com/en/players/kamil-majchrzak/mq75/overview",
+    "age": "28 (1996/01/13)",
+    "weight": "176 lbs (80kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Poland"
   },
   {
     "rank": "117",
-    "player": "Duje Ajduković",
-    "age": "23",
-    "country": "CRO",
-    "points": "506"
+    "player": "Duje Ajdukovic",
+    "playerLink": "https://www.atptour.com/en/players/duje-ajdukovic/a0cj/overview",
+    "age": "23 (2001/02/05)",
+    "weight": "171 lbs (78kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Croatia"
   },
   {
     "rank": "118",
-    "player": "Mackenzie McDonald",
-    "age": "29",
-    "country": "USA",
-    "points": "502"
+    "player": "Mackenzie Mcdonald",
+    "playerLink": "https://www.atptour.com/en/players/mackenzie-mcdonald/mk66/overview",
+    "age": "29 (1995/04/16)",
+    "weight": "160 lbs (73kg)",
+    "height": "5'10\" (178cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "119",
     "player": "Christopher Eubanks",
-    "age": "28",
-    "country": "USA",
-    "points": "501"
+    "playerLink": "https://www.atptour.com/en/players/christopher-eubanks/e865/overview",
+    "age": "28 (1996/05/05)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'7\" (201cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "120",
     "player": "Jaime Faria",
-    "age": "21",
-    "country": "POR",
-    "points": "501"
+    "playerLink": "https://www.atptour.com/en/players/jaime-faria/f0f2/overview",
+    "age": "21 (2003/08/06)",
+    "weight": "171 lbs (78kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Unknown Backhand",
+    "country": "Portugal"
   },
   {
     "rank": "121",
-    "player": "Thiago Agustín Tirante",
-    "age": "23",
-    "country": "ARG",
-    "points": "490"
+    "player": "Thiago Agustin Tirante",
+    "playerLink": "https://www.atptour.com/en/players/thiago-agustin-tirante/t0a1/overview",
+    "age": "23 (2001/04/10)",
+    "weight": "178 lbs (81kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "122",
     "player": "Hugo Dellien",
-    "age": "31",
-    "country": "BOL",
-    "points": "484"
+    "playerLink": "https://www.atptour.com/en/players/hugo-dellien/da31/overview",
+    "age": "31 (1993/06/16)",
+    "weight": "165 lbs (75kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Bolivia"
   },
   {
     "rank": "123",
     "player": "Nicolas Moreno De Alboran",
-    "age": "27",
-    "country": "USA",
-    "points": "483"
+    "playerLink": "https://www.atptour.com/en/players/nicolas-moreno-de-alboran/mw18/overview",
+    "age": "27 (1997/07/14)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "124",
-    "player": "Pierre Hugues Herbert",
-    "age": "33",
-    "country": "FRA",
-    "points": "483"
+    "player": "Pierre-Hugues Herbert",
+    "playerLink": "https://www.atptour.com/en/players/pierre-hugues-herbert/h996/overview",
+    "age": "33 (1991/03/18)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "125",
     "player": "Learner Tien",
-    "age": "18",
-    "country": "USA",
-    "points": "475"
+    "playerLink": "https://www.atptour.com/en/players/learner-tien/t0ha/overview",
+    "age": "18 (2005/12/02)",
+    "weight": "160 lbs (73kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "126",
     "player": "Benjamin Bonzi",
-    "age": "28",
-    "country": "FRA",
-    "points": "473"
+    "playerLink": "https://www.atptour.com/en/players/benjamin-bonzi/bm95/overview",
+    "age": "28 (1996/06/09)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "127",
     "player": "Valentin Vacherot",
-    "age": "25",
-    "country": "MON",
-    "points": "471"
+    "playerLink": "https://www.atptour.com/en/players/valentin-vacherot/va25/overview",
+    "age": "25 (1998/11/16)",
+    "weight": "184 lbs (83kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Monaco"
   },
   {
     "rank": "128",
-    "player": "Jozef Kovalík",
-    "age": "31",
-    "country": "SVK",
-    "points": "466"
+    "player": "Jozef Kovalik",
+    "playerLink": "https://www.atptour.com/en/players/jozef-kovalik/kc04/overview",
+    "age": "31 (1992/11/04)",
+    "weight": "181 lbs (82kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Slovak Republic"
   },
   {
     "rank": "129",
     "player": "Laslo Djere",
-    "age": "29",
-    "country": "SRB",
-    "points": "464"
+    "playerLink": "https://www.atptour.com/en/players/laslo-djere/db63/overview",
+    "age": "29 (1995/06/02)",
+    "weight": "181 lbs (82kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Serbia"
   },
   {
     "rank": "130",
-    "player": "Román Andrés Burruchaga",
-    "age": "22",
-    "country": "ARG",
-    "points": "462"
+    "player": "Roman Andres Burruchaga",
+    "playerLink": "https://www.atptour.com/en/players/roman-andres-burruchaga/b0fv/overview",
+    "age": "22 (2002/01/23)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "131",
     "player": "Lloyd Harris",
-    "age": "27",
-    "country": "RSA",
-    "points": "457"
+    "playerLink": "https://www.atptour.com/en/players/lloyd-harris/hg86/overview",
+    "age": "27 (1997/02/24)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "South Africa"
   },
   {
     "rank": "132",
     "player": "Leandro Riedi",
-    "age": "22",
-    "country": "SUI",
-    "points": "456"
+    "playerLink": "https://www.atptour.com/en/players/leandro-riedi/r0fs/overview",
+    "age": "22 (2002/01/27)",
+    "weight": "171 lbs (78kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Switzerland"
   },
   {
     "rank": "133",
     "player": "Richard Gasquet",
-    "age": "38",
-    "country": "FRA",
-    "points": "452"
+    "playerLink": "https://www.atptour.com/en/players/richard-gasquet/g628/overview",
+    "age": "38 (1986/06/18)",
+    "weight": "174 lbs (79kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "134",
-    "player": "Jérôme Kym",
-    "age": "21",
-    "country": "SUI",
-    "points": "445"
+    "player": "Jerome Kym",
+    "playerLink": "https://www.atptour.com/en/players/jerome-kym/k0ep/overview",
+    "age": "21 (2003/02/12)",
+    "weight": "192 lbs (87kg)",
+    "height": "6'6\" (198cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Switzerland"
   },
   {
     "rank": "135",
     "player": "Facundo Bagnis",
-    "age": "34",
-    "country": "ARG",
-    "points": "434"
+    "playerLink": "https://www.atptour.com/en/players/facundo-bagnis/bf23/overview",
+    "age": "34 (1990/02/27)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "136",
     "player": "Marco Trungelliti",
-    "age": "34",
-    "country": "ARG",
-    "points": "433"
+    "playerLink": "https://www.atptour.com/en/players/marco-trungelliti/ta29/overview",
+    "age": "34 (1990/01/31)",
+    "weight": "176 lbs (80kg)",
+    "height": "5'10\" (178cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "137",
     "player": "Maximilian Marterer",
-    "age": "29",
-    "country": "GER",
-    "points": "430"
+    "playerLink": "https://www.atptour.com/en/players/maximilian-marterer/mn13/overview",
+    "age": "",
+    "weight": "",
+    "height": "",
+    "handedness": "",
+    "country": ""
   },
   {
     "rank": "138",
     "player": "Matteo Gigante",
-    "age": "22",
-    "country": "ITA",
-    "points": "424"
+    "playerLink": "https://www.atptour.com/en/players/matteo-gigante/g0gd/overview",
+    "age": "22 (2002/01/04)",
+    "weight": "149 lbs (68kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Italy"
   },
   {
     "rank": "139",
     "player": "Yasutaka Uchiyama",
-    "age": "32",
-    "country": "JPN",
-    "points": "423"
+    "playerLink": "https://www.atptour.com/en/players/yasutaka-uchiyama/u134/overview",
+    "age": "32 (1992/08/05)",
+    "weight": "172 lbs (78kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Japan"
   },
   {
     "rank": "140",
     "player": "Kei Nishikori",
-    "age": "34",
-    "country": "JPN",
-    "points": "418"
+    "playerLink": "https://www.atptour.com/en/players/kei-nishikori/n552/overview",
+    "age": "34 (1989/12/29)",
+    "weight": "161 lbs (73kg)",
+    "height": "5'10\" (178cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Japan"
   },
   {
     "rank": "141",
-    "player": "Albert Ramos Viñolas",
-    "age": "36",
-    "country": "ESP",
-    "points": "415"
+    "player": "Albert Ramos-Vinolas",
+    "playerLink": "https://www.atptour.com/en/players/albert-ramos-vinolas/r772/overview",
+    "age": "36 (1988/01/17)",
+    "weight": "168 lbs (76kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Spain"
   },
   {
     "rank": "142",
-    "player": "Juan Manuel Cerúndolo",
-    "age": "22",
-    "country": "ARG",
-    "points": "412"
+    "player": "Juan Manuel Cerundolo",
+    "playerLink": "https://www.atptour.com/en/players/juan-manuel-cerundolo/c0c8/overview",
+    "age": "22 (2001/11/15)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "143",
     "player": "Radu Albot",
-    "age": "34",
-    "country": "MDA",
-    "points": "409"
+    "playerLink": "https://www.atptour.com/en/players/radu-albot/a829/overview",
+    "age": "34 (1989/11/11)",
+    "weight": "152 lbs (69kg)",
+    "height": "5'9\" (175cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Moldova"
   },
   {
     "rank": "144",
     "player": "Mitchell Krueger",
-    "age": "30",
-    "country": "USA",
-    "points": "407"
+    "playerLink": "https://www.atptour.com/en/players/mitchell-krueger/kc12/overview",
+    "age": "30 (1994/01/12)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "145",
     "player": "Seongchan Hong",
-    "age": "27",
-    "country": "KOR",
-    "points": "403"
+    "playerLink": "https://www.atptour.com/en/players/seongchan-hong/hc21/overview",
+    "age": "27 (1997/06/30)",
+    "weight": "143 lbs (65kg)",
+    "height": "5'9\" (175cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "South Korea"
   },
   {
     "rank": "146",
-    "player": "Lukáš Klein",
-    "age": "26",
-    "country": "SVK",
-    "points": "402"
+    "player": "Lukas Klein",
+    "playerLink": "https://www.atptour.com/en/players/lukas-klein/ki63/overview",
+    "age": "26 (1998/03/22)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Unknown Backhand",
+    "country": "Slovak Republic"
   },
   {
     "rank": "147",
-    "player": "Cristian Garín",
-    "age": "28",
-    "country": "CHI",
-    "points": "402"
+    "player": "Cristian Garin",
+    "playerLink": "https://www.atptour.com/en/players/cristian-garin/gd64/overview",
+    "age": "28 (1996/05/30)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Chile"
   },
   {
     "rank": "148",
-    "player": "Marc-Andrea Hüsler",
-    "age": "28",
-    "country": "SUI",
-    "points": "396"
+    "player": "Marc-Andrea Huesler",
+    "playerLink": "https://www.atptour.com/en/players/marc-andrea-huesler/hh06/overview",
+    "age": "28 (1996/06/24)",
+    "weight": "189 lbs (86kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Switzerland"
   },
   {
     "rank": "149",
     "player": "Stan Wawrinka",
-    "age": "39",
-    "country": "SUI",
-    "points": "393"
+    "playerLink": "https://www.atptour.com/en/players/stan-wawrinka/w367/overview",
+    "age": "39 (1985/03/28)",
+    "weight": "179 lbs (81kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "Switzerland"
   },
   {
     "rank": "150",
     "player": "Felipe Meligeni Alves",
-    "age": "26",
-    "country": "BRA",
-    "points": "393"
-  },
-  {
-    "rank": "Publicité",
-    "player": "",
-    "age": "",
-    "country": "",
-    "points": ""
+    "playerLink": "https://www.atptour.com/en/players/felipe-meligeni-alves/mw75/overview",
+    "age": "26 (1998/02/19)",
+    "weight": "182 lbs (83kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Brazil"
   },
   {
     "rank": "151",
     "player": "Joao Fonseca",
-    "age": "18",
-    "country": "BRA",
-    "points": "388"
+    "playerLink": "https://www.atptour.com/en/players/joao-fonseca/f0fv/overview",
+    "age": "18 (2006/08/21)",
+    "weight": "162 lbs (73kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Brazil"
   },
   {
     "rank": "152",
-    "player": "Vít Kopřiva",
-    "age": "27",
-    "country": "CZE",
-    "points": "384"
+    "player": "Vit Kopriva",
+    "playerLink": "https://www.atptour.com/en/players/vit-kopriva/ki82/overview",
+    "age": "27 (1997/06/15)",
+    "weight": "152 lbs (69kg)",
+    "height": "5'10\" (178cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Czechia"
   },
   {
     "rank": "153",
     "player": "Rafael Nadal",
-    "age": "38",
-    "country": "ESP",
-    "points": "380"
+    "playerLink": "https://www.atptour.com/en/players/rafael-nadal/n409/overview",
+    "age": "38 (1986/06/03)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Spain"
   },
   {
     "rank": "154",
     "player": "Hugo Grenier",
-    "age": "28",
-    "country": "FRA",
-    "points": "379"
+    "playerLink": "https://www.atptour.com/en/players/hugo-grenier/gf95/overview",
+    "age": "28 (1996/03/23)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "155",
-    "player": "Grégoire Barrère",
-    "age": "30",
-    "country": "FRA",
-    "points": "378"
+    "player": "Gregoire Barrere",
+    "playerLink": "https://www.atptour.com/en/players/gregoire-barrere/bk24/overview",
+    "age": "30 (1994/02/16)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "156",
     "player": "Terence Atmane",
-    "age": "22",
-    "country": "FRA",
-    "points": "376"
+    "playerLink": "https://www.atptour.com/en/players/terence-atmane/a0gc/overview",
+    "age": "22 (2002/01/09)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "157",
     "player": "Coleman Wong",
-    "age": "20",
-    "country": "HKG",
-    "points": "374"
+    "playerLink": "https://www.atptour.com/en/players/coleman-wong/w0bh/overview",
+    "age": "20 (2004/06/06)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Hong Kong"
   },
   {
     "rank": "158",
-    "player": "Hamad Medjedović",
-    "age": "21",
-    "country": "SRB",
-    "points": "373"
+    "player": "Hamad Medjedovic",
+    "playerLink": "https://www.atptour.com/en/players/hamad-medjedovic/m0jf/overview",
+    "age": "21 (2003/07/18)",
+    "weight": "190 lbs (86kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Serbia"
   },
   {
     "rank": "159",
     "player": "Tristan Boyer",
-    "age": "23",
-    "country": "USA",
-    "points": "372"
+    "playerLink": "https://www.atptour.com/en/players/tristan-boyer/b0ej/overview",
+    "age": "23 (2001/04/21)",
+    "weight": "185 lbs (84kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "160",
     "player": "Federico Agustin Gomez",
-    "age": "27",
-    "country": "ARG",
-    "points": "371"
+    "playerLink": "https://www.atptour.com/en/players/federico-agustin-gomez/gj16/overview",
+    "age": "27 (1996/11/26)",
+    "weight": "210 lbs (95kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "161",
-    "player": "Alejandro Moro Cañas",
-    "age": "23",
-    "country": "ESP",
-    "points": "368"
+    "player": "Alejandro Moro Canas",
+    "playerLink": "https://www.atptour.com/en/players/alejandro-moro-canas/m0ht/overview",
+    "age": "23 (2000/12/07)",
+    "weight": "171 lbs (78kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Spain"
   },
   {
     "rank": "162",
     "player": "Martin Landaluce",
-    "age": "18",
-    "country": "ESP",
-    "points": "368"
+    "playerLink": "https://www.atptour.com/en/players/martin-landaluce/l0il/overview",
+    "age": "18 (2006/01/08)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Spain"
   },
   {
     "rank": "163",
     "player": "Daniel Evans",
-    "age": "34",
-    "country": "GBR",
-    "points": "364"
+    "playerLink": "https://www.atptour.com/en/players/daniel-evans/e687/overview",
+    "age": "34 (1990/05/23)",
+    "weight": "165 lbs (75kg)",
+    "height": "5'9\" (175cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "Great Britain"
   },
   {
     "rank": "164",
     "player": "Stefano Napolitano",
-    "age": "29",
-    "country": "ITA",
-    "points": "364"
+    "playerLink": "https://www.atptour.com/en/players/stefano-napolitano/n679/overview",
+    "age": "",
+    "weight": "",
+    "height": "",
+    "handedness": "",
+    "country": ""
   },
   {
     "rank": "165",
     "player": "Zachary Svajda",
-    "age": "21",
-    "country": "USA",
-    "points": "360"
+    "playerLink": "https://www.atptour.com/en/players/zachary-svajda/s0k7/overview",
+    "age": "21 (2002/11/29)",
+    "weight": "145 lbs (66kg)",
+    "height": "5'9\" (175cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "166",
     "player": "Gustavo Heide",
-    "age": "22",
-    "country": "BRA",
-    "points": "358"
+    "playerLink": "https://www.atptour.com/en/players/gustavo-heide/h0du/overview",
+    "age": "22 (2002/02/28)",
+    "weight": "183 lbs (83kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Brazil"
   },
   {
     "rank": "167",
-    "player": "Raphaël Collignon",
-    "age": "22",
-    "country": "BEL",
-    "points": "358"
+    "player": "Raphael Collignon",
+    "playerLink": "https://www.atptour.com/en/players/raphael-collignon/c0jp/overview",
+    "age": "22 (2002/01/13)",
+    "weight": "189 lbs (86kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Belgium"
   },
   {
     "rank": "168",
     "player": "August Holmgren",
-    "age": "26",
-    "country": "DEN",
-    "points": "352"
+    "playerLink": "https://www.atptour.com/en/players/august-holmgren/h09n/overview",
+    "age": "26 (1998/04/22)",
+    "weight": "185 lbs (84kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "Denmark"
   },
   {
     "rank": "169",
     "player": "Patrick Kypson",
-    "age": "25",
-    "country": "USA",
-    "points": "350"
+    "playerLink": "https://www.atptour.com/en/players/patrick-kypson/k0a3/overview",
+    "age": "24 (1999/10/28)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "170",
-    "player": "Tomás Barrios Vera",
-    "age": "26",
-    "country": "CHI",
-    "points": "344"
+    "player": "Tomas Barrios Vera",
+    "playerLink": "https://www.atptour.com/en/players/tomas-barrios-vera/bs86/overview",
+    "age": "26 (1997/12/10)",
+    "weight": "194 lbs (88kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Chile"
   },
   {
     "rank": "171",
-    "player": "Elmer Møller",
-    "age": "21",
-    "country": "DEN",
-    "points": "340"
+    "player": "Elmer Moller",
+    "playerLink": "https://www.atptour.com/en/players/elmer-moller/m0k4/overview",
+    "age": "21 (2003/07/09)",
+    "weight": "160 lbs (73kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Denmark"
   },
   {
     "rank": "172",
     "player": "Gijs Brouwer",
-    "age": "28",
-    "country": "NED",
-    "points": "339"
+    "playerLink": "https://www.atptour.com/en/players/gijs-brouwer/bo10/overview",
+    "age": "28 (1996/03/14)",
+    "weight": "161 lbs (73kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Netherlands"
   },
   {
     "rank": "173",
     "player": "Titouan Droguet",
-    "age": "23",
-    "country": "FRA",
-    "points": "338"
+    "playerLink": "https://www.atptour.com/en/players/titouan-droguet/d0dw/overview",
+    "age": "23 (2001/06/15)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "174",
     "player": "Juan Pablo Ficovich",
-    "age": "27",
-    "country": "ARG",
-    "points": "338"
+    "playerLink": "https://www.atptour.com/en/players/juan-pablo-ficovich/fa43/overview",
+    "age": "27 (1997/01/24)",
+    "weight": "174 lbs (79kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "175",
     "player": "Dmitry Popko",
-    "age": "28",
-    "country": "KAZ",
-    "points": "334"
+    "playerLink": "https://www.atptour.com/en/players/dmitry-popko/pg20/overview",
+    "age": "28 (1996/10/24)",
+    "weight": "192 lbs (87kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Kazakhstan"
   },
   {
     "rank": "176",
     "player": "Sho Shimabukuro",
-    "age": "27",
-    "country": "JPN",
-    "points": "333"
+    "playerLink": "https://www.atptour.com/en/players/sho-shimabukuro/sy67/overview",
+    "age": "27 (1997/07/30)",
+    "weight": "173 lbs (78kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Japan"
   },
   {
     "rank": "177",
     "player": "Tristan Schoolkate",
-    "age": "23",
-    "country": "AUS",
-    "points": "329"
+    "playerLink": "https://www.atptour.com/en/players/tristan-schoolkate/s0n0/overview",
+    "age": "23 (2001/02/26)",
+    "weight": "184 lbs (83kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Unknown Backhand",
+    "country": "Australia"
   },
   {
     "rank": "178",
     "player": "Alex Bolt",
-    "age": "31",
-    "country": "AUS",
-    "points": "329"
+    "playerLink": "https://www.atptour.com/en/players/alex-bolt/bi81/overview",
+    "age": "31 (1993/01/05)",
+    "weight": "156 lbs (71kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Australia"
   },
   {
     "rank": "179",
     "player": "Henrique Rocha",
-    "age": "20",
-    "country": "POR",
-    "points": "328"
+    "playerLink": "https://www.atptour.com/en/players/henrique-rocha/r0go/overview",
+    "age": "20 (2004/04/06)",
+    "weight": "184 lbs (83kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Portugal"
   },
   {
     "rank": "180",
     "player": "Paul Jubb",
-    "age": "24",
-    "country": "GBR",
-    "points": "324"
+    "playerLink": "https://www.atptour.com/en/players/paul-jubb/j0a4/overview",
+    "age": "24 (1999/10/31)",
+    "weight": "158 lbs (72kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Great Britain"
   },
   {
     "rank": "181",
-    "player": "Maks Kaśnikowski",
-    "age": "21",
-    "country": "POL",
-    "points": "319"
+    "player": "Maks Kasnikowski",
+    "playerLink": "https://www.atptour.com/en/players/maks-kasnikowski/k0hc/overview",
+    "age": "21 (2003/07/06)",
+    "weight": "172 lbs (78kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Poland"
   },
   {
     "rank": "182",
-    "player": "Mattéo Martineau",
-    "age": "25",
-    "country": "FRA",
-    "points": "316"
+    "player": "Matteo Martineau",
+    "playerLink": "https://www.atptour.com/en/players/matteo-martineau/mw76/overview",
+    "age": "25 (1999/01/16)",
+    "weight": "173 lbs (78kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "183",
     "player": "Valentin Royer",
-    "age": "23",
-    "country": "FRA",
-    "points": "316"
+    "playerLink": "https://www.atptour.com/en/players/valentin-royer/r0eb/overview",
+    "age": "23 (2001/05/29)",
+    "weight": "189 lbs (86kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "184",
     "player": "Li Tu",
-    "age": "28",
-    "country": "AUS",
-    "points": "315"
+    "playerLink": "https://www.atptour.com/en/players/li-tu/tc01/overview",
+    "age": "28 (1996/05/27)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "Australia"
   },
   {
     "rank": "185",
     "player": "Beibit Zhukayev",
-    "age": "24",
-    "country": "KAZ",
-    "points": "315"
+    "playerLink": "https://www.atptour.com/en/players/beibit-zhukayev/z09z/overview",
+    "age": "24 (2000/10/12)",
+    "weight": "205 lbs (93kg)",
+    "height": "6'6\" (198cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Kazakhstan"
   },
   {
     "rank": "186",
     "player": "Alibek Kachmazov",
-    "age": "22",
-    "country": "RUS",
-    "points": "315"
+    "playerLink": "https://www.atptour.com/en/players/alibek-kachmazov/k0e6/overview",
+    "age": "22 (2002/08/17)",
+    "weight": "179 lbs (81kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Unknown Backhand",
+    "country": ""
   },
   {
     "rank": "187",
     "player": "Omar Jasika",
-    "age": "27",
-    "country": "AUS",
-    "points": "314"
+    "playerLink": "https://www.atptour.com/en/players/omar-jasika/j553/overview",
+    "age": "27 (1997/05/18)",
+    "weight": "132 lbs (60kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Australia"
   },
   {
     "rank": "188",
     "player": "Jan Choinski",
-    "age": "28",
-    "country": "GBR",
-    "points": "314"
+    "playerLink": "https://www.atptour.com/en/players/jan-choinski/ch12/overview",
+    "age": "28 (1996/06/10)",
+    "weight": "193 lbs (88kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Great Britain"
   },
   {
     "rank": "189",
     "player": "Henri Squire",
-    "age": "24",
-    "country": "GER",
-    "points": "313"
+    "playerLink": "https://www.atptour.com/en/players/henri-squire/s0ak/overview",
+    "age": "24 (2000/09/27)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Germany"
   },
   {
     "rank": "190",
     "player": "Murkel Dellien",
-    "age": "27",
-    "country": "BOL",
-    "points": "312"
+    "playerLink": "https://www.atptour.com/en/players/murkel-dellien/dc48/overview",
+    "age": "27 (1997/09/16)",
+    "weight": "185 lbs (84kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Bolivia"
   },
   {
     "rank": "191",
     "player": "Stefano Travaglia",
-    "age": "32",
-    "country": "ITA",
-    "points": "306"
+    "playerLink": "https://www.atptour.com/en/players/stefano-travaglia/ta12/overview",
+    "age": "32 (1991/12/28)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Italy"
   },
   {
     "rank": "192",
     "player": "Vilius Gaubas",
-    "age": "19",
-    "country": "LTU",
-    "points": "305"
+    "playerLink": "https://www.atptour.com/en/players/vilius-gaubas/g0fw/overview",
+    "age": "19 (2004/12/29)",
+    "weight": "158 lbs (72kg)",
+    "height": "5'10\" (178cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Lithuania"
   },
   {
     "rank": "193",
     "player": "Timofey Skatov",
-    "age": "23",
-    "country": "KAZ",
-    "points": "299"
+    "playerLink": "https://www.atptour.com/en/players/timofey-skatov/s0gr/overview",
+    "age": "23 (2001/01/21)",
+    "weight": "159 lbs (72kg)",
+    "height": "5'9\" (175cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Kazakhstan"
   },
   {
     "rank": "194",
     "player": "Brandon Holt",
-    "age": "26",
-    "country": "USA",
-    "points": "298"
+    "playerLink": "https://www.atptour.com/en/players/brandon-holt/h09p/overview",
+    "age": "26 (1998/04/06)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "195",
     "player": "Carlos Taberner",
-    "age": "27",
-    "country": "ESP",
-    "points": "298"
+    "playerLink": "https://www.atptour.com/en/players/carlos-taberner/te16/overview",
+    "age": "27 (1997/08/08)",
+    "weight": "172 lbs (78kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Spain"
   },
   {
     "rank": "196",
     "player": "Constant Lestienne",
-    "age": "32",
-    "country": "FRA",
-    "points": "296"
+    "playerLink": "https://www.atptour.com/en/players/constant-lestienne/lb66/overview",
+    "age": "32 (1992/05/23)",
+    "weight": "156 lbs (71kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "197",
     "player": "Nishesh Basavareddy",
-    "age": "19",
-    "country": "USA",
-    "points": "296"
+    "playerLink": "https://www.atptour.com/en/players/nishesh-basavareddy/b0nn/overview",
+    "age": "19 (2005/05/02)",
+    "weight": "154 lbs (70kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "198",
     "player": "Aziz Dougaz",
-    "age": "27",
-    "country": "TUN",
-    "points": "295"
+    "playerLink": "https://www.atptour.com/en/players/aziz-dougaz/df88/overview",
+    "age": "27 (1997/03/26)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Tunisia"
   },
   {
     "rank": "199",
     "player": "Facundo Mena",
-    "age": "32",
-    "country": "ARG",
-    "points": "292"
+    "playerLink": "https://www.atptour.com/en/players/facundo-mena/mj98/overview",
+    "age": "32 (1992/09/22)",
+    "weight": "178 lbs (81kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "200",
-    "player": "Clément Chidekh",
-    "age": "23",
-    "country": "FRA",
-    "points": "289"
-  },
-  {
-    "rank": "Publicité",
-    "player": "",
-    "age": "",
-    "country": "",
-    "points": ""
+    "player": "Clement Chidekh",
+    "playerLink": "https://www.atptour.com/en/players/clement-chidekh/c0bh/overview",
+    "age": "23 (2001/06/13)",
+    "weight": "165 lbs (75kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "201",
-    "player": "Marin Čilić",
-    "age": "36",
-    "country": "CRO",
-    "points": "288"
+    "player": "Marin Cilic",
+    "playerLink": "https://www.atptour.com/en/players/marin-cilic/c977/overview",
+    "age": "36 (1988/09/28)",
+    "weight": "196 lbs (89kg)",
+    "height": "6'6\" (198cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Croatia"
   },
   {
     "rank": "202",
     "player": "Jurij Rodionov",
-    "age": "25",
-    "country": "AUT",
-    "points": "288"
+    "playerLink": "https://www.atptour.com/en/players/jurij-rodionov/r09x/overview",
+    "age": "25 (1999/05/16)",
+    "weight": "184 lbs (83kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Austria"
   },
   {
     "rank": "203",
-    "player": "Pablo Carreño Busta",
-    "age": "33",
-    "country": "ESP",
-    "points": "286"
+    "player": "Pablo Carreno Busta",
+    "playerLink": "https://www.atptour.com/en/players/pablo-carreno-busta/cd85/overview",
+    "age": "33 (1991/07/12)",
+    "weight": "172 lbs (78kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Spain"
   },
   {
     "rank": "204",
     "player": "Emilio Nava",
-    "age": "22",
-    "country": "USA",
-    "points": "285"
+    "playerLink": "https://www.atptour.com/en/players/emilio-nava/n0am/overview",
+    "age": "22 (2001/12/02)",
+    "weight": "174 lbs (79kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "205",
     "player": "Juan Pablo Varillas",
-    "age": "29",
-    "country": "PER",
-    "points": "282"
+    "playerLink": "https://www.atptour.com/en/players/juan-pablo-varillas/v836/overview",
+    "age": "29 (1995/10/06)",
+    "weight": "170 lbs (77kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Peru"
   },
   {
     "rank": "206",
     "player": "Andrea Collarini",
-    "age": "32",
-    "country": "ARG",
-    "points": "282"
+    "playerLink": "https://www.atptour.com/en/players/andrea-collarini/cc66/overview",
+    "age": "32 (1992/01/31)",
+    "weight": "171 lbs (78kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "207",
     "player": "Bernard Tomic",
-    "age": "32",
-    "country": "AUS",
-    "points": "279"
+    "playerLink": "https://www.atptour.com/en/players/bernard-tomic/ta46/overview",
+    "age": "32 (1992/10/21)",
+    "weight": "201 lbs (91kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Australia"
   },
   {
     "rank": "208",
     "player": "Enzo Couacaud",
-    "age": "29",
-    "country": "FRA",
-    "points": "277"
+    "playerLink": "https://www.atptour.com/en/players/enzo-couacaud/cg94/overview",
+    "age": "29 (1995/03/01)",
+    "weight": "172 lbs (78kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "209",
     "player": "Adrian Andreev",
-    "age": "23",
-    "country": "BUL",
-    "points": "277"
+    "playerLink": "https://www.atptour.com/en/players/adrian-andreev/a0ab/overview",
+    "age": "23 (2001/05/12)",
+    "weight": "160 lbs (73kg)",
+    "height": "5'9\" (175cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Bulgaria"
   },
   {
     "rank": "210",
     "player": "Nick Hardt",
-    "age": "24",
-    "country": "DOM",
-    "points": "274"
+    "playerLink": "https://www.atptour.com/en/players/nick-hardt/h0a4/overview",
+    "age": "24 (2000/09/20)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Dominican Republic"
   },
   {
     "rank": "211",
     "player": "Javier Barranco Cosano",
-    "age": "25",
-    "country": "ESP",
-    "points": "271"
+    "playerLink": "https://www.atptour.com/en/players/javier-barranco-cosano/bv25/overview",
+    "age": "25 (1998/11/17)",
+    "weight": "161 lbs (73kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Spain"
   },
   {
     "rank": "212",
     "player": "Mark Lajal",
-    "age": "21",
-    "country": "EST",
-    "points": "270"
+    "playerLink": "https://www.atptour.com/en/players/mark-lajal/l0gh/overview",
+    "age": "21 (2003/05/12)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Estonia"
   },
   {
     "rank": "213",
     "player": "Oriol Roca Batalla",
-    "age": "31",
-    "country": "ESP",
-    "points": "266"
+    "playerLink": "https://www.atptour.com/en/players/oriol-roca-batalla/rb60/overview",
+    "age": "31 (1993/04/30)",
+    "weight": "165 lbs (75kg)",
+    "height": "5'9\" (175cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "Spain"
   },
   {
     "rank": "214",
-    "player": "Filip Jianu",
-    "age": "23",
-    "country": "ROU",
-    "points": "262"
+    "player": "Filip Cristian Jianu",
+    "playerLink": "https://www.atptour.com/en/players/filip-cristian-jianu/j09x/overview",
+    "age": "23 (2001/09/18)",
+    "weight": "171 lbs (78kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Romania"
   },
   {
     "rank": "215",
     "player": "Ugo Blanchet",
-    "age": "25",
-    "country": "FRA",
-    "points": "261"
+    "playerLink": "https://www.atptour.com/en/players/ugo-blanchet/bv16/overview",
+    "age": "25 (1999/01/05)",
+    "weight": "157 lbs (71kg)",
+    "height": "5'9\" (175cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "216",
-    "player": "Nicolás Mejía",
-    "age": "24",
-    "country": "COL",
-    "points": "260"
+    "player": "Nicolas Mejia",
+    "playerLink": "https://www.atptour.com/en/players/nicolas-mejia/m0aw/overview",
+    "age": "24 (2000/02/11)",
+    "weight": "175 lbs (79kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Colombia"
   },
   {
     "rank": "217",
     "player": "Denis Kudla",
-    "age": "32",
-    "country": "USA",
-    "points": "259"
+    "playerLink": "https://www.atptour.com/en/players/denis-kudla/kb09/overview",
+    "age": "32 (1992/08/17)",
+    "weight": "175 lbs (79kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "218",
     "player": "Marc Polmans",
-    "age": "27",
-    "country": "AUS",
-    "points": "258"
+    "playerLink": "https://www.atptour.com/en/players/marc-polmans/pg94/overview",
+    "age": "27 (1997/05/02)",
+    "weight": "172 lbs (78kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Australia"
   },
   {
     "rank": "219",
     "player": "Ethan Quinn",
-    "age": "20",
-    "country": "USA",
-    "points": "257"
+    "playerLink": "https://www.atptour.com/en/players/ethan-quinn/q02l/overview",
+    "age": "20 (2004/03/12)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "220",
     "player": "Denis Yevseyev",
-    "age": "31",
-    "country": "KAZ",
-    "points": "256"
+    "playerLink": "https://www.atptour.com/en/players/denis-yevseyev/y171/overview",
+    "age": "31 (1993/05/22)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Kazakhstan"
   },
   {
     "rank": "221",
-    "player": "Yu-hsiou Hsu",
-    "age": "25",
-    "country": "TWN",
-    "points": "256"
+    "player": "Yu Hsiou Hsu",
+    "playerLink": "https://www.atptour.com/en/players/yu-hsiou-hsu/h09f/overview",
+    "age": "25 (1999/04/02)",
+    "weight": "165 lbs (75kg)",
+    "height": "5'10\" (178cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Chinese Taipei"
   },
   {
     "rank": "222",
     "player": "Michael Mmoh",
-    "age": "26",
-    "country": "USA",
-    "points": "255"
+    "playerLink": "https://www.atptour.com/en/players/michael-mmoh/mp01/overview",
+    "age": "26 (1998/01/10)",
+    "weight": "198 lbs (90kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "223",
     "player": "Antoine Escoffier",
-    "age": "32",
-    "country": "FRA",
-    "points": "255"
+    "playerLink": "https://www.atptour.com/en/players/antoine-escoffier/e768/overview",
+    "age": "32 (1992/02/29)",
+    "weight": "173 lbs (78kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "224",
     "player": "Yuta Shimizu",
-    "age": "25",
-    "country": "JPN",
-    "points": "254"
+    "playerLink": "https://www.atptour.com/en/players/yuta-shimizu/s0aq/overview",
+    "age": "25 (1999/06/09)",
+    "weight": "136 lbs (62kg)",
+    "height": "5'4\" (163cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Japan"
   },
   {
     "rank": "225",
     "player": "Ignacio Buse",
-    "age": "20",
-    "country": "PER",
-    "points": "254"
+    "playerLink": "https://www.atptour.com/en/players/ignacio-buse/b0id/overview",
+    "age": "20 (2004/03/25)",
+    "weight": "171 lbs (78kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Peru"
   },
   {
     "rank": "226",
     "player": "Gianluca Mager",
-    "age": "29",
-    "country": "ITA",
-    "points": "251"
+    "playerLink": "https://www.atptour.com/en/players/gianluca-mager/ml57/overview",
+    "age": "29 (1994/12/01)",
+    "weight": "170 lbs (77kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Italy"
   },
   {
     "rank": "227",
     "player": "Maxime Cressy",
-    "age": "27",
-    "country": "USA",
-    "points": "251"
+    "playerLink": "https://www.atptour.com/en/players/maxime-cressy/c0bc/overview",
+    "age": "27 (1997/05/08)",
+    "weight": "189 lbs (86kg)",
+    "height": "6'7\" (201cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "228",
-    "player": "Tung Lin Wu",
-    "age": "26",
-    "country": "TWN",
-    "points": "251"
+    "player": "Tung-Lin Wu",
+    "playerLink": "https://www.atptour.com/en/players/tung-lin-wu/w857/overview",
+    "age": "26 (1998/05/12)",
+    "weight": "179 lbs (81kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Chinese Taipei"
   },
   {
     "rank": "229",
     "player": "Abdullah Shelbayh",
-    "age": "20",
-    "country": "JOR",
-    "points": "245"
+    "playerLink": "https://www.atptour.com/en/players/abdullah-shelbayh/s0nv/overview",
+    "age": "20 (2003/11/16)",
+    "weight": "162 lbs (73kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Jordan"
   },
   {
     "rank": "230",
-    "player": "Santiago Taverna",
-    "age": "25",
-    "country": "ARG",
-    "points": "244"
+    "player": "Santiago Rodriguez Taverna",
+    "playerLink": "https://www.atptour.com/en/players/santiago-rodriguez-taverna/rh59/overview",
+    "age": "",
+    "weight": "",
+    "height": "",
+    "handedness": "",
+    "country": ""
   },
   {
     "rank": "231",
     "player": "J.J. Wolf",
-    "age": "25",
-    "country": "USA",
-    "points": "243"
+    "playerLink": "https://www.atptour.com/en/players/j.j.-wolf/w09g/overview",
+    "age": "25 (1998/12/21)",
+    "weight": "178 lbs (81kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "232",
     "player": "Khumoyun Sultanov",
-    "age": "26",
-    "country": "UZB",
-    "points": "243"
+    "playerLink": "https://www.atptour.com/en/players/khumoyun-sultanov/sr81/overview",
+    "age": "26 (1998/10/27)",
+    "weight": "176 lbs (80kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Uzbekistan"
   },
   {
     "rank": "233",
     "player": "Adolfo Daniel Vallejo",
-    "age": "20",
-    "country": "PAR",
-    "points": "243"
+    "playerLink": "https://www.atptour.com/en/players/adolfo-daniel-vallejo/v0dp/overview",
+    "age": "20 (2004/04/28)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Paraguay"
   },
   {
     "rank": "234",
-    "player": "Calvin Hémery",
-    "age": "29",
-    "country": "FRA",
-    "points": "243"
+    "player": "Calvin Hemery",
+    "playerLink": "https://www.atptour.com/en/players/calvin-hemery/hb48/overview",
+    "age": "29 (1995/01/28)",
+    "weight": "184 lbs (83kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "235",
     "player": "Liam Draxl",
-    "age": "22",
-    "country": "CAN",
-    "points": "242"
+    "playerLink": "https://www.atptour.com/en/players/liam-draxl/d0dp/overview",
+    "age": "22 (2001/12/05)",
+    "weight": "175 lbs (79kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Canada"
   },
   {
     "rank": "236",
     "player": "Alexis Galarneau",
-    "age": "25",
-    "country": "CAN",
-    "points": "241"
+    "playerLink": "https://www.atptour.com/en/players/alexis-galarneau/gk06/overview",
+    "age": "25 (1999/03/02)",
+    "weight": "175 lbs (79kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Canada"
   },
   {
     "rank": "237",
     "player": "Giulio Zeppieri",
-    "age": "22",
-    "country": "ITA",
-    "points": "240"
+    "playerLink": "https://www.atptour.com/en/players/giulio-zeppieri/z0a1/overview",
+    "age": "22 (2001/12/07)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Italy"
   },
   {
     "rank": "238",
     "player": "Shintaro Mochizuki",
-    "age": "21",
-    "country": "JPN",
-    "points": "240"
+    "playerLink": "https://www.atptour.com/en/players/shintaro-mochizuki/m0hu/overview",
+    "age": "21 (2003/06/02)",
+    "weight": "154 lbs (70kg)",
+    "height": "5'9\" (175cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Japan"
   },
   {
     "rank": "239",
     "player": "Milos Raonic",
-    "age": "33",
-    "country": "CAN",
-    "points": "240"
+    "playerLink": "https://www.atptour.com/en/players/milos-raonic/r975/overview",
+    "age": "33 (1990/12/27)",
+    "weight": "216 lbs (98kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Canada"
   },
   {
     "rank": "240",
     "player": "Rudolf Molleker",
-    "age": "24",
-    "country": "GER",
-    "points": "239"
+    "playerLink": "https://www.atptour.com/en/players/rudolf-molleker/m0ac/overview",
+    "age": "24 (2000/10/26)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Germany"
   },
   {
     "rank": "241",
     "player": "Federico Arnaboldi",
-    "age": "24",
-    "country": "ITA",
-    "points": "236"
+    "playerLink": "https://www.atptour.com/en/players/federico-arnaboldi/a0ba/overview",
+    "age": "24 (2000/06/18)",
+    "weight": "173 lbs (78kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Italy"
   },
   {
     "rank": "242",
     "player": "Benjamin Hassan",
-    "age": "29",
-    "country": "GER",
-    "points": "235"
+    "playerLink": "https://www.atptour.com/en/players/benjamin-hassan/hg94/overview",
+    "age": "29 (1995/02/04)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Lebanon"
   },
   {
     "rank": "243",
-    "player": "Alexander Blockx",
-    "age": "19",
-    "country": "BEL",
-    "points": "235"
+    "player": null,
+    "playerLink": "https://www.atptour.com/en/players/alexander-blockx/b0pg/overview",
+    "age": ""
   },
   {
     "rank": "244",
     "player": "Gonzalo Bueno",
-    "age": "20",
-    "country": "PER",
-    "points": "235"
+    "playerLink": "https://www.atptour.com/en/players/gonzalo-bueno/b0gr/overview",
+    "age": "20 (2004/04/03)",
+    "weight": "160 lbs (73kg)",
+    "height": "5'8\" (173cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Peru"
   },
   {
     "rank": "245",
     "player": "Eliot Spizzirri",
-    "age": "22",
-    "country": "USA",
-    "points": "231"
+    "playerLink": "https://www.atptour.com/en/players/eliot-spizzirri/s0ja/overview",
+    "age": "22 (2001/12/23)",
+    "weight": "168 lbs (76kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "246",
-    "player": "Andrés Andrade",
-    "age": "25",
-    "country": "ECU",
-    "points": "231"
+    "player": "Andres Andrade",
+    "playerLink": "https://www.atptour.com/en/players/andres-andrade/ag08/overview",
+    "age": "25 (1998/12/14)",
+    "weight": "160 lbs (73kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Ecuador"
   },
   {
     "rank": "247",
     "player": "Maxime Janvier",
-    "age": "28",
-    "country": "FRA",
-    "points": "225"
+    "playerLink": "https://www.atptour.com/en/players/maxime-janvier/j620/overview",
+    "age": "28 (1996/10/18)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "248",
     "player": "Zsombor Piros",
-    "age": "25",
-    "country": "HUN",
-    "points": "225"
+    "playerLink": "https://www.atptour.com/en/players/zsombor-piros/p09o/overview",
+    "age": "25 (1999/10/13)",
+    "weight": "150 lbs (68kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Hungary"
   },
   {
     "rank": "249",
     "player": "Geoffrey Blancaneaux",
-    "age": "26",
-    "country": "FRA",
-    "points": "223"
+    "playerLink": "https://www.atptour.com/en/players/geoffrey-blancaneaux/bu54/overview",
+    "age": "26 (1998/08/08)",
+    "weight": "165 lbs (75kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "250",
     "player": "Jay Clarke",
-    "age": "26",
-    "country": "GBR",
-    "points": "223"
-  },
-  {
-    "rank": "Publicité",
-    "player": "",
-    "age": "",
-    "country": "",
-    "points": ""
-  },
-  {
-    "rank": "251",
-    "player": "James Trotter",
-    "age": "25",
-    "country": "JPN",
-    "points": "220"
-  },
-  {
-    "rank": "252",
-    "player": "Andrea Vavassori",
-    "age": "29",
-    "country": "ITA",
-    "points": "219"
-  },
-  {
-    "rank": "253",
-    "player": "Charles Broom",
-    "age": "26",
-    "country": "GBR",
-    "points": "217"
-  },
-  {
-    "rank": "254",
-    "player": "Álvaro Guillén Meza",
-    "age": "21",
-    "country": "ECU",
-    "points": "217"
-  },
-  {
-    "rank": "255",
-    "player": "Edas Butvilas",
-    "age": "20",
-    "country": "LTU",
-    "points": "214"
-  },
-  {
-    "rank": "256",
-    "player": "Samuel Vincent Ruggeri",
-    "age": "22",
-    "country": "ITA",
-    "points": "213"
-  },
-  {
-    "rank": "257",
-    "player": "Andrea Pellegrino",
-    "age": "27",
-    "country": "ITA",
-    "points": "210"
-  },
-  {
-    "rank": "258",
-    "player": "Lukas Neumayer",
-    "age": "22",
-    "country": "AUT",
-    "points": "209"
-  },
-  {
-    "rank": "259",
-    "player": "Gauthier Onclin",
-    "age": "23",
-    "country": "BEL",
-    "points": "205"
-  },
-  {
-    "rank": "260",
-    "player": "Manuel Guinard",
-    "age": "28",
-    "country": "FRA",
-    "points": "204"
-  },
-  {
-    "rank": "261",
-    "player": "Dalibor Svrčina",
-    "age": "22",
-    "country": "CZE",
-    "points": "204"
-  },
-  {
-    "rank": "262",
-    "player": "James McCabe",
-    "age": "21",
-    "country": "AUS",
-    "points": "204"
-  },
-  {
-    "rank": "263",
-    "player": "Daniel Rincon",
-    "age": "21",
-    "country": "ESP",
-    "points": "201"
-  },
-  {
-    "rank": "264",
-    "player": "Gabriel Debru",
-    "age": "18",
-    "country": "FRA",
-    "points": "200"
-  },
-  {
-    "rank": "265",
-    "player": "Yan Bai",
-    "age": "35",
-    "country": "CHN",
-    "points": "200"
-  },
-  {
-    "rank": "266",
-    "player": "Matej Dodig",
-    "age": "19",
-    "country": "CRO",
-    "points": "200"
-  },
-  {
-    "rank": "267",
-    "player": "Rio Noguchi",
-    "age": "25",
-    "country": "JPN",
-    "points": "198"
-  },
-  {
-    "rank": "268",
-    "player": "Pol Martín Tiffon",
-    "age": "25",
-    "country": "ESP",
-    "points": "198"
-  },
-  {
-    "rank": "269",
-    "player": "Gonzalo Oliveira",
-    "age": "29",
-    "country": "VEN",
-    "points": "198"
-  },
-  {
-    "rank": "270",
-    "player": "Karue Sell",
-    "age": "30",
-    "country": "BRA",
-    "points": "196"
-  },
-  {
-    "rank": "271",
-    "player": "Robin Bertrand",
-    "age": "21",
-    "country": "FRA",
-    "points": "196"
-  },
-  {
-    "rank": "272",
-    "player": "Guy Den Ouden",
-    "age": "22",
-    "country": "NED",
-    "points": "195"
-  },
-  {
-    "rank": "273",
-    "player": "Yosuke Watanuki",
-    "age": "26",
-    "country": "JPN",
-    "points": "194"
-  },
-  {
-    "rank": "274",
-    "player": "Daniel Masur",
-    "age": "29",
-    "country": "GER",
-    "points": "194"
-  },
-  {
-    "rank": "275",
-    "player": "Lorenzo Giustino",
-    "age": "33",
-    "country": "ITA",
-    "points": "193"
-  },
-  {
-    "rank": "276",
-    "player": "Enrico Dalla Valle",
-    "age": "26",
-    "country": "ITA",
-    "points": "193"
-  },
-  {
-    "rank": "277",
-    "player": "Juan Carlos Prado Angelo",
-    "age": "19",
-    "country": "BOL",
-    "points": "192"
-  },
-  {
-    "rank": "278",
-    "player": "Jules Marie",
-    "age": "33",
-    "country": "FRA",
-    "points": "192"
-  },
-  {
-    "rank": "279",
-    "player": "Kyrian Jacquet",
-    "age": "23",
-    "country": "FRA",
-    "points": "191"
-  },
-  {
-    "rank": "280",
-    "player": "Mateus Alves",
-    "age": "23",
-    "country": "BRA",
-    "points": "190"
-  },
-  {
-    "rank": "281",
-    "player": "Filip Misolic",
-    "age": "23",
-    "country": "AUT",
-    "points": "188"
-  },
-  {
-    "rank": "282",
-    "player": "Benoît Paire",
-    "age": "35",
-    "country": "FRA",
-    "points": "188"
-  },
-  {
-    "rank": "283",
-    "player": "Bernabé Zapata Miralles",
-    "age": "27",
-    "country": "ESP",
-    "points": "187"
-  },
-  {
-    "rank": "284",
-    "player": "Max Houkes",
-    "age": "24",
-    "country": "NED",
-    "points": "186"
-  },
-  {
-    "rank": "285",
-    "player": "Hady Habib",
-    "age": "26",
-    "country": "LBN",
-    "points": "185"
-  },
-  {
-    "rank": "286",
-    "player": "Juan Bautista Torres",
-    "age": "22",
-    "country": "ARG",
-    "points": "184"
-  },
-  {
-    "rank": "287",
-    "player": "Martin Damm",
-    "age": "21",
-    "country": "USA",
-    "points": "183"
-  },
-  {
-    "rank": "288",
-    "player": "Pablo Llamas Ruiz",
-    "age": "22",
-    "country": "ESP",
-    "points": "183"
-  },
-  {
-    "rank": "289",
-    "player": "Giovanni Fonio",
-    "age": "26",
-    "country": "ITA",
-    "points": "183"
-  },
-  {
-    "rank": "290",
-    "player": "Pedro Cachín",
-    "age": "29",
-    "country": "ARG",
-    "points": "181"
-  },
-  {
-    "rank": "291",
-    "player": "Cezar Crețu",
-    "age": "23",
-    "country": "ROU",
-    "points": "181"
-  },
-  {
-    "rank": "292",
-    "player": "Jelle Sels",
-    "age": "29",
-    "country": "NED",
-    "points": "179"
-  },
-  {
-    "rank": "293",
-    "player": "Remy Bertola",
-    "age": "26",
-    "country": "SUI",
-    "points": "178"
-  },
-  {
-    "rank": "294",
-    "player": "Mili Poljičak",
-    "age": "20",
-    "country": "CRO",
-    "points": "178"
-  },
-  {
-    "rank": "295",
-    "player": "Reilly Opelka",
-    "age": "27",
-    "country": "USA",
-    "points": "177"
-  },
-  {
-    "rank": "296",
-    "player": "Pedro Sakamoto",
-    "age": "31",
-    "country": "BRA",
-    "points": "177"
-  },
-  {
-    "rank": "297",
-    "player": "Elias Ymer",
-    "age": "28",
-    "country": "SWE",
-    "points": "174"
-  },
-  {
-    "rank": "298",
-    "player": "Ramkumar Ramanathan",
-    "age": "29",
-    "country": "IND",
-    "points": "173"
-  },
-  {
-    "rank": "299",
-    "player": "Hazem Naw",
-    "age": "24",
-    "country": "SYR",
-    "points": "173"
-  },
-  {
-    "rank": "300",
-    "player": "Matías Soto",
-    "age": "25",
-    "country": "CHI",
-    "points": "173"
-  },
-  {
-    "rank": "301",
-    "player": "Dominic Stricker",
-    "age": "22",
-    "country": "SUI",
-    "points": "172"
-  },
-  {
-    "rank": "302",
-    "player": "Ergi Kırkın",
-    "age": "25",
-    "country": "TUR",
-    "points": "171"
-  },
-  {
-    "rank": "303",
-    "player": "Francesco Maestrelli",
-    "age": "21",
-    "country": "ITA",
-    "points": "171"
-  },
-  {
-    "rank": "304",
-    "player": "Gastão Elias",
-    "age": "33",
-    "country": "POR",
-    "points": "170"
-  },
-  {
-    "rank": "305",
-    "player": "Corentin Denolly",
-    "age": "27",
-    "country": "FRA",
-    "points": "170"
-  },
-  {
-    "rank": "306",
-    "player": "Ivan Gakhov",
-    "age": "27",
-    "country": "RUS",
-    "points": "170"
-  },
-  {
-    "rank": "307",
-    "player": "Martin Kližan",
-    "age": "35",
-    "country": "SVK",
-    "points": "169"
-  },
-  {
-    "rank": "308",
-    "player": "Alexey Zakharov",
-    "age": "24",
-    "country": "RUS",
-    "points": "169"
-  },
-  {
-    "rank": "309",
-    "player": "Arthur Géa",
-    "age": "19",
-    "country": "FRA",
-    "points": "168"
-  },
-  {
-    "rank": "310",
-    "player": "Daniel Mérida",
-    "age": "20",
-    "country": "ESP",
-    "points": "168"
-  },
-  {
-    "rank": "311",
-    "player": "Nikoloz Basilashvili",
-    "age": "32",
-    "country": "GEO",
-    "points": "166"
-  },
-  {
-    "rank": "312",
-    "player": "Max Hans Rehberg",
-    "age": "21",
-    "country": "GER",
-    "points": "165"
-  },
-  {
-    "rank": "313",
-    "player": "Aslan Karatsev",
-    "age": "31",
-    "country": "RUS",
-    "points": "163"
-  },
-  {
-    "rank": "314",
-    "player": "Jakub Nicod",
-    "age": "20",
-    "country": "CZE",
-    "points": "163"
-  },
-  {
-    "rank": "315",
-    "player": "Marat Sharipov",
-    "age": "22",
-    "country": "RUS",
-    "points": "163"
-  },
-  {
-    "rank": "316",
-    "player": "Carlos Sánchez Jover",
-    "age": "24",
-    "country": "ESP",
-    "points": "163"
-  },
-  {
-    "rank": "317",
-    "player": "Dominic Thiem",
-    "age": "31",
-    "country": "AUT",
-    "points": "162"
-  },
-  {
-    "rank": "318",
-    "player": "Matheus Pucinelli De Almeida",
-    "age": "23",
-    "country": "BRA",
-    "points": "162"
-  },
-  {
-    "rank": "319",
-    "player": "Michael Vrbenský",
-    "age": "24",
-    "country": "CZE",
-    "points": "162"
-  },
-  {
-    "rank": "320",
-    "player": "Fajing Sun",
-    "age": "28",
-    "country": "CHN",
-    "points": "161"
-  },
-  {
-    "rank": "321",
-    "player": "Alexey Vatutin",
-    "age": "32",
-    "country": "RUS",
-    "points": "161"
-  },
-  {
-    "rank": "322",
-    "player": "Marek Gengel",
-    "age": "29",
-    "country": "CZE",
-    "points": "160"
-  },
-  {
-    "rank": "323",
-    "player": "Aidan Mayo",
-    "age": "21",
-    "country": "USA",
-    "points": "160"
-  },
-  {
-    "rank": "324",
-    "player": "Mathys Erhard",
-    "age": "23",
-    "country": "FRA",
-    "points": "159"
-  },
-  {
-    "rank": "325",
-    "player": "Dane Sweeny",
-    "age": "23",
-    "country": "AUS",
-    "points": "157"
-  },
-  {
-    "rank": "326",
-    "player": "Ričardas Berankis",
-    "age": "34",
-    "country": "LTU",
-    "points": "157"
-  },
-  {
-    "rank": "327",
-    "player": "Vadym Ursu",
-    "age": "27",
-    "country": "UKR",
-    "points": "157"
-  },
-  {
-    "rank": "328",
-    "player": "Murphy Cassone",
-    "age": "22",
-    "country": "USA",
-    "points": "156"
-  },
-  {
-    "rank": "329",
-    "player": "Jacopo Berrettini",
-    "age": "25",
-    "country": "ITA",
-    "points": "155"
-  },
-  {
-    "rank": "330",
-    "player": "Clément Tabur",
-    "age": "24",
-    "country": "FRA",
-    "points": "154"
-  },
-  {
-    "rank": "331",
-    "player": "Michael Geerts",
-    "age": "29",
-    "country": "BEL",
-    "points": "154"
-  },
-  {
-    "rank": "332",
-    "player": "Joris De Loore",
-    "age": "31",
-    "country": "BEL",
-    "points": "153"
-  },
-  {
-    "rank": "333",
-    "player": "Egor Gerasimov",
-    "age": "31",
-    "country": "BLR",
-    "points": "150"
-  },
-  {
-    "rank": "334",
-    "player": "Oleksandr Ovcharenko",
-    "age": "23",
-    "country": "UKR",
-    "points": "149"
-  },
-  {
-    "rank": "335",
-    "player": "Andrea Picchione",
-    "age": "26",
-    "country": "ITA",
-    "points": "149"
-  },
-  {
-    "rank": "336",
-    "player": "Renzo Olivo",
-    "age": "32",
-    "country": "ARG",
-    "points": "148"
-  },
-  {
-    "rank": "337",
-    "player": "Jiří Veselý",
-    "age": "31",
-    "country": "CZE",
-    "points": "147"
-  },
-  {
-    "rank": "338",
-    "player": "Sandro Kopp",
-    "age": "24",
-    "country": "AUT",
-    "points": "147"
-  },
-  {
-    "rank": "339",
-    "player": "Soonwoo Kwon",
-    "age": "26",
-    "country": "KOR",
-    "points": "145"
-  },
-  {
-    "rank": "340",
-    "player": "Stefan Kozlov",
-    "age": "26",
-    "country": "USA",
-    "points": "145"
-  },
-  {
-    "rank": "341",
-    "player": "Daniel Dutra da Silva",
-    "age": "36",
-    "country": "BRA",
-    "points": "145"
-  },
-  {
-    "rank": "342",
-    "player": "Blake Ellis",
-    "age": "25",
-    "country": "AUS",
-    "points": "144"
-  },
-  {
-    "rank": "343",
-    "player": "Benjamin Lock",
-    "age": "31",
-    "country": "ZIM",
-    "points": "144"
-  },
-  {
-    "rank": "344",
-    "player": "Philip Sekulic",
-    "age": "21",
-    "country": "AUS",
-    "points": "143"
-  },
-  {
-    "rank": "345",
-    "player": "Nicola Kuhn",
-    "age": "24",
-    "country": "GER",
-    "points": "142"
-  },
-  {
-    "rank": "346",
-    "player": "Joel Schwärzler",
-    "age": "18",
-    "country": "AUT",
-    "points": "141"
-  },
-  {
-    "rank": "347",
-    "player": "Genaro Alberto Olivieri",
-    "age": "26",
-    "country": "ARG",
-    "points": "141"
-  },
-  {
-    "rank": "348",
-    "player": "Jonáš Forejtek",
-    "age": "23",
-    "country": "CZE",
-    "points": "141"
-  },
-  {
-    "rank": "349",
-    "player": "Evgenii Tiurnev",
-    "age": "27",
-    "country": "RUS",
-    "points": "139"
-  },
-  {
-    "rank": "350",
-    "player": "Kyle Edmund",
-    "age": "29",
-    "country": "GBR",
-    "points": "139"
-  },
-  {
-    "rank": "351",
-    "player": "Nikolás Sánchez Izquierdo",
-    "age": "25",
-    "country": "ESP",
-    "points": "138"
-  },
-  {
-    "rank": "352",
-    "player": "Kris Van Wyk",
-    "age": "28",
-    "country": "RSA",
-    "points": "138"
-  },
-  {
-    "rank": "353",
-    "player": "Maxime Chazal",
-    "age": "31",
-    "country": "FRA",
-    "points": "137"
-  },
-  {
-    "rank": "354",
-    "player": "Toby Kodat",
-    "age": "21",
-    "country": "USA",
-    "points": "137"
-  },
-  {
-    "rank": "355",
-    "player": "Jie Cui",
-    "age": "26",
-    "country": "CHN",
-    "points": "136"
-  },
-  {
-    "rank": "356",
-    "player": "Giles Hussey",
-    "age": "27",
-    "country": "GBR",
-    "points": "135"
-  },
-  {
-    "rank": "357",
-    "player": "Alex Martí Pujolras",
-    "age": "25",
-    "country": "ESP",
-    "points": "135"
-  },
-  {
-    "rank": "358",
-    "player": "Matthew Dellavedova",
-    "age": "24",
-    "country": "AUS",
-    "points": "135"
-  },
-  {
-    "rank": "359",
-    "player": "Ilia Simakin",
-    "age": "21",
-    "country": "RUS",
-    "points": "134"
-  },
-  {
-    "rank": "360",
-    "player": "Masamichi Imamura",
-    "age": "25",
-    "country": "JPN",
-    "points": "134"
-  },
-  {
-    "rank": "361",
-    "player": "Franco Roncadelli",
-    "age": "24",
-    "country": "URU",
-    "points": "134"
-  },
-  {
-    "rank": "362",
-    "player": "Antoine Bellier",
-    "age": "28",
-    "country": "SUI",
-    "points": "133"
-  },
-  {
-    "rank": "363",
-    "player": "Luka Pavlovic",
-    "age": "24",
-    "country": "FRA",
-    "points": "133"
-  },
-  {
-    "rank": "364",
-    "player": "Kaichi Uchida",
-    "age": "30",
-    "country": "JPN",
-    "points": "133"
-  },
-  {
-    "rank": "365",
-    "player": "Gabi Adrian Boitan",
-    "age": "25",
-    "country": "ROU",
-    "points": "133"
-  },
-  {
-    "rank": "366",
-    "player": "Diego Schwartzman",
-    "age": "32",
-    "country": "ARG",
-    "points": "131"
-  },
-  {
-    "rank": "367",
-    "player": "Mukund Sasikumar",
-    "age": "27",
-    "country": "IND",
-    "points": "131"
-  },
-  {
-    "rank": "368",
-    "player": "Nerman Fatić",
-    "age": "30",
-    "country": "BIH",
-    "points": "131"
-  },
-  {
-    "rank": "369",
-    "player": "Alexander Weis",
-    "age": "27",
-    "country": "ITA",
-    "points": "131"
-  },
-  {
-    "rank": "370",
-    "player": "David Jordá Sanchis",
-    "age": "30",
-    "country": "ESP",
-    "points": "130"
-  },
-  {
-    "rank": "371",
-    "player": "Marco Cecchinato",
-    "age": "32",
-    "country": "ITA",
-    "points": "130"
-  },
-  {
-    "rank": "372",
-    "player": "Gerard Campana Lee",
-    "age": "20",
-    "country": "KOR",
-    "points": "130"
-  },
-  {
-    "rank": "373",
-    "player": "Daniel Michalski",
-    "age": "24",
-    "country": "POL",
-    "points": "129"
-  },
-  {
-    "rank": "374",
-    "player": "Andre Ilagan",
-    "age": "23",
-    "country": "USA",
-    "points": "129"
-  },
-  {
-    "rank": "375",
-    "player": "Thai Son Kwiatkowski",
-    "age": "29",
-    "country": "USA",
-    "points": "128"
-  },
-  {
-    "rank": "376",
-    "player": "Dennis Novak",
-    "age": "31",
-    "country": "AUT",
-    "points": "128"
-  },
-  {
-    "rank": "377",
-    "player": "Miguel Damas",
-    "age": "24",
-    "country": "ESP",
-    "points": "128"
-  },
-  {
-    "rank": "378",
-    "player": "Jakub Paul",
-    "age": "25",
-    "country": "SUI",
-    "points": "128"
-  },
-  {
-    "rank": "379",
-    "player": "Valerio Aboian",
-    "age": "22",
-    "country": "ARG",
-    "points": "128"
-  },
-  {
-    "rank": "380",
-    "player": "Dino Prižmić",
-    "age": "19",
-    "country": "CRO",
-    "points": "127"
-  },
-  {
-    "rank": "381",
-    "player": "Yi Zhou",
-    "age": "19",
-    "country": "CHN",
-    "points": "127"
-  },
-  {
-    "rank": "382",
-    "player": "Dimitar Kuzmanov",
-    "age": "31",
-    "country": "BUL",
-    "points": "127"
-  },
-  {
-    "rank": "383",
-    "player": "Alejo Lorenzo Lingua Lavallén",
-    "age": "23",
-    "country": "ARG",
-    "points": "127"
-  },
-  {
-    "rank": "384",
-    "player": "Petr Nesterov",
-    "age": "21",
-    "country": "BUL",
-    "points": "127"
-  },
-  {
-    "rank": "385",
-    "player": "Naoki Nakagawa",
-    "age": "27",
-    "country": "JPN",
-    "points": "125"
-  },
-  {
-    "rank": "386",
-    "player": "Bor Artnak",
-    "age": "20",
-    "country": "SLO",
-    "points": "125"
-  },
-  {
-    "rank": "387",
-    "player": "Nicolás Álvarez Varona",
-    "age": "23",
-    "country": "ESP",
-    "points": "125"
-  },
-  {
-    "rank": "388",
-    "player": "Nicholas David Ionel",
-    "age": "22",
-    "country": "ROU",
-    "points": "125"
-  },
-  {
-    "rank": "389",
-    "player": "Oleg Prihodko",
-    "age": "27",
-    "country": "UKR",
-    "points": "123"
-  },
-  {
-    "rank": "390",
-    "player": "Colton Smith",
-    "age": "21",
-    "country": "USA",
-    "points": "122"
-  },
-  {
-    "rank": "391",
-    "player": "Omni Kumar",
-    "age": "23",
-    "country": "USA",
-    "points": "122"
-  },
-  {
-    "rank": "392",
-    "player": "Ryan Seggerman",
-    "age": "25",
-    "country": "USA",
-    "points": "121"
-  },
-  {
-    "rank": "393",
-    "player": "Luka Mikrut",
-    "age": "20",
-    "country": "CRO",
-    "points": "119"
-  },
-  {
-    "rank": "394",
-    "player": "Frederico Ferreira Silva",
-    "age": "29",
-    "country": "POR",
-    "points": "118"
-  },
-  {
-    "rank": "395",
-    "player": "Bogdan Bobrov",
-    "age": "27",
-    "country": "RUS",
-    "points": "118"
-  },
-  {
-    "rank": "396",
-    "player": "Robert Strombachs",
-    "age": "25",
-    "country": "LAT",
-    "points": "118"
-  },
-  {
-    "rank": "397",
-    "player": "Saba Purtseladze",
-    "age": "23",
-    "country": "GEO",
-    "points": "118"
-  },
-  {
-    "rank": "398",
-    "player": "Jack Pinnington Jones",
-    "age": "21",
-    "country": "GBR",
-    "points": "117"
-  },
-  {
-    "rank": "399",
-    "player": "Anton Matusevich",
-    "age": "23",
-    "country": "GBR",
-    "points": "116"
-  },
-  {
-    "rank": "400",
-    "player": "Justin Engel",
-    "age": "17",
-    "country": "GER",
-    "points": "116"
-  },
-  {
-    "rank": "401",
-    "player": "Lilian Marmousez",
-    "age": "22",
-    "country": "FRA",
-    "points": "116"
-  },
-  {
-    "rank": "402",
-    "player": "Oliver Crawford",
-    "age": "25",
-    "country": "GBR",
-    "points": "116"
-  },
-  {
-    "rank": "403",
-    "player": "João Lucas Reis Da Silva",
-    "age": "24",
-    "country": "BRA",
-    "points": "115"
-  },
-  {
-    "rank": "404",
-    "player": "Philip Henning",
-    "age": "23",
-    "country": "RSA",
-    "points": "114"
-  },
-  {
-    "rank": "405",
-    "player": "Luciano Emanuel Ambrogi",
-    "age": "20",
-    "country": "ARG",
-    "points": "114"
-  },
-  {
-    "rank": "406",
-    "player": "Ryan Nijboer",
-    "age": "25",
-    "country": "NED",
-    "points": "114"
-  },
-  {
-    "rank": "407",
-    "player": "Hiroki Moriya",
-    "age": "34",
-    "country": "JPN",
-    "points": "114"
-  },
-  {
-    "rank": "408",
-    "player": "Christoph Negritu",
-    "age": "30",
-    "country": "GER",
-    "points": "114"
-  },
-  {
-    "rank": "409",
-    "player": "Sebastian Fanselow",
-    "age": "32",
-    "country": "GER",
-    "points": "114"
-  },
-  {
-    "rank": "410",
-    "player": "Yibing Wu",
-    "age": "25",
-    "country": "CHN",
-    "points": "113"
-  },
-  {
-    "rank": "411",
-    "player": "Alex Molčan",
-    "age": "26",
-    "country": "SVK",
-    "points": "113"
-  },
-  {
-    "rank": "412",
-    "player": "Eliakim Coulibaly",
-    "age": "22",
-    "country": "CIV",
-    "points": "113"
-  },
-  {
-    "rank": "413",
-    "player": "Hynek Bartoň",
-    "age": "20",
-    "country": "CZE",
-    "points": "112"
-  },
-  {
-    "rank": "414",
-    "player": "Vitaliy Sachko",
-    "age": "27",
-    "country": "UKR",
-    "points": "112"
-  },
-  {
-    "rank": "415",
-    "player": "Gonzalo Villanueva",
-    "age": "29",
-    "country": "ARG",
-    "points": "112"
-  },
-  {
-    "rank": "416",
-    "player": "Chris Rodesch",
-    "age": "23",
-    "country": "LUX",
-    "points": "111"
-  },
-  {
-    "rank": "417",
-    "player": "Zdeněk Kolář",
-    "age": "28",
-    "country": "CZE",
-    "points": "111"
-  },
-  {
-    "rank": "418",
-    "player": "Kilian Feldbausch",
-    "age": "19",
-    "country": "SUI",
-    "points": "109"
-  },
-  {
-    "rank": "419",
-    "player": "Raúl Brancaccio",
-    "age": "27",
-    "country": "ITA",
-    "points": "109"
-  },
-  {
-    "rank": "420",
-    "player": "Evgeny Karlovskiy",
-    "age": "30",
-    "country": "RUS",
-    "points": "108"
-  },
-  {
-    "rank": "421",
-    "player": "Arthur Bouquier",
-    "age": "23",
-    "country": "FRA",
-    "points": "107"
-  },
-  {
-    "rank": "422",
-    "player": "Lautaro Midon",
-    "age": "20",
-    "country": "ARG",
-    "points": "107"
-  },
-  {
-    "rank": "423",
-    "player": "Tennys Sandgren",
-    "age": "33",
-    "country": "USA",
-    "points": "105"
-  },
-  {
-    "rank": "424",
-    "player": "Shintaro Imai",
-    "age": "31",
-    "country": "JPN",
-    "points": "105"
-  },
-  {
-    "rank": "425",
-    "player": "Alberto Barroso Campos",
-    "age": "28",
-    "country": "ESP",
-    "points": "105"
-  },
-  {
-    "rank": "426",
-    "player": "Roberto Cid Subervi",
-    "age": "31",
-    "country": "DOM",
-    "points": "105"
-  },
-  {
-    "rank": "427",
-    "player": "Michael Agwi",
-    "age": "21",
-    "country": "IRL",
-    "points": "102"
-  },
-  {
-    "rank": "428",
-    "player": "Rodrigo Pacheco Mendez",
-    "age": "19",
-    "country": "MEX",
-    "points": "102"
-  },
-  {
-    "rank": "429",
-    "player": "Franco Agamenone",
-    "age": "31",
-    "country": "ITA",
-    "points": "102"
-  },
-  {
-    "rank": "430",
-    "player": "Norbert Gombos",
-    "age": "34",
-    "country": "SVK",
-    "points": "101"
-  },
-  {
-    "rank": "431",
-    "player": "Laurent Lokoli",
-    "age": "30",
-    "country": "FRA",
-    "points": "101"
-  },
-  {
-    "rank": "432",
-    "player": "Felix Gill",
-    "age": "22",
-    "country": "GBR",
-    "points": "101"
-  },
-  {
-    "rank": "433",
-    "player": "Mathias Bourgue",
-    "age": "30",
-    "country": "FRA",
-    "points": "100"
-  },
-  {
-    "rank": "434",
-    "player": "Gabriele Pennaforti",
-    "age": "24",
-    "country": "ITA",
-    "points": "100"
-  },
-  {
-    "rank": "435",
-    "player": "Bruno Kuzuhara",
-    "age": "20",
-    "country": "USA",
-    "points": "99"
-  },
-  {
-    "rank": "436",
-    "player": "Andrew Paulson",
-    "age": "22",
-    "country": "CZE",
-    "points": "98"
-  },
-  {
-    "rank": "437",
-    "player": "Kiranpal Pannu",
-    "age": "27",
-    "country": "NZL",
-    "points": "98"
-  },
-  {
-    "rank": "438",
-    "player": "Stefan Popović",
-    "age": "21",
-    "country": "SRB",
-    "points": "98"
-  },
-  {
-    "rank": "439",
-    "player": "Andres Martin",
-    "age": "23",
-    "country": "USA",
-    "points": "97"
-  },
-  {
-    "rank": "440",
-    "player": "Tim Handel",
-    "age": "28",
-    "country": "GER",
-    "points": "97"
-  },
-  {
-    "rank": "441",
-    "player": "Mika Brunold",
-    "age": "20",
-    "country": "SUI",
-    "points": "97"
-  },
-  {
-    "rank": "442",
-    "player": "Viktor Durasovic",
-    "age": "27",
-    "country": "NOR",
-    "points": "97"
-  },
-  {
-    "rank": "443",
-    "player": "Marvin Möller",
-    "age": "25",
-    "country": "GER",
-    "points": "96"
-  },
-  {
-    "rank": "444",
-    "player": "Adria Soriano Barrera",
-    "age": "25",
-    "country": "COL",
-    "points": "96"
-  },
-  {
-    "rank": "445",
-    "player": "Alessandro Pecci",
-    "age": "23",
-    "country": "ITA",
-    "points": "96"
-  },
-  {
-    "rank": "446",
-    "player": "Tristan Lamasine",
-    "age": "31",
-    "country": "FRA",
-    "points": "96"
-  },
-  {
-    "rank": "447",
-    "player": "Tommaso Compagnucci",
-    "age": "24",
-    "country": "ITA",
-    "points": "96"
-  },
-  {
-    "rank": "448",
-    "player": "Borna Gojo",
-    "age": "26",
-    "country": "CRO",
-    "points": "95"
-  },
-  {
-    "rank": "449",
-    "player": "Hernán Casanova",
-    "age": "30",
-    "country": "ARG",
-    "points": "94"
-  },
-  {
-    "rank": "450",
-    "player": "Aidan McHugh",
-    "age": "24",
-    "country": "GBR",
-    "points": "94"
-  },
-  {
-    "rank": "451",
-    "player": "Carlos Lopez Montagud",
-    "age": "24",
-    "country": "ESP",
-    "points": "92"
-  },
-  {
-    "rank": "452",
-    "player": "Neil Oberleitner",
-    "age": "25",
-    "country": "AUT",
-    "points": "92"
-  },
-  {
-    "rank": "453",
-    "player": "Marko Topo",
-    "age": "21",
-    "country": "GER",
-    "points": "91"
-  },
-  {
-    "rank": "454",
-    "player": "Moez Echargui",
-    "age": "31",
-    "country": "TUN",
-    "points": "91"
-  },
-  {
-    "rank": "455",
-    "player": "Tomás Farjat",
-    "age": "23",
-    "country": "ARG",
-    "points": "91"
-  },
-  {
-    "rank": "456",
-    "player": "Nino Serdarušić",
-    "age": "27",
-    "country": "CRO",
-    "points": "90"
-  },
-  {
-    "rank": "457",
-    "player": "Evgeny Donskoy",
-    "age": "34",
-    "country": "RUS",
-    "points": "90"
-  },
-  {
-    "rank": "458",
-    "player": "Ernesto Escobedo",
-    "age": "28",
-    "country": "MEX",
-    "points": "90"
-  },
-  {
-    "rank": "459",
-    "player": "Yishai Oliel",
-    "age": "24",
-    "country": "ISR",
-    "points": "90"
-  },
-  {
-    "rank": "460",
-    "player": "Arthur Fery",
-    "age": "22",
-    "country": "GBR",
-    "points": "89"
-  },
-  {
-    "rank": "461",
-    "player": "Harrison Adams",
-    "age": "30",
-    "country": "USA",
-    "points": "89"
-  },
-  {
-    "rank": "462",
-    "player": "Max Alcalá Gurri",
-    "age": "22",
-    "country": "ESP",
-    "points": "89"
-  },
-  {
-    "rank": "463",
-    "player": "Yurii Dzhavakian",
-    "age": "31",
-    "country": "UKR",
-    "points": "89"
-  },
-  {
-    "rank": "464",
-    "player": "Govind Nanda",
-    "age": "23",
-    "country": "USA",
-    "points": "88"
-  },
-  {
-    "rank": "465",
-    "player": "Cem İlkel",
-    "age": "29",
-    "country": "TUR",
-    "points": "88"
-  },
-  {
-    "rank": "466",
-    "player": "Christian Langmo",
-    "age": "28",
-    "country": "USA",
-    "points": "88"
-  },
-  {
-    "rank": "467",
-    "player": "Tom Gentzsch",
-    "age": "21",
-    "country": "GER",
-    "points": "88"
-  },
-  {
-    "rank": "468",
-    "player": "Mohamed Safwat",
-    "age": "34",
-    "country": "EGY",
-    "points": "87"
-  },
-  {
-    "rank": "469",
-    "player": "Kasidit Samrej",
-    "age": "23",
-    "country": "THA",
-    "points": "87"
-  },
-  {
-    "rank": "470",
-    "player": "Lucas Poullain",
-    "age": "28",
-    "country": "FRA",
-    "points": "87"
-  },
-  {
-    "rank": "471",
-    "player": "Lucas Gerch",
-    "age": "29",
-    "country": "GER",
-    "points": "86"
-  },
-  {
-    "rank": "472",
-    "player": "Lukáš Pokorný",
-    "age": "22",
-    "country": "SVK",
-    "points": "86"
-  },
-  {
-    "rank": "473",
-    "player": "Mats Rosenkranz",
-    "age": "26",
-    "country": "GER",
-    "points": "86"
-  },
-  {
-    "rank": "474",
-    "player": "Alafia Ayeni",
-    "age": "25",
-    "country": "USA",
-    "points": "86"
-  },
-  {
-    "rank": "475",
-    "player": "Gabriele Piraino",
-    "age": "20",
-    "country": "ITA",
-    "points": "86"
-  },
-  {
-    "rank": "476",
-    "player": "Pedro Araújo",
-    "age": "22",
-    "country": "POR",
-    "points": "85"
-  },
-  {
-    "rank": "477",
-    "player": "Guido Iván Justo",
-    "age": "26",
-    "country": "ARG",
-    "points": "85"
-  },
-  {
-    "rank": "478",
-    "player": "Sascha Gueymard Wayenburg",
-    "age": "21",
-    "country": "FRA",
-    "points": "85"
-  },
-  {
-    "rank": "479",
-    "player": "Dan Alexandru Tomescu",
-    "age": "25",
-    "country": "ROU",
-    "points": "85"
-  },
-  {
-    "rank": "480",
-    "player": "Duarte Vale",
-    "age": "25",
-    "country": "POR",
-    "points": "85"
-  },
-  {
-    "rank": "481",
-    "player": "Johannus Monday",
-    "age": "22",
-    "country": "GBR",
-    "points": "84"
-  },
-  {
-    "rank": "482",
-    "player": "Orlando Luz",
-    "age": "26",
-    "country": "BRA",
-    "points": "83"
-  },
-  {
-    "rank": "483",
-    "player": "Blake Mott",
-    "age": "28",
-    "country": "AUS",
-    "points": "83"
-  },
-  {
-    "rank": "484",
-    "player": "Aleksandre Bakshi",
-    "age": "27",
-    "country": "GEO",
-    "points": "83"
-  },
-  {
-    "rank": "485",
-    "player": "Riccardo Bonadio",
-    "age": "31",
-    "country": "ITA",
-    "points": "82"
-  },
-  {
-    "rank": "486",
-    "player": "Pawel Juszczak",
-    "age": "30",
-    "country": "POL",
-    "points": "82"
-  },
-  {
-    "rank": "487",
-    "player": "Gianluca Cadenasso",
-    "age": "20",
-    "country": "ITA",
-    "points": "82"
-  },
-  {
-    "rank": "488",
-    "player": "Marcello Serafini",
-    "age": "22",
-    "country": "ITA",
-    "points": "82"
-  },
-  {
-    "rank": "489",
-    "player": "Egor Agafonov",
-    "age": "22",
-    "country": "RUS",
-    "points": "82"
-  },
-  {
-    "rank": "490",
-    "player": "Peter Bertran",
-    "age": "28",
-    "country": "DOM",
-    "points": "81"
-  },
-  {
-    "rank": "491",
-    "player": "Daniil Glinka",
-    "age": "24",
-    "country": "EST",
-    "points": "81"
-  },
-  {
-    "rank": "492",
-    "player": "Dan Added",
-    "age": "25",
-    "country": "FRA",
-    "points": "81"
-  },
-  {
-    "rank": "493",
-    "player": "Blaise Bicknell",
-    "age": "22",
-    "country": "JAM",
-    "points": "80"
-  },
-  {
-    "rank": "494",
-    "player": "Svyatoslav Gulin",
-    "age": "21",
-    "country": "RUS",
-    "points": "80"
-  },
-  {
-    "rank": "495",
-    "player": "Jacob Bradshaw",
-    "age": "22",
-    "country": "AUS",
-    "points": "80"
-  },
-  {
-    "rank": "496",
-    "player": "Illya Marchenko",
-    "age": "37",
-    "country": "UKR",
-    "points": "79"
-  },
-  {
-    "rank": "497",
-    "player": "Garrett Johns",
-    "age": "23",
-    "country": "USA",
-    "points": "79"
-  },
-  {
-    "rank": "498",
-    "player": "Damien Wenger",
-    "age": "24",
-    "country": "SUI",
-    "points": "79"
-  },
-  {
-    "rank": "499",
-    "player": "Max Wiskandt",
-    "age": "22",
-    "country": "GER",
-    "points": "79"
-  },
-  {
-    "rank": "500",
-    "player": "Yanaki Milev",
-    "age": "20",
-    "country": "BUL",
-    "points": "78"
-  },
-  {
-    "rank": "501",
-    "player": "Petr Bar Biryukov",
-    "age": "22",
-    "country": "RUS",
-    "points": "78"
-  },
-  {
-    "rank": "502",
-    "player": "Alexis Gautier",
-    "age": "27",
-    "country": "FRA",
-    "points": "78"
-  },
-  {
-    "rank": "503",
-    "player": "Stefanos Sakellaridis",
-    "age": "20",
-    "country": "GRE",
-    "points": "78"
-  },
-  {
-    "rank": "504",
-    "player": "Maximilian Neuchrist",
-    "age": "33",
-    "country": "AUT",
-    "points": "77"
-  },
-  {
-    "rank": "505",
-    "player": "Alastair Gray",
-    "age": "26",
-    "country": "GBR",
-    "points": "77"
-  },
-  {
-    "rank": "506",
-    "player": "Takuya Kumasaka",
-    "age": "26",
-    "country": "JPN",
-    "points": "77"
-  },
-  {
-    "rank": "507",
-    "player": "Giovanni Oradini",
-    "age": "27",
-    "country": "ITA",
-    "points": "77"
-  },
-  {
-    "rank": "508",
-    "player": "Máté Valkusz",
-    "age": "26",
-    "country": "HUN",
-    "points": "76"
-  },
-  {
-    "rank": "509",
-    "player": "Patrick Maloney",
-    "age": "24",
-    "country": "USA",
-    "points": "76"
-  },
-  {
-    "rank": "510",
-    "player": "Kokoro Isomura",
-    "age": "21",
-    "country": "JPN",
-    "points": "76"
-  },
-  {
-    "rank": "511",
-    "player": "Florent Bax",
-    "age": "25",
-    "country": "FRA",
-    "points": "76"
-  },
-  {
-    "rank": "512",
-    "player": "Michiel De Krom",
-    "age": "26",
-    "country": "NED",
-    "points": "76"
-  },
-  {
-    "rank": "513",
-    "player": "Andrej Martin",
-    "age": "35",
-    "country": "SVK",
-    "points": "75"
-  },
-  {
-    "rank": "514",
-    "player": "Hamish Stewart",
-    "age": "25",
-    "country": "GBR",
-    "points": "75"
-  },
-  {
-    "rank": "515",
-    "player": "José Pereira",
-    "age": "33",
-    "country": "BRA",
-    "points": "75"
-  },
-  {
-    "rank": "516",
-    "player": "Stefan Palosi",
-    "age": "24",
-    "country": "ROU",
-    "points": "75"
-  },
-  {
-    "rank": "517",
-    "player": "Imanol López Morillo",
-    "age": "24",
-    "country": "ESP",
-    "points": "75"
-  },
-  {
-    "rank": "518",
-    "player": "Hikaru Shiraishi",
-    "age": "24",
-    "country": "JPN",
-    "points": "74"
-  },
-  {
-    "rank": "519",
-    "player": "Henry Searle",
-    "age": "18",
-    "country": "GBR",
-    "points": "74"
-  },
-  {
-    "rank": "520",
-    "player": "Pedro Boscardin Dias",
-    "age": "21",
-    "country": "BRA",
-    "points": "74"
-  },
-  {
-    "rank": "521",
-    "player": "Yusuke Takahashi",
-    "age": "27",
-    "country": "JPN",
-    "points": "74"
-  },
-  {
-    "rank": "522",
-    "player": "Stijn Slump",
-    "age": "25",
-    "country": "NED",
-    "points": "73"
-  },
-  {
-    "rank": "523",
-    "player": "Kirill Kivattsev",
-    "age": "27",
-    "country": "RUS",
-    "points": "73"
-  },
-  {
-    "rank": "524",
-    "player": "João Sousa",
-    "age": "35",
-    "country": "POR",
-    "points": "72"
-  },
-  {
-    "rank": "525",
-    "player": "Luke Saville",
-    "age": "30",
-    "country": "AUS",
-    "points": "72"
-  },
-  {
-    "rank": "526",
-    "player": "Niels Visker",
-    "age": "23",
-    "country": "NED",
-    "points": "72"
-  },
-  {
-    "rank": "527",
-    "player": "Eric Vanshelboim",
-    "age": "23",
-    "country": "UKR",
-    "points": "72"
-  },
-  {
-    "rank": "528",
-    "player": "Daniel Cukierman",
-    "age": "29",
-    "country": "ISR",
-    "points": "71"
-  },
-  {
-    "rank": "529",
-    "player": "João Domingues",
-    "age": "31",
-    "country": "POR",
-    "points": "71"
-  },
-  {
-    "rank": "530",
-    "player": "Lucas Bouquet",
-    "age": "27",
-    "country": "FRA",
-    "points": "71"
-  },
-  {
-    "rank": "531",
-    "player": "Federico Iannaccone",
-    "age": "25",
-    "country": "ITA",
-    "points": "71"
-  },
-  {
-    "rank": "532",
-    "player": "Sergey Fomin",
-    "age": "23",
-    "country": "UZB",
-    "points": "71"
-  },
-  {
-    "rank": "533",
-    "player": "Ryuki Matsuda",
-    "age": "24",
-    "country": "JPN",
-    "points": "71"
-  },
-  {
-    "rank": "534",
-    "player": "Tiago Pereira",
-    "age": "20",
-    "country": "POR",
-    "points": "71"
-  },
-  {
-    "rank": "535",
-    "player": "Tyler Zink",
-    "age": "23",
-    "country": "USA",
-    "points": "70"
-  },
-  {
-    "rank": "536",
-    "player": "Viacheslav Bielinskyi",
-    "age": "20",
-    "country": "UKR",
-    "points": "70"
-  },
-  {
-    "rank": "537",
-    "player": "Facundo Juárez",
-    "age": "27",
-    "country": "ITA",
-    "points": "69"
-  },
-  {
-    "rank": "538",
-    "player": "Liam Broady",
-    "age": "30",
-    "country": "GBR",
-    "points": "69"
-  },
-  {
-    "rank": "539",
-    "player": "Yankı Erel",
-    "age": "24",
-    "country": "TUR",
-    "points": "69"
-  },
-  {
-    "rank": "540",
-    "player": "Miloš Karol",
-    "age": "21",
-    "country": "SVK",
-    "points": "69"
-  },
-  {
-    "rank": "541",
-    "player": "Oleksii Krutykh",
-    "age": "24",
-    "country": "UKR",
-    "points": "69"
-  },
-  {
-    "rank": "542",
-    "player": "Carlos Gimeno Valero",
-    "age": "23",
-    "country": "ESP",
-    "points": "68"
-  },
-  {
-    "rank": "543",
-    "player": "Mariano Kestelboim",
-    "age": "28",
-    "country": "ARG",
-    "points": "68"
-  },
-  {
-    "rank": "544",
-    "player": "Jake Delaney",
-    "age": "27",
-    "country": "AUS",
-    "points": "68"
-  },
-  {
-    "rank": "545",
-    "player": "Olaf Pieczkowski",
-    "age": "20",
-    "country": "POL",
-    "points": "68"
-  },
-  {
-    "rank": "546",
-    "player": "Julio César Porras",
-    "age": "26",
-    "country": "ARG",
-    "points": "67"
-  },
-  {
-    "rank": "547",
-    "player": "Edoardo Lavagno",
-    "age": "26",
-    "country": "ITA",
-    "points": "67"
-  },
-  {
-    "rank": "548",
-    "player": "Cannon Kingsley",
-    "age": "23",
-    "country": "USA",
-    "points": "67"
-  },
-  {
-    "rank": "549",
-    "player": "Keegan Smith",
-    "age": "26",
-    "country": "USA",
-    "points": "67"
-  },
-  {
-    "rank": "550",
-    "player": "Karan Singh",
-    "age": "21",
-    "country": "IND",
-    "points": "67"
-  },
-  {
-    "rank": "551",
-    "player": "Nikolay Vylegzhanin",
-    "age": "24",
-    "country": "RUS",
-    "points": "67"
-  },
-  {
-    "rank": "552",
-    "player": "Micah Braswell",
-    "age": "22",
-    "country": "USA",
-    "points": "66"
-  },
-  {
-    "rank": "553",
-    "player": "Altuğ Çelikbilek",
-    "age": "28",
-    "country": "TUR",
-    "points": "65"
-  },
-  {
-    "rank": "554",
-    "player": "Lorenzo Joaquín Rodríguez",
-    "age": "25",
-    "country": "ARG",
-    "points": "65"
-  },
-  {
-    "rank": "555",
-    "player": "João Eduardo Schiessl",
-    "age": "20",
-    "country": "BRA",
-    "points": "65"
-  },
-  {
-    "rank": "556",
-    "player": "Ilya Snițari",
-    "age": "22",
-    "country": "MDA",
-    "points": "65"
-  },
-  {
-    "rank": "557",
-    "player": "Alejo Sanchez Quilez",
-    "age": "19",
-    "country": "ESP",
-    "points": "65"
-  },
-  {
-    "rank": "558",
-    "player": "Felix Corwin",
-    "age": "28",
-    "country": "USA",
-    "points": "64"
-  },
-  {
-    "rank": "559",
-    "player": "Alessandro Giannessi",
-    "age": "34",
-    "country": "ITA",
-    "points": "64"
-  },
-  {
-    "rank": "560",
-    "player": "Martin Krumich",
-    "age": "21",
-    "country": "CZE",
-    "points": "64"
-  },
-  {
-    "rank": "561",
-    "player": "Leonardo Aboian",
-    "age": "26",
-    "country": "ARG",
-    "points": "64"
-  },
-  {
-    "rank": "562",
-    "player": "Arthur Weber",
-    "age": "32",
-    "country": "FRA",
-    "points": "63"
-  },
-  {
-    "rank": "563",
-    "player": "Sanhui Shin",
-    "age": "27",
-    "country": "KOR",
-    "points": "63"
-  },
-  {
-    "rank": "564",
-    "player": "Liam Gavrielides",
-    "age": "20",
-    "country": "GER",
-    "points": "63"
-  },
-  {
-    "rank": "565",
-    "player": "Diego Augusto Barreto Sánchez",
-    "age": "22",
-    "country": "ESP",
-    "points": "62"
-  },
-  {
-    "rank": "566",
-    "player": "Igor Gimenez",
-    "age": "24",
-    "country": "BRA",
-    "points": "62"
-  },
-  {
-    "rank": "567",
-    "player": "Louis Weßels",
-    "age": "26",
-    "country": "GER",
-    "points": "62"
-  },
-  {
-    "rank": "568",
-    "player": "Alex Martinez",
-    "age": "23",
-    "country": "ESP",
-    "points": "61"
-  },
-  {
-    "rank": "569",
-    "player": "Nam Hoang Ly",
-    "age": "27",
-    "country": "VIE",
-    "points": "61"
-  },
-  {
-    "rank": "570",
-    "player": "Tibo Colson",
-    "age": "24",
-    "country": "BEL",
-    "points": "61"
-  },
-  {
-    "rank": "571",
-    "player": "Dominik Kellovský",
-    "age": "28",
-    "country": "CZE",
-    "points": "61"
-  },
-  {
-    "rank": "572",
-    "player": "Emile Hudd",
-    "age": "24",
-    "country": "GBR",
-    "points": "61"
-  },
-  {
-    "rank": "573",
-    "player": "Gilbert Klier Junior",
-    "age": "24",
-    "country": "BRA",
-    "points": "60"
-  },
-  {
-    "rank": "574",
-    "player": "George Loffhagen",
-    "age": "23",
-    "country": "GBR",
-    "points": "60"
-  },
-  {
-    "rank": "575",
-    "player": "Filip Peliwo",
-    "age": "30",
-    "country": "POL",
-    "points": "60"
-  },
-  {
-    "rank": "576",
-    "player": "Moerani Bouzige",
-    "age": "25",
-    "country": "AUS",
-    "points": "60"
-  },
-  {
-    "rank": "577",
-    "player": "Adrian Oetzbach",
-    "age": "27",
-    "country": "GER",
-    "points": "60"
-  },
-  {
-    "rank": "578",
-    "player": "Radu Mihai Papoe",
-    "age": "22",
-    "country": "ROU",
-    "points": "59"
-  },
-  {
-    "rank": "579",
-    "player": "Steven Diez",
-    "age": "33",
-    "country": "CAN",
-    "points": "59"
-  },
-  {
-    "rank": "580",
-    "player": "Andrea Guerrieri",
-    "age": "25",
-    "country": "ITA",
-    "points": "59"
-  },
-  {
-    "rank": "581",
-    "player": "Constantin Bittoun Kouzmine",
-    "age": "25",
-    "country": "FRA",
-    "points": "59"
-  },
-  {
-    "rank": "582",
-    "player": "Juan Pablo Paz",
-    "age": "29",
-    "country": "ARG",
-    "points": "59"
-  },
-  {
-    "rank": "583",
-    "player": "Iñaki Montes De La Torre",
-    "age": "22",
-    "country": "ESP",
-    "points": "58"
-  },
-  {
-    "rank": "584",
-    "player": "Edward Winter",
-    "age": "20",
-    "country": "AUS",
-    "points": "58"
-  },
-  {
-    "rank": "585",
-    "player": "Leo Borg",
-    "age": "21",
-    "country": "SWE",
-    "points": "58"
-  },
-  {
-    "rank": "586",
-    "player": "Ryotaro Taguchi",
-    "age": "24",
-    "country": "JPN",
-    "points": "58"
-  },
-  {
-    "rank": "587",
-    "player": "Elmar Ejupovic",
-    "age": "31",
-    "country": "GER",
-    "points": "58"
-  },
-  {
-    "rank": "588",
-    "player": "Florian Broska",
-    "age": "26",
-    "country": "GER",
-    "points": "58"
-  },
-  {
-    "rank": "589",
-    "player": "Fabrizio Andaloro",
-    "age": "23",
-    "country": "ITA",
-    "points": "58"
-  },
-  {
-    "rank": "590",
-    "player": "Eero Vasa",
-    "age": "27",
-    "country": "FIN",
-    "points": "58"
-  },
-  {
-    "rank": "591",
-    "player": "Keisuke Saitoh",
-    "age": "23",
-    "country": "JPN",
-    "points": "58"
-  },
-  {
-    "rank": "592",
-    "player": "Gianmarco Ferrari",
-    "age": "24",
-    "country": "ITA",
-    "points": "58"
-  },
-  {
-    "rank": "593",
-    "player": "Vladyslav Orlov",
-    "age": "29",
-    "country": "UKR",
-    "points": "58"
-  },
-  {
-    "rank": "594",
-    "player": "Mario Gonzalez Fernandez",
-    "age": "22",
-    "country": "ESP",
-    "points": "58"
-  },
-  {
-    "rank": "595",
-    "player": "Rigele Te",
-    "age": "27",
-    "country": "CHN",
-    "points": "57"
-  },
-  {
-    "rank": "596",
-    "player": "JiSung Nam",
-    "age": "31",
-    "country": "KOR",
-    "points": "57"
-  },
-  {
-    "rank": "597",
-    "player": "Alex Rybakov",
-    "age": "27",
-    "country": "USA",
-    "points": "57"
-  },
-  {
-    "rank": "598",
-    "player": "Ryan Peniston",
-    "age": "28",
-    "country": "GBR",
-    "points": "57"
-  },
-  {
-    "rank": "599",
-    "player": "David Pichler",
-    "age": "28",
-    "country": "AUT",
-    "points": "57"
-  },
-  {
-    "rank": "600",
-    "player": "Patrick Zahraj",
-    "age": "25",
-    "country": "GER",
-    "points": "57"
-  },
-  {
-    "rank": "601",
-    "player": "Siddharth Vishwakarma",
-    "age": "30",
-    "country": "IND",
-    "points": "56"
-  },
-  {
-    "rank": "602",
-    "player": "Stuart Parker",
-    "age": "27",
-    "country": "GBR",
-    "points": "56"
-  },
-  {
-    "rank": "603",
-    "player": "Federico Bondioli",
-    "age": "19",
-    "country": "ITA",
-    "points": "56"
-  },
-  {
-    "rank": "604",
-    "player": "Alec Beckley",
-    "age": "23",
-    "country": "RSA",
-    "points": "56"
-  },
-  {
-    "rank": "605",
-    "player": "Emilien Demanet",
-    "age": "19",
-    "country": "BEL",
-    "points": "56"
-  },
-  {
-    "rank": "606",
-    "player": "Ye Cong Mo",
-    "age": "24",
-    "country": "CHN",
-    "points": "55"
-  },
-  {
-    "rank": "607",
-    "player": "Sebastian Sorger",
-    "age": "18",
-    "country": "AUT",
-    "points": "55"
-  },
-  {
-    "rank": "608",
-    "player": "Max Basing",
-    "age": "22",
-    "country": "GBR",
-    "points": "54"
-  },
-  {
-    "rank": "609",
-    "player": "Mirza Bašić",
-    "age": "33",
-    "country": "BIH",
-    "points": "54"
-  },
-  {
-    "rank": "610",
-    "player": "Strong Kirchheimer",
-    "age": "29",
-    "country": "USA",
-    "points": "54"
-  },
-  {
-    "rank": "611",
-    "player": "Antoine Cornut Chauvinc",
-    "age": "24",
-    "country": "FRA",
-    "points": "53"
-  },
-  {
-    "rank": "612",
-    "player": "Federico Gaio",
-    "age": "32",
-    "country": "ITA",
-    "points": "53"
-  },
-  {
-    "rank": "613",
-    "player": "Sebastian Gima",
-    "age": "22",
-    "country": "ROU",
-    "points": "53"
-  },
-  {
-    "rank": "614",
-    "player": "Antoine Hoang",
-    "age": "28",
-    "country": "FRA",
-    "points": "52"
-  },
-  {
-    "rank": "615",
-    "player": "Peter Fajta",
-    "age": "22",
-    "country": "HUN",
-    "points": "52"
-  },
-  {
-    "rank": "616",
-    "player": "Makoto Ochi",
-    "age": "28",
-    "country": "JPN",
-    "points": "52"
-  },
-  {
-    "rank": "617",
-    "player": "Ajeet Rai",
-    "age": "25",
-    "country": "NZL",
-    "points": "52"
-  },
-  {
-    "rank": "618",
-    "player": "Alex Knaff",
-    "age": "26",
-    "country": "LUX",
-    "points": "52"
-  },
-  {
-    "rank": "619",
-    "player": "Kyle Kang",
-    "age": "19",
-    "country": "USA",
-    "points": "51"
-  },
-  {
-    "rank": "620",
-    "player": "Sander Jong",
-    "age": "24",
-    "country": "NED",
-    "points": "51"
-  },
-  {
-    "rank": "621",
-    "player": "Peter Heller",
-    "age": "32",
-    "country": "GER",
-    "points": "51"
-  },
-  {
-    "rank": "622",
-    "player": "Orel Kimhi",
-    "age": "21",
-    "country": "ISR",
-    "points": "51"
-  },
-  {
-    "rank": "623",
-    "player": "Nick Chappell",
-    "age": "32",
-    "country": "USA",
-    "points": "51"
-  },
-  {
-    "rank": "624",
-    "player": "Aryan Shah",
-    "age": "18",
-    "country": "IND",
-    "points": "50"
-  },
-  {
-    "rank": "625",
-    "player": "Dušan Obradović",
-    "age": "23",
-    "country": "SRB",
-    "points": "50"
-  },
-  {
-    "rank": "626",
-    "player": "Mariano Tammaro",
-    "age": "20",
-    "country": "ITA",
-    "points": "50"
-  },
-  {
-    "rank": "627",
-    "player": "Yaroslav Demin",
-    "age": "19",
-    "country": "RUS",
-    "points": "50"
-  },
-  {
-    "rank": "628",
-    "player": "Martyn Pawelski",
-    "age": "19",
-    "country": "POL",
-    "points": "50"
-  },
-  {
-    "rank": "629",
-    "player": "Simon Beaupain",
-    "age": "25",
-    "country": "BEL",
-    "points": "50"
-  },
-  {
-    "rank": "630",
-    "player": "Buvaysar Gadamauri",
-    "age": "24",
-    "country": "BEL",
-    "points": "50"
-  },
-  {
-    "rank": "631",
-    "player": "Oliver Tarvet",
-    "age": "21",
-    "country": "GBR",
-    "points": "49"
-  },
-  {
-    "rank": "632",
-    "player": "Filip Krajinović",
-    "age": "32",
-    "country": "SRB",
-    "points": "49"
-  },
-  {
-    "rank": "633",
-    "player": "Arthur Reymond",
-    "age": "25",
-    "country": "FRA",
-    "points": "49"
-  },
-  {
-    "rank": "634",
-    "player": "Ozan Baris",
-    "age": "20",
-    "country": "USA",
-    "points": "49"
-  },
-  {
-    "rank": "635",
-    "player": "Enzo Wallart",
-    "age": "27",
-    "country": "FRA",
-    "points": "49"
-  },
-  {
-    "rank": "636",
-    "player": "Juan Manuel La Serna",
-    "age": "20",
-    "country": "ARG",
-    "points": "49"
-  },
-  {
-    "rank": "637",
-    "player": "Massimo Giunta",
-    "age": "20",
-    "country": "ITA",
-    "points": "49"
-  },
-  {
-    "rank": "638",
-    "player": "Denis Klok",
-    "age": "26",
-    "country": "RUS",
-    "points": "49"
-  },
-  {
-    "rank": "639",
-    "player": "Mitsuki Wei Kang Leong",
-    "age": "20",
-    "country": "MAS",
-    "points": "49"
-  },
-  {
-    "rank": "640",
-    "player": "Amr Elsayed",
-    "age": "25",
-    "country": "EGY",
-    "points": "49"
-  },
-  {
-    "rank": "641",
-    "player": "Wishaya Trongcharoenchaikul",
-    "age": "29",
-    "country": "THA",
-    "points": "49"
-  },
-  {
-    "rank": "642",
-    "player": "Kimmer Coppejans",
-    "age": "30",
-    "country": "BEL",
-    "points": "48"
-  },
-  {
-    "rank": "643",
-    "player": "Lorenzo Bocchi",
-    "age": "26",
-    "country": "ITA",
-    "points": "48"
-  },
-  {
-    "rank": "644",
-    "player": "Woobin Shin",
-    "age": "20",
-    "country": "KOR",
-    "points": "48"
-  },
-  {
-    "rank": "645",
-    "player": "Maxence Rivet",
-    "age": "21",
-    "country": "FRA",
-    "points": "48"
-  },
-  {
-    "rank": "646",
-    "player": "Aziz Ouakaa",
-    "age": "25",
-    "country": "TUN",
-    "points": "48"
-  },
-  {
-    "rank": "647",
-    "player": "Trevor Svajda",
-    "age": "18",
-    "country": "USA",
-    "points": "47"
-  },
-  {
-    "rank": "648",
-    "player": "Timo Legout",
-    "age": "22",
-    "country": "FRA",
-    "points": "47"
-  },
-  {
-    "rank": "649",
-    "player": "Oscar Otte",
-    "age": "31",
-    "country": "GER",
-    "points": "47"
-  },
-  {
-    "rank": "650",
-    "player": "Eduardo Ribeiro",
-    "age": "26",
-    "country": "BRA",
-    "points": "47"
-  },
-  {
-    "rank": "651",
-    "player": "Mateo Barreiros Reyes",
-    "age": "23",
-    "country": "BRA",
-    "points": "47"
-  },
-  {
-    "rank": "652",
-    "player": "Deney Wassermann",
-    "age": "23",
-    "country": "NED",
-    "points": "47"
-  },
-  {
-    "rank": "653",
-    "player": "Juan Sebastián Gómez",
-    "age": "32",
-    "country": "COL",
-    "points": "46"
-  },
-  {
-    "rank": "654",
-    "player": "Gerald Melzer",
-    "age": "34",
-    "country": "AUT",
-    "points": "46"
-  },
-  {
-    "rank": "655",
-    "player": "Savva Polukhin",
-    "age": "25",
-    "country": "RUS",
-    "points": "46"
-  },
-  {
-    "rank": "656",
-    "player": "Johan Nikles",
-    "age": "27",
-    "country": "SUI",
-    "points": "46"
-  },
-  {
-    "rank": "657",
-    "player": "Antoine Ghibaudo",
-    "age": "19",
-    "country": "FRA",
-    "points": "46"
-  },
-  {
-    "rank": "658",
-    "player": "Diego Fernandez Flores",
-    "age": "24",
-    "country": "CHI",
-    "points": "46"
-  },
-  {
-    "rank": "659",
-    "player": "Colin Sinclair",
-    "age": "29",
-    "country": "NMI",
-    "points": "45"
-  },
-  {
-    "rank": "660",
-    "player": "Thanapet Chanta",
-    "age": "25",
-    "country": "THA",
-    "points": "45"
-  },
-  {
-    "rank": "661",
-    "player": "Elliot Benchetrit",
-    "age": "26",
-    "country": "MAR",
-    "points": "45"
-  },
-  {
-    "rank": "662",
-    "player": "Ben Jones",
-    "age": "26",
-    "country": "GBR",
-    "points": "45"
-  },
-  {
-    "rank": "663",
-    "player": "Jason Jung",
-    "age": "35",
-    "country": "TWN",
-    "points": "44"
-  },
-  {
-    "rank": "664",
-    "player": "Guido Andreozzi",
-    "age": "33",
-    "country": "ARG",
-    "points": "44"
-  },
-  {
-    "rank": "665",
-    "player": "Samir Banerjee",
-    "age": "21",
-    "country": "USA",
-    "points": "44"
-  },
-  {
-    "rank": "666",
-    "player": "Mikalai Haliak",
-    "age": "26",
-    "country": "BLR",
-    "points": "44"
-  },
-  {
-    "rank": "667",
-    "player": "Dominik Palan",
-    "age": "24",
-    "country": "CZE",
-    "points": "44"
-  },
-  {
-    "rank": "668",
-    "player": "Maik Steiner",
-    "age": "30",
-    "country": "GER",
-    "points": "44"
-  },
-  {
-    "rank": "669",
-    "player": "Karl Friberg",
-    "age": "25",
-    "country": "SWE",
-    "points": "43"
-  },
-  {
-    "rank": "670",
-    "player": "Andrej Nedic",
-    "age": "20",
-    "country": "BIH",
-    "points": "43"
-  },
-  {
-    "rank": "671",
-    "player": "Quinn Vandecasteele",
-    "age": "22",
-    "country": "USA",
-    "points": "43"
-  },
-  {
-    "rank": "672",
-    "player": "Adam Neff",
-    "age": "23",
-    "country": "USA",
-    "points": "43"
-  },
-  {
-    "rank": "673",
-    "player": "Aristotelis Thanos",
-    "age": "23",
-    "country": "GRE",
-    "points": "43"
-  },
-  {
-    "rank": "674",
-    "player": "Taisei Ichikawa",
-    "age": "23",
-    "country": "JPN",
-    "points": "43"
-  },
-  {
-    "rank": "675",
-    "player": "Maé Malige",
-    "age": "18",
-    "country": "FRA",
-    "points": "43"
-  },
-  {
-    "rank": "676",
-    "player": "Franco Ribero",
-    "age": "25",
-    "country": "ARG",
-    "points": "43"
-  },
-  {
-    "rank": "677",
-    "player": "Bautista Vilicich",
-    "age": "23",
-    "country": "ARG",
-    "points": "43"
-  },
-  {
-    "rank": "678",
-    "player": "Leonardo Rossi",
-    "age": "22",
-    "country": "ITA",
-    "points": "43"
-  },
-  {
-    "rank": "679",
-    "player": "Juan Estevez",
-    "age": "19",
-    "country": "ARG",
-    "points": "43"
-  },
-  {
-    "rank": "680",
-    "player": "Nicolai Budkov Kjaer",
-    "age": "18",
-    "country": "NOR",
-    "points": "42"
-  },
-  {
-    "rank": "681",
-    "player": "Marius Copil",
-    "age": "34",
-    "country": "ROU",
-    "points": "41"
-  },
-  {
-    "rank": "682",
-    "player": "Gian Marco Moroni",
-    "age": "26",
-    "country": "ITA",
-    "points": "41"
-  },
-  {
-    "rank": "683",
-    "player": "Karlis Ozolins",
-    "age": "22",
-    "country": "LAT",
-    "points": "41"
-  },
-  {
-    "rank": "684",
-    "player": "Federico Cina",
-    "age": "17",
-    "country": "ITA",
-    "points": "41"
-  },
-  {
-    "rank": "685",
-    "player": "John Sperle",
-    "age": "22",
-    "country": "GER",
-    "points": "41"
-  },
-  {
-    "rank": "686",
-    "player": "Sidane Pontjodikromo",
-    "age": "24",
-    "country": "NED",
-    "points": "41"
-  },
-  {
-    "rank": "687",
-    "player": "Albert Pedrico Kravtsov",
-    "age": "19",
-    "country": "ESP",
-    "points": "41"
-  },
-  {
-    "rank": "688",
-    "player": "Jack Logé",
-    "age": "19",
-    "country": "BEL",
-    "points": "41"
-  },
-  {
-    "rank": "689",
-    "player": "Zura Tkemaladze",
-    "age": "24",
-    "country": "GEO",
-    "points": "41"
-  },
-  {
-    "rank": "690",
-    "player": "Harry Wendelken",
-    "age": "22",
-    "country": "GBR",
-    "points": "41"
-  },
-  {
-    "rank": "691",
-    "player": "Ulises Blanch",
-    "age": "26",
-    "country": "USA",
-    "points": "40"
-  },
-  {
-    "rank": "692",
-    "player": "Francisco Rocha",
-    "age": "25",
-    "country": "POR",
-    "points": "40"
-  },
-  {
-    "rank": "693",
-    "player": "Alejandro Manzanera Pertusa",
-    "age": "21",
-    "country": "ESP",
-    "points": "40"
-  },
-  {
-    "rank": "694",
-    "player": "Nicolas Zanellato",
-    "age": "22",
-    "country": "BRA",
-    "points": "40"
-  },
-  {
-    "rank": "695",
-    "player": "Kenny de Schepper",
-    "age": "37",
-    "country": "FRA",
-    "points": "40"
-  },
-  {
-    "rank": "696",
-    "player": "Erik Arutiunian",
-    "age": "20",
-    "country": "BLR",
-    "points": "40"
-  },
-  {
-    "rank": "697",
-    "player": "Iliyan Radulov",
-    "age": "19",
-    "country": "BUL",
-    "points": "40"
-  },
-  {
-    "rank": "698",
-    "player": "Tristan McCormick",
-    "age": "25",
-    "country": "USA",
-    "points": "40"
-  },
-  {
-    "rank": "699",
-    "player": "Ignacio Monzón",
-    "age": "26",
-    "country": "ARG",
-    "points": "40"
-  },
-  {
-    "rank": "700",
-    "player": "Tsung Hao Huang",
-    "age": "24",
-    "country": "TWN",
-    "points": "40"
-  },
-  {
-    "rank": "701",
-    "player": "Noah Schachter",
-    "age": "25",
-    "country": "USA",
-    "points": "40"
-  },
-  {
-    "rank": "702",
-    "player": "Devin Badenhorst",
-    "age": "20",
-    "country": "RSA",
-    "points": "39"
-  },
-  {
-    "rank": "703",
-    "player": "Alex Hernandez",
-    "age": "25",
-    "country": "MEX",
-    "points": "39"
-  },
-  {
-    "rank": "704",
-    "player": "Yun seong Chung",
-    "age": "26",
-    "country": "KOR",
-    "points": "39"
-  },
-  {
-    "rank": "705",
-    "player": "Salvatore Caruso",
-    "age": "31",
-    "country": "ITA",
-    "points": "39"
-  },
-  {
-    "rank": "706",
-    "player": "Peter Buldorini",
-    "age": "20",
-    "country": "ITA",
-    "points": "39"
-  },
-  {
-    "rank": "707",
-    "player": "Samuele Pieri",
-    "age": "22",
-    "country": "ITA",
-    "points": "39"
-  },
-  {
-    "rank": "708",
-    "player": "Luca Wiedenmann",
-    "age": "26",
-    "country": "GER",
-    "points": "39"
-  },
-  {
-    "rank": "709",
-    "player": "Tom Paris",
-    "age": "22",
-    "country": "FRA",
-    "points": "38"
-  },
-  {
-    "rank": "710",
-    "player": "Émilien Voisin",
-    "age": "24",
-    "country": "FRA",
-    "points": "38"
-  },
-  {
-    "rank": "711",
-    "player": "Linang Xiao",
-    "age": "24",
-    "country": "CHN",
-    "points": "38"
-  },
-  {
-    "rank": "712",
-    "player": "Evgeny Philippov",
-    "age": "22",
-    "country": "RUS",
-    "points": "38"
-  },
-  {
-    "rank": "713",
-    "player": "Dali Blanch",
-    "age": "21",
-    "country": "USA",
-    "points": "38"
-  },
-  {
-    "rank": "714",
-    "player": "Timo Stodder",
-    "age": "28",
-    "country": "GER",
-    "points": "37"
-  },
-  {
-    "rank": "715",
-    "player": "Théo Papamalamis",
-    "age": "18",
-    "country": "FRA",
-    "points": "37"
-  },
-  {
-    "rank": "716",
-    "player": "Thomas Fancutt",
-    "age": "29",
-    "country": "AUS",
-    "points": "37"
-  },
-  {
-    "rank": "717",
-    "player": "Alex Barrena",
-    "age": "22",
-    "country": "ARG",
-    "points": "37"
-  },
-  {
-    "rank": "718",
-    "player": "Gabriel Décamps",
-    "age": "25",
-    "country": "BRA",
-    "points": "37"
-  },
-  {
-    "rank": "719",
-    "player": "Alan Fernando Rubio Fierros",
-    "age": "25",
-    "country": "MEX",
-    "points": "37"
-  },
-  {
-    "rank": "720",
-    "player": "Juan Bautista Otegui",
-    "age": "25",
-    "country": "ARG",
-    "points": "37"
-  },
-  {
-    "rank": "721",
-    "player": "Maxwell Mckennon",
-    "age": "22",
-    "country": "USA",
-    "points": "37"
-  },
-  {
-    "rank": "722",
-    "player": "Wilson Leite",
-    "age": "32",
-    "country": "BRA",
-    "points": "37"
-  },
-  {
-    "rank": "723",
-    "player": "Ivan Marrero Curbelo",
-    "age": "26",
-    "country": "ESP",
-    "points": "37"
-  },
-  {
-    "rank": "724",
-    "player": "John Echeverria",
-    "age": "22",
-    "country": "ESP",
-    "points": "37"
-  },
-  {
-    "rank": "725",
-    "player": "Samir Hamza Reguig",
-    "age": "22",
-    "country": "ALG",
-    "points": "37"
-  },
-  {
-    "rank": "726",
-    "player": "Olle Wallin",
-    "age": "23",
-    "country": "SWE",
-    "points": "36"
-  },
-  {
-    "rank": "727",
-    "player": "Justin Boulais",
-    "age": "23",
-    "country": "CAN",
-    "points": "36"
-  },
-  {
-    "rank": "728",
-    "player": "Rudy Quan",
-    "age": "18",
-    "country": "USA",
-    "points": "36"
-  },
-  {
-    "rank": "729",
-    "player": "Etienne Donnet",
-    "age": "23",
-    "country": "FRA",
-    "points": "36"
-  },
-  {
-    "rank": "730",
-    "player": "Gergely Madarász",
-    "age": "30",
-    "country": "HUN",
-    "points": "36"
-  },
-  {
-    "rank": "731",
-    "player": "Ioan Alexandru Chirita",
-    "age": "21",
-    "country": "ROU",
-    "points": "36"
-  },
-  {
-    "rank": "732",
-    "player": "Maxim Zhukov",
-    "age": "19",
-    "country": "RUS",
-    "points": "36"
-  },
-  {
-    "rank": "733",
-    "player": "Marlon Vankan",
-    "age": "24",
-    "country": "GER",
-    "points": "36"
-  },
-  {
-    "rank": "734",
-    "player": "Giuseppe La Vela",
-    "age": "24",
-    "country": "ITA",
-    "points": "36"
-  },
-  {
-    "rank": "735",
-    "player": "Vasek Pospisil",
-    "age": "34",
-    "country": "CAN",
-    "points": "35"
-  },
-  {
-    "rank": "736",
-    "player": "Karl Poling",
-    "age": "25",
-    "country": "USA",
-    "points": "35"
-  },
-  {
-    "rank": "737",
-    "player": "Miljan Zekić",
-    "age": "36",
-    "country": "SRB",
-    "points": "35"
-  },
-  {
-    "rank": "738",
-    "player": "Trey Hilderbrand",
-    "age": "24",
-    "country": "USA",
-    "points": "35"
-  },
-  {
-    "rank": "739",
-    "player": "Alexander Donski",
-    "age": "26",
-    "country": "BUL",
-    "points": "35"
-  },
-  {
-    "rank": "740",
-    "player": "Lorenzo Rottoli",
-    "age": "22",
-    "country": "ITA",
-    "points": "35"
-  },
-  {
-    "rank": "741",
-    "player": "Louis Dussin",
-    "age": "25",
-    "country": "FRA",
-    "points": "35"
-  },
-  {
-    "rank": "742",
-    "player": "Niccolo Catini",
-    "age": "26",
-    "country": "ITA",
-    "points": "35"
-  },
-  {
-    "rank": "743",
-    "player": "William Grant",
-    "age": "23",
-    "country": "USA",
-    "points": "35"
-  },
-  {
-    "rank": "744",
-    "player": "Jacob Brumm",
-    "age": "25",
-    "country": "USA",
-    "points": "35"
-  },
-  {
-    "rank": "745",
-    "player": "Louis Tessa",
-    "age": "26",
-    "country": "FRA",
-    "points": "35"
-  },
-  {
-    "rank": "746",
-    "player": "Duck-hee Lee",
-    "age": "26",
-    "country": "KOR",
-    "points": "34"
-  },
-  {
-    "rank": "747",
-    "player": "Yuki Mochizuki",
-    "age": "26",
-    "country": "JPN",
-    "points": "34"
-  },
-  {
-    "rank": "748",
-    "player": "Luca Castagnola",
-    "age": "22",
-    "country": "ITA",
-    "points": "34"
-  },
-  {
-    "rank": "749",
-    "player": "Nathan Ponwith",
-    "age": "26",
-    "country": "USA",
-    "points": "34"
-  },
-  {
-    "rank": "750",
-    "player": "Maximus Jones",
-    "age": "20",
-    "country": "THA",
-    "points": "34"
-  },
-  {
-    "rank": "751",
-    "player": "Dan Martin",
-    "age": "25",
-    "country": "CAN",
-    "points": "34"
-  },
-  {
-    "rank": "752",
-    "player": "Gavin Young",
-    "age": "22",
-    "country": "USA",
-    "points": "33"
-  },
-  {
-    "rank": "753",
-    "player": "Alexandr Binda",
-    "age": "23",
-    "country": "ITA",
-    "points": "33"
-  },
-  {
-    "rank": "754",
-    "player": "Michael Zheng",
-    "age": "20",
-    "country": "USA",
-    "points": "32"
-  },
-  {
-    "rank": "755",
-    "player": "Diego Dedura Palomero",
-    "age": "16",
-    "country": "GER",
-    "points": "32"
-  },
-  {
-    "rank": "756",
-    "player": "Luca Potenza",
-    "age": "24",
-    "country": "ITA",
-    "points": "32"
-  },
-  {
-    "rank": "757",
-    "player": "Mikhail Gorokhov",
-    "age": "20",
-    "country": "RUS",
-    "points": "32"
-  },
-  {
-    "rank": "758",
-    "player": "Ewen Lumsden",
-    "age": "24",
-    "country": "GBR",
-    "points": "32"
-  },
-  {
-    "rank": "759",
-    "player": "Johan Alexander Rodriguez",
-    "age": "21",
-    "country": "COL",
-    "points": "32"
-  },
-  {
-    "rank": "760",
-    "player": "Adam Heinonen",
-    "age": "22",
-    "country": "SWE",
-    "points": "32"
-  },
-  {
-    "rank": "761",
-    "player": "Jakub Filip",
-    "age": "19",
-    "country": "CZE",
-    "points": "32"
-  },
-  {
-    "rank": "762",
-    "player": "Dev Javia",
-    "age": "22",
-    "country": "IND",
-    "points": "32"
-  },
-  {
-    "rank": "763",
-    "player": "Amaury Raynel",
-    "age": "22",
-    "country": "FRA",
-    "points": "32"
-  },
-  {
-    "rank": "764",
-    "player": "Fabien Salle",
-    "age": "25",
-    "country": "FRA",
-    "points": "32"
-  },
-  {
-    "rank": "765",
-    "player": "Lautaro Agustin Falabella",
-    "age": "26",
-    "country": "ARG",
-    "points": "32"
-  },
-  {
-    "rank": "766",
-    "player": "Sergi Perez Contri",
-    "age": "26",
-    "country": "ESP",
-    "points": "32"
-  },
-  {
-    "rank": "767",
-    "player": "Khololwam Montsi",
-    "age": "21",
-    "country": "RSA",
-    "points": "31"
-  },
-  {
-    "rank": "768",
-    "player": "Taha Baadi",
-    "age": "23",
-    "country": "CAN",
-    "points": "31"
-  },
-  {
-    "rank": "769",
-    "player": "Axel Garcian",
-    "age": "22",
-    "country": "FRA",
-    "points": "31"
-  },
-  {
-    "rank": "770",
-    "player": "S D Prajwal Dev",
-    "age": "28",
-    "country": "IND",
-    "points": "31"
-  },
-  {
-    "rank": "771",
-    "player": "Andrey Chepelev",
-    "age": "26",
-    "country": "RUS",
-    "points": "31"
-  },
-  {
-    "rank": "772",
-    "player": "Alexandre Aubriot",
-    "age": "25",
-    "country": "FRA",
-    "points": "31"
-  },
-  {
-    "rank": "773",
-    "player": "Kosuke Ogura",
-    "age": "28",
-    "country": "JPN",
-    "points": "31"
-  },
-  {
-    "rank": "774",
-    "player": "Franco Emanuel Egea",
-    "age": "28",
-    "country": "ARG",
-    "points": "30"
-  },
-  {
-    "rank": "775",
-    "player": "Adrian Bodmer",
-    "age": "29",
-    "country": "SUI",
-    "points": "30"
-  },
-  {
-    "rank": "776",
-    "player": "Tomohiro Masabayashi",
-    "age": "26",
-    "country": "JPN",
-    "points": "30"
-  },
-  {
-    "rank": "777",
-    "player": "Evan Furness",
-    "age": "26",
-    "country": "FRA",
-    "points": "30"
-  },
-  {
-    "rank": "778",
-    "player": "Vuk Radjenovic",
-    "age": "19",
-    "country": "SRB",
-    "points": "30"
-  },
-  {
-    "rank": "779",
-    "player": "Branko Djuric",
-    "age": "19",
-    "country": "SRB",
-    "points": "30"
-  },
-  {
-    "rank": "780",
-    "player": "Peter Benjamin Privara",
-    "age": "20",
-    "country": "SVK",
-    "points": "30"
-  },
-  {
-    "rank": "781",
-    "player": "Loann Massard",
-    "age": "19",
-    "country": "FRA",
-    "points": "30"
-  },
-  {
-    "rank": "782",
-    "player": "Henry Bernet",
-    "age": "17",
-    "country": "SUI",
-    "points": "29"
-  },
-  {
-    "rank": "783",
-    "player": "Dhakshineswar Suresh",
-    "age": "24",
-    "country": "IND",
-    "points": "29"
-  },
-  {
-    "rank": "784",
-    "player": "Alvin Nicholas Tudorica",
-    "age": "22",
-    "country": "CAN",
-    "points": "29"
-  },
-  {
-    "rank": "785",
-    "player": "Ioannis Xilas",
-    "age": "23",
-    "country": "GRE",
-    "points": "29"
-  },
-  {
-    "rank": "786",
-    "player": "Matt Hulme",
-    "age": "25",
-    "country": "AUS",
-    "points": "29"
-  },
-  {
-    "rank": "787",
-    "player": "Vlad Andrei Dancu",
-    "age": "25",
-    "country": "ROU",
-    "points": "29"
-  },
-  {
-    "rank": "788",
-    "player": "Pierre Yves Bailly",
-    "age": "21",
-    "country": "BEL",
-    "points": "28"
-  },
-  {
-    "rank": "789",
-    "player": "Skander Mansouri",
-    "age": "29",
-    "country": "TUN",
-    "points": "28"
-  },
-  {
-    "rank": "790",
-    "player": "Martin Borisiouk",
-    "age": "24",
-    "country": "BLR",
-    "points": "28"
-  },
-  {
-    "rank": "791",
-    "player": "Rei Sakamoto",
-    "age": "18",
-    "country": "JPN",
-    "points": "28"
-  },
-  {
-    "rank": "792",
-    "player": "Georgii Kravchenko",
-    "age": "24",
-    "country": "UKR",
-    "points": "28"
-  },
-  {
-    "rank": "793",
-    "player": "Cengiz Aksu",
-    "age": "26",
-    "country": "TUR",
-    "points": "28"
-  },
-  {
-    "rank": "794",
-    "player": "Gilles Arnaud Bailly",
-    "age": "19",
-    "country": "BEL",
-    "points": "28"
-  },
-  {
-    "rank": "795",
-    "player": "Axel Nefve",
-    "age": "24",
-    "country": "USA",
-    "points": "28"
-  },
-  {
-    "rank": "796",
-    "player": "Alexandre Reco",
-    "age": "25",
-    "country": "FRA",
-    "points": "28"
-  },
-  {
-    "rank": "797",
-    "player": "Leo Vithoontien",
-    "age": "25",
-    "country": "JPN",
-    "points": "28"
-  },
-  {
-    "rank": "798",
-    "player": "Matthew William Donald",
-    "age": "19",
-    "country": "CZE",
-    "points": "28"
-  },
-  {
-    "rank": "799",
-    "player": "Pedro Vives Marcos",
-    "age": "23",
-    "country": "ESP",
-    "points": "27"
-  },
-  {
-    "rank": "800",
-    "player": "Kenta Miyoshi",
-    "age": "20",
-    "country": "JPN",
-    "points": "27"
-  },
-  {
-    "rank": "801",
-    "player": "Jesse Flores",
-    "age": "29",
-    "country": "CRC",
-    "points": "27"
-  },
-  {
-    "rank": "802",
-    "player": "Bogdan Pavel",
-    "age": "25",
-    "country": "ROU",
-    "points": "27"
-  },
-  {
-    "rank": "803",
-    "player": "Kane Bonsach Ganley",
-    "age": "19",
-    "country": "DEN",
-    "points": "27"
-  },
-  {
-    "rank": "804",
-    "player": "Stefan Adrian Andreescu",
-    "age": "22",
-    "country": "ROU",
-    "points": "27"
-  },
-  {
-    "rank": "805",
-    "player": "Yanis Ghazouani Durand",
-    "age": "24",
-    "country": "FRA",
-    "points": "27"
-  },
-  {
-    "rank": "806",
-    "player": "Luca Castelnuovo",
-    "age": "27",
-    "country": "SUI",
-    "points": "27"
-  },
-  {
-    "rank": "807",
-    "player": "Maxence Bertimon",
-    "age": "25",
-    "country": "FRA",
-    "points": "27"
-  },
-  {
-    "rank": "808",
-    "player": "Jack Loutit",
-    "age": "20",
-    "country": "NZL",
-    "points": "26"
-  },
-  {
-    "rank": "809",
-    "player": "Alexander Bernard",
-    "age": "21",
-    "country": "USA",
-    "points": "26"
-  },
-  {
-    "rank": "810",
-    "player": "Tianhui Zhang",
-    "age": "18",
-    "country": "CHN",
-    "points": "26"
-  },
-  {
-    "rank": "811",
-    "player": "Millen Hurrion",
-    "age": "25",
-    "country": "GBR",
-    "points": "26"
-  },
-  {
-    "rank": "812",
-    "player": "Kaylan Bigun",
-    "age": "18",
-    "country": "USA",
-    "points": "26"
-  },
-  {
-    "rank": "813",
-    "player": "Patrick Brady",
-    "age": "19",
-    "country": "GBR",
-    "points": "26"
-  },
-  {
-    "rank": "814",
-    "player": "Matías Franco Descotte",
-    "age": "30",
-    "country": "ARG",
-    "points": "26"
-  },
-  {
-    "rank": "815",
-    "player": "Fausto Tabacco",
-    "age": "22",
-    "country": "ITA",
-    "points": "26"
-  },
-  {
-    "rank": "816",
-    "player": "Joshua Sheehy",
-    "age": "27",
-    "country": "USA",
-    "points": "26"
-  },
-  {
-    "rank": "817",
-    "player": "Noah Perfetti",
-    "age": "23",
-    "country": "ITA",
-    "points": "26"
-  },
-  {
-    "rank": "818",
-    "player": "Saveliy Ivanov",
-    "age": "20",
-    "country": "RUS",
-    "points": "26"
-  },
-  {
-    "rank": "819",
-    "player": "Michael Zhu",
-    "age": "32",
-    "country": "USA",
-    "points": "26"
-  },
-  {
-    "rank": "820",
-    "player": "Jason Kubler",
-    "age": "31",
-    "country": "AUS",
-    "points": "25"
-  },
-  {
-    "rank": "821",
-    "player": "Blaž Rola",
-    "age": "34",
-    "country": "SLO",
-    "points": "25"
-  },
-  {
-    "rank": "822",
-    "player": "Aidan Kim",
-    "age": "19",
-    "country": "USA",
-    "points": "25"
-  },
-  {
-    "rank": "823",
-    "player": "James Story",
-    "age": "23",
-    "country": "GBR",
-    "points": "25"
-  },
-  {
-    "rank": "824",
-    "player": "Juan Carlos Aguilar",
-    "age": "25",
-    "country": "CAN",
-    "points": "25"
-  },
-  {
-    "rank": "825",
-    "player": "Elgin Khoeblal",
-    "age": "23",
-    "country": "NED",
-    "points": "25"
-  },
-  {
-    "rank": "826",
-    "player": "Ezekiel Clark",
-    "age": "26",
-    "country": "USA",
-    "points": "25"
-  },
-  {
-    "rank": "827",
-    "player": "Filippo Romano",
-    "age": "19",
-    "country": "ITA",
-    "points": "25"
-  },
-  {
-    "rank": "828",
-    "player": "Juan Ignacio Lóndero",
-    "age": "31",
-    "country": "ARG",
-    "points": "24"
-  },
-  {
-    "rank": "829",
-    "player": "Nicolás Kicker",
-    "age": "32",
-    "country": "ARG",
-    "points": "24"
-  },
-  {
-    "rank": "830",
-    "player": "Filip Jeff Planinsek",
-    "age": "23",
-    "country": "SLO",
-    "points": "24"
-  },
-  {
-    "rank": "831",
-    "player": "Mees Rottgering",
-    "age": "17",
-    "country": "NED",
-    "points": "24"
-  },
-  {
-    "rank": "832",
-    "player": "James Watt",
-    "age": "24",
-    "country": "NZL",
-    "points": "24"
-  },
-  {
-    "rank": "833",
-    "player": "Benjamin Thomas George",
-    "age": "21",
-    "country": "CAN",
-    "points": "24"
-  },
-  {
-    "rank": "834",
-    "player": "Filip Pieczonka",
-    "age": "20",
-    "country": "POL",
-    "points": "24"
-  },
-  {
-    "rank": "835",
-    "player": "Benjamin Winter Lopez",
-    "age": "26",
-    "country": "ESP",
-    "points": "24"
-  },
-  {
-    "rank": "836",
-    "player": "Alexander Stater",
-    "age": "25",
-    "country": "USA",
-    "points": "24"
-  },
-  {
-    "rank": "837",
-    "player": "Gabriele Maria Noce",
-    "age": "29",
-    "country": "ITA",
-    "points": "24"
-  },
-  {
-    "rank": "838",
-    "player": "Carlo Alberto Caniato",
-    "age": "18",
-    "country": "ITA",
-    "points": "24"
-  },
-  {
-    "rank": "839",
-    "player": "Francesco Ferrari",
-    "age": "27",
-    "country": "ITA",
-    "points": "24"
-  },
-  {
-    "rank": "840",
-    "player": "Maxence Beaugé",
-    "age": "24",
-    "country": "FRA",
-    "points": "24"
-  },
-  {
-    "rank": "841",
-    "player": "Niki Kaliyanda Poonacha",
-    "age": "29",
-    "country": "IND",
-    "points": "23"
-  },
-  {
-    "rank": "842",
-    "player": "Stefan Dostanic",
-    "age": "22",
-    "country": "USA",
-    "points": "23"
-  },
-  {
-    "rank": "843",
-    "player": "Conner Huertas del Pino",
-    "age": "28",
-    "country": "PER",
-    "points": "23"
-  },
-  {
-    "rank": "844",
-    "player": "Alec Deckers",
-    "age": "24",
-    "country": "NED",
-    "points": "23"
-  },
-  {
-    "rank": "845",
-    "player": "Cyril Vandermeersch",
-    "age": "25",
-    "country": "FRA",
-    "points": "23"
-  },
-  {
-    "rank": "846",
-    "player": "Henrik Wiersholm",
-    "age": "27",
-    "country": "USA",
-    "points": "23"
-  },
-  {
-    "rank": "847",
-    "player": "David Pérez Sanz",
-    "age": "30",
-    "country": "ESP",
-    "points": "23"
-  },
-  {
-    "rank": "848",
-    "player": "Alexander Klintcharov",
-    "age": "28",
-    "country": "NZL",
-    "points": "23"
-  },
-  {
-    "rank": "849",
-    "player": "Petr Brunclik",
-    "age": "18",
-    "country": "CZE",
-    "points": "23"
-  },
-  {
-    "rank": "850",
-    "player": "Ignacio Parisca Romera",
-    "age": "19",
-    "country": "VEN",
-    "points": "23"
-  },
-  {
-    "rank": "851",
-    "player": "Joaquin Aguilar Cardozo",
-    "age": "19",
-    "country": "URU",
-    "points": "23"
-  },
-  {
-    "rank": "852",
-    "player": "Ignacio Antonio Becerra Otarola",
-    "age": "24",
-    "country": "CHI",
-    "points": "23"
-  },
-  {
-    "rank": "853",
-    "player": "Kai Wehnelt",
-    "age": "28",
-    "country": "GER",
-    "points": "23"
-  },
-  {
-    "rank": "854",
-    "player": "Michele Ribecai",
-    "age": "21",
-    "country": "ITA",
-    "points": "23"
-  },
-  {
-    "rank": "855",
-    "player": "Adil Kalyanpur",
-    "age": "24",
-    "country": "IND",
-    "points": "23"
-  },
-  {
-    "rank": "856",
-    "player": "Luca Giacomini",
-    "age": "27",
-    "country": "ITA",
-    "points": "23"
-  },
-  {
-    "rank": "857",
-    "player": "Collin Altamirano",
-    "age": "28",
-    "country": "USA",
-    "points": "23"
-  },
-  {
-    "rank": "858",
-    "player": "Jasza Szajrych",
-    "age": "22",
-    "country": "POL",
-    "points": "23"
-  },
-  {
-    "rank": "859",
-    "player": "Corban Crowther",
-    "age": "21",
-    "country": "NZL",
-    "points": "23"
-  },
-  {
-    "rank": "860",
-    "player": "Alexander Kotzen",
-    "age": "24",
-    "country": "USA",
-    "points": "22"
-  },
-  {
-    "rank": "861",
-    "player": "Rubin Statham",
-    "age": "37",
-    "country": "NZL",
-    "points": "22"
-  },
-  {
-    "rank": "862",
-    "player": "Sora Fukuda",
-    "age": "27",
-    "country": "JPN",
-    "points": "22"
-  },
-  {
-    "rank": "863",
-    "player": "Viktor Jović",
-    "age": "22",
-    "country": "SRB",
-    "points": "22"
-  },
-  {
-    "rank": "864",
-    "player": "Victor Lilov",
-    "age": "20",
-    "country": "USA",
-    "points": "22"
-  },
-  {
-    "rank": "865",
-    "player": "Pavle Marinkov",
-    "age": "18",
-    "country": "AUS",
-    "points": "22"
-  },
-  {
-    "rank": "866",
-    "player": "Adrien Gobat",
-    "age": "23",
-    "country": "FRA",
-    "points": "22"
-  },
-  {
-    "rank": "867",
-    "player": "Yeong Seok Jeong",
-    "age": "24",
-    "country": "KOR",
-    "points": "22"
-  },
-  {
-    "rank": "868",
-    "player": "Sebastian Eriksson",
-    "age": "19",
-    "country": "SWE",
-    "points": "22"
-  },
-  {
-    "rank": "869",
-    "player": "Toby Martin",
-    "age": "31",
-    "country": "GBR",
-    "points": "22"
-  },
-  {
-    "rank": "870",
-    "player": "Paulo Andre Saraiva Dos Santos",
-    "age": "24",
-    "country": "BRA",
-    "points": "22"
-  },
-  {
-    "rank": "871",
-    "player": "Jesse Delaney",
-    "age": "25",
-    "country": "AUS",
-    "points": "22"
-  },
-  {
-    "rank": "872",
-    "player": "Grigoriy Lomakin",
-    "age": "26",
-    "country": "KAZ",
-    "points": "22"
-  },
-  {
-    "rank": "873",
-    "player": "Raphaël Pérot",
-    "age": "23",
-    "country": "FRA",
-    "points": "21"
-  },
-  {
-    "rank": "874",
-    "player": "Tyler Stice",
-    "age": "24",
-    "country": "USA",
-    "points": "21"
-  },
-  {
-    "rank": "875",
-    "player": "Cooper Williams",
-    "age": "19",
-    "country": "USA",
-    "points": "21"
-  },
-  {
-    "rank": "876",
-    "player": "Karim Mohamed Maamoun",
-    "age": "33",
-    "country": "EGY",
-    "points": "21"
-  },
-  {
-    "rank": "877",
-    "player": "Adhithya Ganesan",
-    "age": "19",
-    "country": "USA",
-    "points": "21"
-  },
-  {
-    "rank": "878",
-    "player": "Adit Sinha",
-    "age": "21",
-    "country": "USA",
-    "points": "21"
-  },
-  {
-    "rank": "879",
-    "player": "Seita Watanabe",
-    "age": "23",
-    "country": "JPN",
-    "points": "21"
-  },
-  {
-    "rank": "880",
-    "player": "Fermin Tenti",
-    "age": "27",
-    "country": "ARG",
-    "points": "21"
-  },
-  {
-    "rank": "881",
-    "player": "Sasa Markovic",
-    "age": "18",
-    "country": "SRB",
-    "points": "21"
-  },
-  {
-    "rank": "882",
-    "player": "Luca Fantini",
-    "age": "24",
-    "country": "ITA",
-    "points": "21"
-  },
-  {
-    "rank": "883",
-    "player": "Stefano D'Agostino",
-    "age": "20",
-    "country": "ITA",
-    "points": "21"
-  },
-  {
-    "rank": "884",
-    "player": "Alfredo Perez",
-    "age": "27",
-    "country": "USA",
-    "points": "20"
-  },
-  {
-    "rank": "885",
-    "player": "Rafael Jodar",
-    "age": "18",
-    "country": "ESP",
-    "points": "20"
-  },
-  {
-    "rank": "886",
-    "player": "Pawit Sornlaksup",
-    "age": "25",
-    "country": "THA",
-    "points": "20"
-  },
-  {
-    "rank": "887",
-    "player": "Patrick Schoen",
-    "age": "19",
-    "country": "SUI",
-    "points": "20"
-  },
-  {
-    "rank": "888",
-    "player": "Philip Hjorth",
-    "age": "25",
-    "country": "DEN",
-    "points": "20"
-  },
-  {
-    "rank": "889",
-    "player": "Yuta Kawahashi",
-    "age": "26",
-    "country": "JPN",
-    "points": "20"
-  },
-  {
-    "rank": "890",
-    "player": "Manish Sureshkumar",
-    "age": "25",
-    "country": "IND",
-    "points": "20"
-  },
-  {
-    "rank": "891",
-    "player": "Preston Brown",
-    "age": "23",
-    "country": "USA",
-    "points": "20"
-  },
-  {
-    "rank": "892",
-    "player": "Lorenzo Carboni",
-    "age": "18",
-    "country": "ITA",
-    "points": "20"
-  },
-  {
-    "rank": "893",
-    "player": "Michael Bassem Sobhy",
-    "age": "20",
-    "country": "EGY",
-    "points": "20"
-  },
-  {
-    "rank": "894",
-    "player": "Hayato Matsuoka",
-    "age": "19",
-    "country": "JPN",
-    "points": "20"
-  },
-  {
-    "rank": "895",
-    "player": "Siem Woldeab",
-    "age": "23",
-    "country": "USA",
-    "points": "19"
-  },
-  {
-    "rank": "896",
-    "player": "Felix Balshaw",
-    "age": "18",
-    "country": "FRA",
-    "points": "19"
-  },
-  {
-    "rank": "897",
-    "player": "Maximilian Homberg",
-    "age": "21",
-    "country": "GER",
-    "points": "19"
-  },
-  {
-    "rank": "898",
-    "player": "Maxim Mrva",
-    "age": "17",
-    "country": "CZE",
-    "points": "19"
-  },
-  {
-    "rank": "899",
-    "player": "Guillaume Dalmasso",
-    "age": "22",
-    "country": "FRA",
-    "points": "19"
-  },
-  {
-    "rank": "900",
-    "player": "Alessandro Bellifemine",
-    "age": "23",
-    "country": "ITA",
-    "points": "19"
-  },
-  {
-    "rank": "901",
-    "player": "Matt Kuhar",
-    "age": "28",
-    "country": "USA",
-    "points": "19"
-  },
-  {
-    "rank": "902",
-    "player": "Diogo Marques",
-    "age": "25",
-    "country": "POR",
-    "points": "19"
-  },
-  {
-    "rank": "903",
-    "player": "Luciano Carraro",
-    "age": "26",
-    "country": "ITA",
-    "points": "19"
-  },
-  {
-    "rank": "904",
-    "player": "Tomasz Berkieta",
-    "age": "18",
-    "country": "POL",
-    "points": "19"
-  },
-  {
-    "rank": "905",
-    "player": "Darwin Blanch",
-    "age": "17",
-    "country": "USA",
-    "points": "19"
-  },
-  {
-    "rank": "906",
-    "player": "Brian Bozemoj",
-    "age": "20",
-    "country": "NED",
-    "points": "19"
-  },
-  {
-    "rank": "907",
-    "player": "Gabriele Bosio",
-    "age": "23",
-    "country": "ITA",
-    "points": "19"
-  },
-  {
-    "rank": "908",
-    "player": "Mihai Razvan Marinescu",
-    "age": "23",
-    "country": "ROU",
-    "points": "19"
-  },
-  {
-    "rank": "909",
-    "player": "Fares Zakaria",
-    "age": "23",
-    "country": "EGY",
-    "points": "19"
-  },
-  {
-    "rank": "910",
-    "player": "Niklas Schell",
-    "age": "25",
-    "country": "GER",
-    "points": "19"
-  },
-  {
-    "rank": "911",
-    "player": "Benito Sánchez Martinez",
-    "age": "22",
-    "country": "GER",
-    "points": "18"
-  },
-  {
-    "rank": "912",
-    "player": "Daniel Cox",
-    "age": "34",
-    "country": "GBR",
-    "points": "18"
-  },
-  {
-    "rank": "913",
-    "player": "John Hallquist Lithen",
-    "age": "22",
-    "country": "SWE",
-    "points": "18"
-  },
-  {
-    "rank": "914",
-    "player": "Matyáš Černý",
-    "age": "23",
-    "country": "CZE",
-    "points": "18"
-  },
-  {
-    "rank": "915",
-    "player": "Niccolo Baroni",
-    "age": "20",
-    "country": "ITA",
-    "points": "18"
-  },
-  {
-    "rank": "916",
-    "player": "Ryota Tanuma",
-    "age": "29",
-    "country": "JPN",
-    "points": "18"
-  },
-  {
-    "rank": "917",
-    "player": "Kacper Żuk",
-    "age": "25",
-    "country": "POL",
-    "points": "18"
-  },
-  {
-    "rank": "918",
-    "player": "Sheng Tang",
-    "age": "24",
-    "country": "CHN",
-    "points": "18"
-  },
-  {
-    "rank": "919",
-    "player": "Daniel Antonio Núñez",
-    "age": "23",
-    "country": "CHI",
-    "points": "18"
-  },
-  {
-    "rank": "920",
-    "player": "Illya Beloborodko",
-    "age": "23",
-    "country": "UKR",
-    "points": "18"
-  },
-  {
-    "rank": "921",
-    "player": "Josip Simundza",
-    "age": "19",
-    "country": "CRO",
-    "points": "18"
-  },
-  {
-    "rank": "922",
-    "player": "Miles Jones",
-    "age": "23",
-    "country": "USA",
-    "points": "18"
-  },
-  {
-    "rank": "923",
-    "player": "Benjamin Pietri",
-    "age": "28",
-    "country": "FRA",
-    "points": "18"
-  },
-  {
-    "rank": "924",
-    "player": "Daniel Khazime",
-    "age": "19",
-    "country": "RUS",
-    "points": "18"
-  },
-  {
-    "rank": "925",
-    "player": "Oscar Jose Gutierrez",
-    "age": "31",
-    "country": "BRA",
-    "points": "18"
-  },
-  {
-    "rank": "926",
-    "player": "Petar Jovanovic",
-    "age": "21",
-    "country": "MNE",
-    "points": "17"
-  },
-  {
-    "rank": "927",
-    "player": "Maciej Rajski",
-    "age": "33",
-    "country": "POL",
-    "points": "17"
-  },
-  {
-    "rank": "928",
-    "player": "Kalin Ivanovski",
-    "age": "20",
-    "country": "MKD",
-    "points": "17"
-  },
-  {
-    "rank": "929",
-    "player": "Pierluigi Basile",
-    "age": "17",
-    "country": "ITA",
-    "points": "17"
-  },
-  {
-    "rank": "930",
-    "player": "Giorgio Tabacco",
-    "age": "21",
-    "country": "ITA",
-    "points": "17"
-  },
-  {
-    "rank": "931",
-    "player": "Kuan Yi Lee",
-    "age": "28",
-    "country": "TWN",
-    "points": "17"
-  },
-  {
-    "rank": "932",
-    "player": "Jea Moon Lee",
-    "age": "31",
-    "country": "KOR",
-    "points": "17"
-  },
-  {
-    "rank": "933",
-    "player": "Aliaksandr Liaonenka",
-    "age": "25",
-    "country": "BLR",
-    "points": "17"
-  },
-  {
-    "rank": "934",
-    "player": "Daniel Pátý",
-    "age": "25",
-    "country": "CZE",
-    "points": "17"
-  },
-  {
-    "rank": "935",
-    "player": "Ali Habib",
-    "age": "21",
-    "country": "GBR",
-    "points": "17"
-  },
-  {
-    "rank": "936",
-    "player": "Guy Den Heijer",
-    "age": "27",
-    "country": "NED",
-    "points": "17"
-  },
-  {
-    "rank": "937",
-    "player": "Ezequiel Monferrer",
-    "age": "21",
-    "country": "ARG",
-    "points": "17"
-  },
-  {
-    "rank": "938",
-    "player": "Niccolo Ciavarella",
-    "age": "20",
-    "country": "ITA",
-    "points": "17"
-  },
-  {
-    "rank": "939",
-    "player": "Tadeáš Paroulek",
-    "age": "24",
-    "country": "CZE",
-    "points": "16"
-  },
-  {
-    "rank": "940",
-    "player": "Jeremy Jin",
-    "age": "20",
-    "country": "AUS",
-    "points": "16"
-  },
-  {
-    "rank": "941",
-    "player": "Eric Hadigian",
-    "age": "24",
-    "country": "USA",
-    "points": "16"
-  },
-  {
-    "rank": "942",
-    "player": "Călin Manda",
-    "age": "26",
-    "country": "ROU",
-    "points": "16"
-  },
-  {
-    "rank": "943",
-    "player": "Nikita Mashtakov",
-    "age": "25",
-    "country": "UKR",
-    "points": "16"
-  },
-  {
-    "rank": "944",
-    "player": "Sidharth Rawat",
-    "age": "31",
-    "country": "IND",
-    "points": "16"
-  },
-  {
-    "rank": "945",
-    "player": "Mert Alkaya",
-    "age": "24",
-    "country": "TUR",
-    "points": "16"
-  },
-  {
-    "rank": "946",
-    "player": "Demetris Azoides",
-    "age": "24",
-    "country": "GRE",
-    "points": "16"
-  },
-  {
-    "rank": "947",
-    "player": "Fernando Cavallo",
-    "age": "18",
-    "country": "ARG",
-    "points": "16"
-  },
-  {
-    "rank": "948",
-    "player": "Andrew Fenty",
-    "age": "24",
-    "country": "USA",
-    "points": "16"
-  },
-  {
-    "rank": "949",
-    "player": "Amit Vales",
-    "age": "19",
-    "country": "ISR",
-    "points": "16"
-  },
-  {
-    "rank": "950",
-    "player": "Jan Kupcic",
-    "age": "23",
-    "country": "SLO",
-    "points": "16"
-  },
-  {
-    "rank": "951",
-    "player": "Kristjan Tamm",
-    "age": "26",
-    "country": "EST",
-    "points": "16"
-  },
-  {
-    "rank": "952",
-    "player": "Tomas Lanik",
-    "age": "22",
-    "country": "SVK",
-    "points": "16"
-  },
-  {
-    "rank": "953",
-    "player": "Aleksandr Braynin",
-    "age": "25",
-    "country": "UKR",
-    "points": "16"
-  },
-  {
-    "rank": "954",
-    "player": "Pietro Marino",
-    "age": "23",
-    "country": "ITA",
-    "points": "16"
-  },
-  {
-    "rank": "955",
-    "player": "Dragos Nicolae Cazacu",
-    "age": "20",
-    "country": "ROU",
-    "points": "16"
-  },
-  {
-    "rank": "956",
-    "player": "Hanyi Liu",
-    "age": "23",
-    "country": "CHN",
-    "points": "16"
-  },
-  {
-    "rank": "957",
-    "player": "Jay Dylan Hara Friend",
-    "age": "20",
-    "country": "JPN",
-    "points": "15"
-  },
-  {
-    "rank": "958",
-    "player": "Quentin Folliot",
-    "age": "25",
-    "country": "FRA",
-    "points": "15"
-  },
-  {
-    "rank": "959",
-    "player": "Guy Orly Iradukunda",
-    "age": "28",
-    "country": "BDI",
-    "points": "15"
-  },
-  {
-    "rank": "960",
-    "player": "Mariano Dedura Palomero",
-    "age": "18",
-    "country": "GER",
-    "points": "15"
-  },
-  {
-    "rank": "961",
-    "player": "Oliver Ojakaar",
-    "age": "19",
-    "country": "EST",
-    "points": "15"
-  },
-  {
-    "rank": "961",
-    "player": "Milan Welte",
-    "age": "23",
-    "country": "GER",
-    "points": "15"
-  },
-  {
-    "rank": "963",
-    "player": "Mwendwa Mbithi",
-    "age": "26",
-    "country": "USA",
-    "points": "15"
-  },
-  {
-    "rank": "964",
-    "player": "Matthew Summers",
-    "age": "26",
-    "country": "GBR",
-    "points": "15"
-  },
-  {
-    "rank": "965",
-    "player": "Mert Naci Türker",
-    "age": "26",
-    "country": "TUR",
-    "points": "15"
-  },
-  {
-    "rank": "966",
-    "player": "Matteo De Vincentis",
-    "age": "26",
-    "country": "ITA",
-    "points": "15"
-  },
-  {
-    "rank": "967",
-    "player": "Gabriel Donev",
-    "age": "28",
-    "country": "BUL",
-    "points": "15"
-  },
-  {
-    "rank": "968",
-    "player": "Iannis Miletich",
-    "age": "19",
-    "country": "ITA",
-    "points": "15"
-  },
-  {
-    "rank": "969",
-    "player": "Thijmen Loof",
-    "age": "22",
-    "country": "NED",
-    "points": "15"
-  },
-  {
-    "rank": "970",
-    "player": "Abel Forger",
-    "age": "19",
-    "country": "NED",
-    "points": "15"
-  },
-  {
-    "rank": "971",
-    "player": "Tim Ruehl",
-    "age": "26",
-    "country": "GER",
-    "points": "15"
-  },
-  {
-    "rank": "972",
-    "player": "Arthur Bonnaud",
-    "age": "27",
-    "country": "FRA",
-    "points": "15"
-  },
-  {
-    "rank": "973",
-    "player": "Thiago Cigarran",
-    "age": "24",
-    "country": "ARG",
-    "points": "15"
-  },
-  {
-    "rank": "974",
-    "player": "Sergio Callejon Hernando",
-    "age": "20",
-    "country": "ESP",
-    "points": "15"
-  },
-  {
-    "rank": "975",
-    "player": "Seydina Andre",
-    "age": "21",
-    "country": "SEN",
-    "points": "15"
-  },
-  {
-    "rank": "976",
-    "player": "Pablo Trochu",
-    "age": "21",
-    "country": "FRA",
-    "points": "15"
-  },
-  {
-    "rank": "977",
-    "player": "Pengyu Lu",
-    "age": "22",
-    "country": "CHN",
-    "points": "14"
-  },
-  {
-    "rank": "978",
-    "player": "Aleksa Pisaric",
-    "age": "18",
-    "country": "SRB",
-    "points": "14"
-  },
-  {
-    "rank": "979",
-    "player": "Christopher Bulus",
-    "age": "23",
-    "country": "NGR",
-    "points": "14"
-  },
-  {
-    "rank": "980",
-    "player": "Tomas Curras Abasolo",
-    "age": "24",
-    "country": "ESP",
-    "points": "14"
-  },
-  {
-    "rank": "981",
-    "player": "Luc Fomba",
-    "age": "25",
-    "country": "FRA",
-    "points": "14"
-  },
-  {
-    "rank": "982",
-    "player": "Daisuke Sumizawa",
-    "age": "25",
-    "country": "JPN",
-    "points": "14"
-  },
-  {
-    "rank": "983",
-    "player": "Rafael Tosetto",
-    "age": "25",
-    "country": "BRA",
-    "points": "14"
-  },
-  {
-    "rank": "984",
-    "player": "Sean Hess",
-    "age": "23",
-    "country": "ARG",
-    "points": "14"
-  },
-  {
-    "rank": "985",
-    "player": "Taiyo Yamanaka",
-    "age": "23",
-    "country": "JPN",
-    "points": "14"
-  },
-  {
-    "rank": "986",
-    "player": "Charlie Camus",
-    "age": "18",
-    "country": "FRA",
-    "points": "14"
-  },
-  {
-    "rank": "987",
-    "player": "Matic Kriznik",
-    "age": "19",
-    "country": "SLO",
-    "points": "14"
-  },
-  {
-    "rank": "988",
-    "player": "Mohamed Nazim Makhlouf",
-    "age": "28",
-    "country": "ALG",
-    "points": "14"
-  },
-  {
-    "rank": "989",
-    "player": "Steve Johnson",
-    "age": "34",
-    "country": "USA",
-    "points": "13"
-  },
-  {
-    "rank": "990",
-    "player": "Ivan Nedelko",
-    "age": "38",
-    "country": "RUS",
-    "points": "13"
-  },
-  {
-    "rank": "991",
-    "player": "Uisung Park",
-    "age": "24",
-    "country": "KOR",
-    "points": "13"
-  },
-  {
-    "rank": "992",
-    "player": "Noah Rubin",
-    "age": "28",
-    "country": "USA",
-    "points": "13"
-  },
-  {
-    "rank": "993",
-    "player": "Matija Pecotić",
-    "age": "35",
-    "country": "CRO",
-    "points": "13"
-  },
-  {
-    "rank": "994",
-    "player": "Niels Lootsma",
-    "age": "30",
-    "country": "NED",
-    "points": "13"
-  },
-  {
-    "rank": "995",
-    "player": "Alexandr Cozbinov",
-    "age": "29",
-    "country": "MDA",
-    "points": "13"
-  },
-  {
-    "rank": "996",
-    "player": "Hayden Jones",
-    "age": "18",
-    "country": "AUS",
-    "points": "13"
-  },
-  {
-    "rank": "997",
-    "player": "Matěj Vocel",
-    "age": "27",
-    "country": "CZE",
-    "points": "13"
-  },
-  {
-    "rank": "998",
-    "player": "Ignacio Carou",
-    "age": "25",
-    "country": "URU",
-    "points": "13"
-  },
-  {
-    "rank": "999",
-    "player": "Derek Pham",
-    "age": "20",
-    "country": "AUS",
-    "points": "13"
-  },
-  {
-    "rank": "1000",
-    "player": "Pedro Rodenas",
-    "age": "20",
-    "country": "ESP",
-    "points": "13"
-  },
-  {
-    "rank": "Suivant",
-    "player": "",
-    "age": "",
-    "country": "",
-    "points": ""
-  },
-  {
-    "rank": "",
-    "player": "",
-    "age": "",
-    "country": "",
-    "points": ""
+    "playerLink": "https://www.atptour.com/en/players/jay-clarke/ci14/overview",
+    "age": "26 (1998/07/27)",
+    "weight": "184 lbs (83kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Great Britain"
   }
 ]
