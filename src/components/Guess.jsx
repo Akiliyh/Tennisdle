@@ -29,7 +29,7 @@ const Guess = ({ guesses, data, correctAnswer }) => {
   // Function to get the country code by name
   function getCountryCode(countryName) {
     if (countryName === "Great Britain") return "GB"; // special cases not working properly
-    if (countryName === "Chinese Taipei") return "HK";
+    if (countryName === "Chinese Taipei") return "TW";
     if (!countryName) return "UN";
     return countryLookup[countryName] || 'Country not found';
   }
