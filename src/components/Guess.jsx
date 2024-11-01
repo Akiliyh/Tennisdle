@@ -30,7 +30,7 @@ const Guess = ({ guesses, data, correctAnswer }) => {
   function getCountryCode(countryName) {
     if (countryName === "Great Britain") return "GB"; // special cases not working properly
     if (countryName === "Chinese Taipei") return "HK";
-    if (!countryName) return "RU";
+    if (!countryName) return "UN";
     return countryLookup[countryName] || 'Country not found';
   }
 
