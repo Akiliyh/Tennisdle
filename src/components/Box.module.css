@@ -1,0 +1,39 @@
+.box {
+    display: flex;
+    flex-direction: column;
+}
+
+.correct {
+    background-color: green;
+}
+
+.wrong {
+    background-color: red;
+}
+
+.wrong.more {
+    color: moccasin;
+}
+
+.wrong.less {
+    color: tomato;
+}
+
+.line {
+    border-top: 2px solid var(--t-blue);
+    border-bottom: 2px solid var(--t-blue);
+    padding: 10px;
+    height: 100%;
+    align-content: center;
+    border-right: 2px solid var(--t-gray);
+}
+
+.start{
+    border-left: 2px solid var(--t-blue);
+    border-radius: 10vw 0 0 10vw;
+}
+
+.end{
+    border-right: 2px solid var(--t-blue);
+    border-radius: 0 10vw 10vw 0;
+}

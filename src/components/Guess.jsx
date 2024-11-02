@@ -2,7 +2,8 @@ import React, { useState, useEffect } from "react";
 import styles from './Guess.module.css';
 import { IoCaretDown, IoCaretUp, IoClose, IoHandLeftSharp, IoHandRightSharp } from "react-icons/io5";
 import { FaCheck } from "react-icons/fa";
-import ReactCountryFlag from "react-country-flag"
+import ReactCountryFlag from "react-country-flag";
+import Box from './Box';
 
 const Guess = ({ guesses, data, correctAnswer }) => {
   const [guessedPlayersInfo, setGuessedPlayersInfo] = useState([]);
@@ -77,38 +78,26 @@ const Guess = ({ guesses, data, correctAnswer }) => {
       const playerAge = getAge(playerInfo.age);
       const correctAge = getAge(correctAnswer.age);
 
-      const compareWeight = playerWeightInKg > correctWeightInKg
-        ? <IoCaretDown color="red" />
-        : playerWeightInKg < correctWeightInKg
-          ? <IoCaretUp color="green" />
-          : <FaCheck color="green" />;
+      const compareWeight = correctWeightInKg > playerWeightInKg ? "more" : "less";
 
-      const compareHeight = playerHeightInCm > correctHeightInCm
-        ? <IoCaretDown color="red" />
-        : playerHeightInCm < correctHeightInCm
-          ? <IoCaretUp color="green" />
-          : <FaCheck color="green" />;
+      const compareHeight = correctHeightInCm > playerHeightInCm ? "more" : "less";
 
-      const compareAge = playerAge > correctAge
-        ? <IoCaretDown color="red" />
-        : playerAge < correctAge
-          ? <IoCaretUp color="green" />
-          : <FaCheck color="green" />;
+      const compareAge = correctAge > playerAge ? "more" : "less"; // keep in mind this is only useful when the result is false, meaning that correct can't be equal to the guess
 
-      const compareHandedness = getHandedness(playerInfo.handedness) !== getHandedness(correctAnswer.handedness)
-        ? <IoClose color="red" />
+      const compareHandedness = getHandedness(playerInfo.handedness) !== getHandedness(correctAnswer.handedness) ? <IoClose color="red" />
         : <FaCheck color="green" />;
 
-      const compareRank = parseInt(playerInfo.rank) > parseInt(correctAnswer.rank)
-        ? <IoCaretUp color="green" />
-        : parseInt(playerInfo.rank) < parseInt(correctAnswer.rank)
-          ? <IoCaretDown color="red" />
-          : <FaCheck color="green" />;
+      const compareRank = parseInt(correctAnswer.rank) > parseInt(playerInfo.rank) ? "more" : "less";
 
+      const isRankCorrect = playerInfo.rank === correctAnswer.rank;
+      const isWeightCorrect = playerInfo.weight === correctAnswer.weight;
+      const isHeightCorrect = playerInfo.height === correctAnswer.height;
+      const isAgeCorrect = playerInfo.age === correctAnswer.age;
+      const isHandCorrect = playerInfo.handedness === correctAnswer.handedness;
       const isSameNationality = playerInfo.country === correctAnswer.country;
 
       const newGuessInfo = {
-        ...playerInfo, isCorrect, compareAge, compareRank, compareHeight, compareWeight, compareHandedness, isSameNationality
+        ...playerInfo, isCorrect, compareAge, compareRank, compareHeight, compareWeight, compareHandedness, isRankCorrect, isHandCorrect, isHeightCorrect, isWeightCorrect, isAgeCorrect, isSameNationality
       };
 
       setGuessedPlayersInfo(prevGuesses => [...prevGuesses, newGuessInfo]);
@@ -116,18 +105,20 @@ const Guess = ({ guesses, data, correctAnswer }) => {
   }, [guesses, data, correctAnswer, lastGuess]);
 
   return (
-    <div>
+    <div className={styles.container}>
       {guessedPlayersInfo.slice().reverse().map((playerInfo, index) => (
         playerInfo && (
-          <div key={index} className={styles.container}>
-            <p><strong>Player:</strong> {playerInfo.player} {playerInfo.isCorrect ? <FaCheck color="green" /> : <IoClose color="red" />}</p>
-            <p><strong>Rank:</strong> {playerInfo.rank} {playerInfo.compareRank}</p>
-            <p><strong>Age:</strong> {playerInfo.age} {playerInfo.compareAge}</p>
-            <p><strong>Weight:</strong> {playerInfo.weight} {playerInfo.compareWeight}</p>
-            <p><strong>Height:</strong> {playerInfo.height} {playerInfo.compareHeight}</p>
-            <p><strong>Plays:</strong> {getHandedness(playerInfo.handedness) === "Right" ? <IoHandRightSharp color="yellow" /> : <IoHandLeftSharp color="yellow" />} {playerInfo.compareHandedness}</p>
-            <p><strong>Country:</strong> <ReactCountryFlag countryCode={getCountryCode(playerInfo.country)} svg/> {playerInfo.isSameNationality ? <FaCheck color="green" /> : <IoClose color="red" />}</p>
-            <p><strong>Try:</strong> {guessedPlayersInfo.length - index}</p>
+          <div key={index} className={styles.line}>
+            <Box title="Player" value={playerInfo.player} place="start" isCorrect={playerInfo.isCorrect}></Box>
+            <Box title="Rank" value={playerInfo.rank} isCorrect={playerInfo.isRankCorrect} compare={playerInfo.compareRank}></Box>
+            <Box title="Age" value={playerInfo.age} isCorrect={playerInfo.isAgeCorrect} compare={playerInfo.compareAge}></Box>
+            <Box title="Weight" value={playerInfo.weight} isCorrect={playerInfo.isWeightCorrect} compare={playerInfo.compareWeight}></Box>
+            <Box title="Height" value={playerInfo.height} isCorrect={playerInfo.isHeightCorrect} compare={playerInfo.compareHeight}></Box>
+            <Box title="Plays" value={getHandedness(playerInfo.handedness)} isCorrect={playerInfo.isHandCorrect} type="hand"></Box>
+            <Box title="Country" value={getCountryCode(playerInfo.country)} isCorrect={playerInfo.isSameNationality} type="country" place="end"></Box>
+            {/* <p><strong>Plays:</strong> {getHandedness(playerInfo.handedness) === "Right" ? <IoHandRightSharp color="yellow" /> : <IoHandLeftSharp color="yellow" />} {playerInfo.compareHandedness}</p> */}
+            {/* <p><strong>Country:</strong> <ReactCountryFlag countryCode={getCountryCode(playerInfo.country)} svg/> {playerInfo.isSameNationality ? <FaCheck color="green" /> : <IoClose color="red" />}</p> */}
+            <p>{(guessedPlayersInfo.length - index) + "."}</p> {/* Number of tries */}
           </div>
         )
       ))}

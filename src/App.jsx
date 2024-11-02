@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import './App.css'
+import './vars.css'
 import rankingsDataATP from './data/atp_ranking_data.json'
 import rankingsDataWTA from './data/wta_ranking_data.json'
 import Input from './components/Input' 

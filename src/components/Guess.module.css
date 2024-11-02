@@ -1,4 +1,13 @@
 .container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 80%;
+}
+
+.line {
     display: flex;
-    gap: 25px;
+    overflow: hidden;
+    justify-content: center;
 }
