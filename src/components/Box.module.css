@@ -1,22 +1,22 @@
 .box {
     display: flex;
     flex-direction: column;
+    overflow: hidden;
+    gap: 5px;
+}
+
+.box strong {
+    font-weight: normal;
+    text-align: left;
+    color: var(--t-gray);
 }
 
 .correct {
-    background-color: green;
+    background-color: var(--t-green);
 }
 
 .wrong {
-    background-color: red;
-}
-
-.wrong.more {
-    color: moccasin;
-}
-
-.wrong.less {
-    color: tomato;
+    background-color: var(--t-red);
 }
 
 .line {
@@ -26,6 +26,7 @@
     height: 100%;
     align-content: center;
     border-right: 2px solid var(--t-gray);
+    min-width: 50px;
 }
 
 .start{
@@ -36,4 +37,35 @@
 .end{
     border-right: 2px solid var(--t-blue);
     border-radius: 0 10vw 10vw 0;
+}
+
+.line.wrong, .line.correct {
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+
+.line.more {
+    background-image: url(../assets/ArrowUp.svg);
+}
+
+.line.less {
+    background-image: url(../assets/ArrowDown.svg);
+}
+
+.line.correct {
+    background-image: url(../assets/Checkmark.svg);
+}
+
+.line.wrong:not(.line.less,.line.more) {
+    background-image: url(../assets/X-mark.svg);
+}
+
+.country {
+    padding-left: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    overflow: hidden;
+    display: flex;
+    padding-right: 50px;
 }

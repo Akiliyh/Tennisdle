@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import styles from './Guess.module.css';
 import { IoCaretDown, IoCaretUp, IoClose, IoHandLeftSharp, IoHandRightSharp } from "react-icons/io5";
 import { FaCheck } from "react-icons/fa";
-import ReactCountryFlag from "react-country-flag";
 import Box from './Box';
 
 const Guess = ({ guesses, data, correctAnswer }) => {
@@ -109,16 +108,18 @@ const Guess = ({ guesses, data, correctAnswer }) => {
       {guessedPlayersInfo.slice().reverse().map((playerInfo, index) => (
         playerInfo && (
           <div key={index} className={styles.line}>
-            <Box title="Player" value={playerInfo.player} place="start" isCorrect={playerInfo.isCorrect}></Box>
+            <Box title="Player" value={playerInfo.player} place="start"></Box>
             <Box title="Rank" value={playerInfo.rank} isCorrect={playerInfo.isRankCorrect} compare={playerInfo.compareRank}></Box>
             <Box title="Age" value={playerInfo.age} isCorrect={playerInfo.isAgeCorrect} compare={playerInfo.compareAge}></Box>
             <Box title="Weight" value={playerInfo.weight} isCorrect={playerInfo.isWeightCorrect} compare={playerInfo.compareWeight}></Box>
             <Box title="Height" value={playerInfo.height} isCorrect={playerInfo.isHeightCorrect} compare={playerInfo.compareHeight}></Box>
             <Box title="Plays" value={getHandedness(playerInfo.handedness)} isCorrect={playerInfo.isHandCorrect} type="hand"></Box>
             <Box title="Country" value={getCountryCode(playerInfo.country)} isCorrect={playerInfo.isSameNationality} type="country" place="end"></Box>
-            {/* <p><strong>Plays:</strong> {getHandedness(playerInfo.handedness) === "Right" ? <IoHandRightSharp color="yellow" /> : <IoHandLeftSharp color="yellow" />} {playerInfo.compareHandedness}</p> */}
-            {/* <p><strong>Country:</strong> <ReactCountryFlag countryCode={getCountryCode(playerInfo.country)} svg/> {playerInfo.isSameNationality ? <FaCheck color="green" /> : <IoClose color="red" />}</p> */}
-            <p>{(guessedPlayersInfo.length - index) + "."}</p> {/* Number of tries */}
+            <div className={styles.try}>
+              <span className={styles.fill}></span>
+              <p>{(guessedPlayersInfo.length - index) + "."}</p> {/* Number of tries */}
+            </div>
+            
           </div>
         )
       ))}

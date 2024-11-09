@@ -11,16 +11,6 @@
   },
   {
     "rank": "2",
-    "player": "Carlos Alcaraz",
-    "playerLink": "https://www.atptour.com/en/players/carlos-alcaraz/a0e2/overview",
-    "age": "21 (2003/05/05)",
-    "weight": "163 lbs (74kg)",
-    "height": "6'0\" (183cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Spain"
-  },
-  {
-    "rank": "3",
     "player": "Alexander Zverev",
     "playerLink": "https://www.atptour.com/en/players/alexander-zverev/z355/overview",
     "age": "27 (1997/04/20)",
@@ -30,17 +20,17 @@
     "country": "Germany"
   },
   {
-    "rank": "4",
-    "player": "Novak Djokovic",
-    "playerLink": "https://www.atptour.com/en/players/novak-djokovic/d643/overview",
-    "age": "37 (1987/05/22)",
-    "weight": "170 lbs (77kg)",
-    "height": "6'2\" (188cm)",
+    "rank": "3",
+    "player": "Carlos Alcaraz",
+    "playerLink": "https://www.atptour.com/en/players/carlos-alcaraz/a0e2/overview",
+    "age": "21 (2003/05/05)",
+    "weight": "163 lbs (74kg)",
+    "height": "6'0\" (183cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Serbia"
+    "country": "Spain"
   },
   {
-    "rank": "5",
+    "rank": "4",
     "player": "Daniil Medvedev",
     "playerLink": "https://www.atptour.com/en/players/daniil-medvedev/mm58/overview",
     "age": "28 (1996/02/11)",
@@ -50,10 +40,20 @@
     "country": ""
   },
   {
+    "rank": "5",
+    "player": "Novak Djokovic",
+    "playerLink": "https://www.atptour.com/en/players/novak-djokovic/d643/overview",
+    "age": "37 (1987/05/22)",
+    "weight": "170 lbs (77kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Serbia"
+  },
+  {
     "rank": "6",
     "player": "Taylor Fritz",
     "playerLink": "https://www.atptour.com/en/players/taylor-fritz/fb98/overview",
-    "age": "26 (1997/10/28)",
+    "age": "27 (1997/10/28)",
     "weight": "190 lbs (86kg)",
     "height": "6'5\" (196cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
@@ -61,16 +61,6 @@
   },
   {
     "rank": "7",
-    "player": "Andrey Rublev",
-    "playerLink": "https://www.atptour.com/en/players/andrey-rublev/re44/overview",
-    "age": "27 (1997/10/20)",
-    "weight": "165 lbs (75kg)",
-    "height": "6'2\" (188cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": ""
-  },
-  {
-    "rank": "8",
     "player": "Casper Ruud",
     "playerLink": "https://www.atptour.com/en/players/casper-ruud/rh16/overview",
     "age": "25 (1998/12/22)",
@@ -80,17 +70,7 @@
     "country": "Norway"
   },
   {
-    "rank": "9",
-    "player": "Grigor Dimitrov",
-    "playerLink": "https://www.atptour.com/en/players/grigor-dimitrov/d875/overview",
-    "age": "33 (1991/05/16)",
-    "weight": "179 lbs (81kg)",
-    "height": "6'3\" (191cm)",
-    "handedness": "Right-Handed, One-Handed Backhand",
-    "country": "Bulgaria"
-  },
-  {
-    "rank": "10",
+    "rank": "8",
     "player": "Alex De Minaur",
     "playerLink": "https://www.atptour.com/en/players/alex-de-minaur/dh58/overview",
     "age": "25 (1999/02/17)",
@@ -100,27 +80,27 @@
     "country": "Australia"
   },
   {
-    "rank": "11",
-    "player": "Stefanos Tsitsipas",
-    "playerLink": "https://www.atptour.com/en/players/stefanos-tsitsipas/te51/overview",
-    "age": "26 (1998/08/12)",
-    "weight": "198 lbs (90kg)",
-    "height": "6'4\" (193cm)",
-    "handedness": "Right-Handed, One-Handed Backhand",
-    "country": "Greece"
-  },
-  {
-    "rank": "12",
-    "player": "Tommy Paul",
-    "playerLink": "https://www.atptour.com/en/players/tommy-paul/pl56/overview",
-    "age": "27 (1997/05/17)",
-    "weight": "180 lbs (82kg)",
-    "height": "6'1\" (185cm)",
+    "rank": "9",
+    "player": "Andrey Rublev",
+    "playerLink": "https://www.atptour.com/en/players/andrey-rublev/re44/overview",
+    "age": "27 (1997/10/20)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'2\" (188cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "United States"
+    "country": ""
   },
   {
-    "rank": "13",
+    "rank": "10",
+    "player": "Grigor Dimitrov",
+    "playerLink": "https://www.atptour.com/en/players/grigor-dimitrov/d875/overview",
+    "age": "33 (1991/05/16)",
+    "weight": "179 lbs (81kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "Bulgaria"
+  },
+  {
+    "rank": "11",
     "player": "Holger Rune",
     "playerLink": "https://www.atptour.com/en/players/holger-rune/r0dg/overview",
     "age": "21 (2003/04/29)",
@@ -130,14 +110,34 @@
     "country": "Denmark"
   },
   {
-    "rank": "14",
-    "player": "Hubert Hurkacz",
-    "playerLink": "https://www.atptour.com/en/players/hubert-hurkacz/hb71/overview",
-    "age": "27 (1997/02/11)",
-    "weight": "179 lbs (81kg)",
-    "height": "6'5\" (196cm)",
+    "rank": "12",
+    "player": "Stefanos Tsitsipas",
+    "playerLink": "https://www.atptour.com/en/players/stefanos-tsitsipas/te51/overview",
+    "age": "26 (1998/08/12)",
+    "weight": "198 lbs (90kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "Greece"
+  },
+  {
+    "rank": "13",
+    "player": "Tommy Paul",
+    "playerLink": "https://www.atptour.com/en/players/tommy-paul/pl56/overview",
+    "age": "27 (1997/05/17)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'1\" (185cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Poland"
+    "country": "United States"
+  },
+  {
+    "rank": "14",
+    "player": "Ugo Humbert",
+    "playerLink": "https://www.atptour.com/en/players/ugo-humbert/hh26/overview",
+    "age": "26 (1998/06/26)",
+    "weight": "160 lbs (73kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "France"
   },
   {
     "rank": "15",
@@ -151,6 +151,16 @@
   },
   {
     "rank": "16",
+    "player": "Hubert Hurkacz",
+    "playerLink": "https://www.atptour.com/en/players/hubert-hurkacz/hb71/overview",
+    "age": "27 (1997/02/11)",
+    "weight": "179 lbs (81kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Poland"
+  },
+  {
+    "rank": "17",
     "player": "Lorenzo Musetti",
     "playerLink": "https://www.atptour.com/en/players/lorenzo-musetti/m0ej/overview",
     "age": "22 (2002/03/03)",
@@ -160,7 +170,7 @@
     "country": "Italy"
   },
   {
-    "rank": "17",
+    "rank": "18",
     "player": "Frances Tiafoe",
     "playerLink": "https://www.atptour.com/en/players/frances-tiafoe/td51/overview",
     "age": "26 (1998/01/20)",
@@ -170,24 +180,14 @@
     "country": "United States"
   },
   {
-    "rank": "18",
-    "player": "Ugo Humbert",
-    "playerLink": "https://www.atptour.com/en/players/ugo-humbert/hh26/overview",
-    "age": "26 (1998/06/26)",
-    "weight": "160 lbs (73kg)",
-    "height": "6'2\" (188cm)",
-    "handedness": "Left-Handed, Two-Handed Backhand",
-    "country": "France"
-  },
-  {
     "rank": "19",
-    "player": "Ben Shelton",
-    "playerLink": "https://www.atptour.com/en/players/ben-shelton/s0s1/overview",
-    "age": "22 (2002/10/09)",
-    "weight": "195 lbs (88kg)",
-    "height": "6'4\" (193cm)",
-    "handedness": "Left-Handed, Two-Handed Backhand",
-    "country": "United States"
+    "player": "Karen Khachanov",
+    "playerLink": "https://www.atptour.com/en/players/karen-khachanov/ke29/overview",
+    "age": "28 (1996/05/21)",
+    "weight": "192 lbs (87kg)",
+    "height": "6'6\" (198cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": ""
   },
   {
     "rank": "20",
@@ -201,13 +201,13 @@
   },
   {
     "rank": "21",
-    "player": "Karen Khachanov",
-    "playerLink": "https://www.atptour.com/en/players/karen-khachanov/ke29/overview",
-    "age": "28 (1996/05/21)",
-    "weight": "192 lbs (87kg)",
-    "height": "6'6\" (198cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": ""
+    "player": "Ben Shelton",
+    "playerLink": "https://www.atptour.com/en/players/ben-shelton/s0s1/overview",
+    "age": "22 (2002/10/09)",
+    "weight": "195 lbs (88kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "22",
@@ -251,6 +251,16 @@
   },
   {
     "rank": "26",
+    "player": "Jordan Thompson",
+    "playerLink": "https://www.atptour.com/en/players/jordan-thompson/tc61/overview",
+    "age": "30 (1994/04/20)",
+    "weight": "181 lbs (82kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Australia"
+  },
+  {
+    "rank": "27",
     "player": "Sebastian Baez",
     "playerLink": "https://www.atptour.com/en/players/sebastian-baez/b0bi/overview",
     "age": "23 (2000/12/28)",
@@ -260,7 +270,7 @@
     "country": "Argentina"
   },
   {
-    "rank": "27",
+    "rank": "28",
     "player": "Felix Auger-Aliassime",
     "playerLink": "https://www.atptour.com/en/players/felix-auger-aliassime/ag37/overview",
     "age": "24 (2000/08/08)",
@@ -268,16 +278,6 @@
     "height": "6'4\" (193cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
     "country": "Canada"
-  },
-  {
-    "rank": "28",
-    "player": "Jordan Thompson",
-    "playerLink": "https://www.atptour.com/en/players/jordan-thompson/tc61/overview",
-    "age": "30 (1994/04/20)",
-    "weight": "181 lbs (82kg)",
-    "height": "6'0\" (183cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Australia"
   },
   {
     "rank": "29",
@@ -291,16 +291,6 @@
   },
   {
     "rank": "30",
-    "player": "Jiri Lehecka",
-    "playerLink": "https://www.atptour.com/en/players/jiri-lehecka/l0bv/overview",
-    "age": "22 (2001/11/08)",
-    "weight": "179 lbs (81kg)",
-    "height": "6'1\" (185cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Czechia"
-  },
-  {
-    "rank": "31",
     "player": "Giovanni Mpetshi Perricard",
     "playerLink": "https://www.atptour.com/en/players/giovanni-mpetshi-perricard/m0gz/overview",
     "age": "21 (2003/07/08)",
@@ -308,6 +298,16 @@
     "height": "6'8\" (203cm)",
     "handedness": "Right-Handed, One-Handed Backhand",
     "country": "France"
+  },
+  {
+    "rank": "31",
+    "player": "Jiri Lehecka",
+    "playerLink": "https://www.atptour.com/en/players/jiri-lehecka/l0bv/overview",
+    "age": "22 (2001/11/08)",
+    "weight": "179 lbs (81kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Czechia"
   },
   {
     "rank": "32",
@@ -321,16 +321,6 @@
   },
   {
     "rank": "33",
-    "player": "Alexander Bublik",
-    "playerLink": "https://www.atptour.com/en/players/alexander-bublik/bk92/overview",
-    "age": "27 (1997/06/17)",
-    "weight": "180 lbs (82kg)",
-    "height": "6'5\" (196cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Kazakhstan"
-  },
-  {
-    "rank": "34",
     "player": "Nuno Borges",
     "playerLink": "https://www.atptour.com/en/players/nuno-borges/bt72/overview",
     "age": "27 (1997/02/19)",
@@ -340,17 +330,17 @@
     "country": "Portugal"
   },
   {
-    "rank": "35",
-    "player": "Brandon Nakashima",
-    "playerLink": "https://www.atptour.com/en/players/brandon-nakashima/n0ae/overview",
-    "age": "23 (2001/08/03)",
-    "weight": "183 lbs (83kg)",
-    "height": "6'2\" (188cm)",
+    "rank": "34",
+    "player": "Alexander Bublik",
+    "playerLink": "https://www.atptour.com/en/players/alexander-bublik/bk92/overview",
+    "age": "27 (1997/06/17)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'5\" (196cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "United States"
+    "country": "Kazakhstan"
   },
   {
-    "rank": "36",
+    "rank": "35",
     "player": "Matteo Berrettini",
     "playerLink": "https://www.atptour.com/en/players/matteo-berrettini/bk40/overview",
     "age": "28 (1996/04/12)",
@@ -360,7 +350,7 @@
     "country": "Italy"
   },
   {
-    "rank": "37",
+    "rank": "36",
     "player": "Nicolas Jarry",
     "playerLink": "https://www.atptour.com/en/players/nicolas-jarry/j551/overview",
     "age": "29 (1995/10/11)",
@@ -368,6 +358,16 @@
     "height": "6'7\" (201cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
     "country": "Chile"
+  },
+  {
+    "rank": "37",
+    "player": "Brandon Nakashima",
+    "playerLink": "https://www.atptour.com/en/players/brandon-nakashima/n0ae/overview",
+    "age": "23 (2001/08/03)",
+    "weight": "183 lbs (83kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "38",
@@ -381,16 +381,6 @@
   },
   {
     "rank": "39",
-    "player": "Tallon Griekspoor",
-    "playerLink": "https://www.atptour.com/en/players/tallon-griekspoor/gj37/overview",
-    "age": "28 (1996/07/02)",
-    "weight": "187 lbs (85kg)",
-    "height": "6'2\" (188cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Netherlands"
-  },
-  {
-    "rank": "40",
     "player": "Tomas Martin Etcheverry",
     "playerLink": "https://www.atptour.com/en/players/tomas-martin-etcheverry/ea24/overview",
     "age": "25 (1999/07/18)",
@@ -400,17 +390,7 @@
     "country": "Argentina"
   },
   {
-    "rank": "41",
-    "player": "Pedro Martinez",
-    "playerLink": "https://www.atptour.com/en/players/pedro-martinez/mo44/overview",
-    "age": "27 (1997/04/26)",
-    "weight": "168 lbs (76kg)",
-    "height": "6'1\" (185cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Spain"
-  },
-  {
-    "rank": "42",
+    "rank": "40",
     "player": "Jan-Lennard Struff",
     "playerLink": "https://www.atptour.com/en/players/jan-lennard-struff/sl28/overview",
     "age": "34 (1990/04/25)",
@@ -418,6 +398,26 @@
     "height": "6'4\" (193cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
     "country": "Germany"
+  },
+  {
+    "rank": "41",
+    "player": "Tallon Griekspoor",
+    "playerLink": "https://www.atptour.com/en/players/tallon-griekspoor/gj37/overview",
+    "age": "28 (1996/07/02)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Netherlands"
+  },
+  {
+    "rank": "42",
+    "player": "Pedro Martinez",
+    "playerLink": "https://www.atptour.com/en/players/pedro-martinez/mo44/overview",
+    "age": "27 (1997/04/26)",
+    "weight": "168 lbs (76kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Spain"
   },
   {
     "rank": "43",
@@ -451,16 +451,6 @@
   },
   {
     "rank": "46",
-    "player": "Roberto Bautista Agut",
-    "playerLink": "https://www.atptour.com/en/players/roberto-bautista-agut/bd06/overview",
-    "age": "36 (1988/04/14)",
-    "weight": "165 lbs (75kg)",
-    "height": "6'0\" (183cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Spain"
-  },
-  {
-    "rank": "47",
     "player": "Zhizhen Zhang",
     "playerLink": "https://www.atptour.com/en/players/zhizhen-zhang/z371/overview",
     "age": "28 (1996/10/16)",
@@ -470,17 +460,17 @@
     "country": "China"
   },
   {
-    "rank": "48",
-    "player": "Jakub Mensik",
-    "playerLink": "https://www.atptour.com/en/players/jakub-mensik/m0ni/overview",
-    "age": "19 (2005/09/01)",
-    "weight": "184 lbs (83kg)",
-    "height": "6'4\" (193cm)",
+    "rank": "47",
+    "player": "Roberto Bautista Agut",
+    "playerLink": "https://www.atptour.com/en/players/roberto-bautista-agut/bd06/overview",
+    "age": "36 (1988/04/14)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'0\" (183cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Czechia"
+    "country": "Spain"
   },
   {
-    "rank": "49",
+    "rank": "48",
     "player": "Marcos Giron",
     "playerLink": "https://www.atptour.com/en/players/marcos-giron/gc88/overview",
     "age": "31 (1993/07/24)",
@@ -490,17 +480,17 @@
     "country": "United States"
   },
   {
-    "rank": "50",
-    "player": "David Goffin",
-    "playerLink": "https://www.atptour.com/en/players/david-goffin/gb88/overview",
-    "age": "33 (1990/12/07)",
-    "weight": "154 lbs (70kg)",
-    "height": "5'11\" (180cm)",
+    "rank": "49",
+    "player": "Jakub Mensik",
+    "playerLink": "https://www.atptour.com/en/players/jakub-mensik/m0ni/overview",
+    "age": "19 (2005/09/01)",
+    "weight": "184 lbs (83kg)",
+    "height": "6'4\" (193cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Belgium"
+    "country": "Czechia"
   },
   {
-    "rank": "51",
+    "rank": "50",
     "player": "Juncheng Shang",
     "playerLink": "https://www.atptour.com/en/players/juncheng-shang/s0re/overview",
     "age": "19 (2005/02/02)",
@@ -510,7 +500,7 @@
     "country": "China"
   },
   {
-    "rank": "52",
+    "rank": "51",
     "player": "Lorenzo Sonego",
     "playerLink": "https://www.atptour.com/en/players/lorenzo-sonego/su87/overview",
     "age": "29 (1995/05/11)",
@@ -520,27 +510,17 @@
     "country": "Italy"
   },
   {
+    "rank": "52",
+    "player": "David Goffin",
+    "playerLink": "https://www.atptour.com/en/players/david-goffin/gb88/overview",
+    "age": "33 (1990/12/07)",
+    "weight": "154 lbs (70kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Belgium"
+  },
+  {
     "rank": "53",
-    "player": "Gael Monfils",
-    "playerLink": "https://www.atptour.com/en/players/gael-monfils/mc65/overview",
-    "age": "38 (1986/09/01)",
-    "weight": "187 lbs (85kg)",
-    "height": "6'4\" (193cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "France"
-  },
-  {
-    "rank": "54",
-    "player": "Roberto Carballes Baena",
-    "playerLink": "https://www.atptour.com/en/players/roberto-carballes-baena/cf59/overview",
-    "age": "31 (1993/03/23)",
-    "weight": "170 lbs (77kg)",
-    "height": "6'0\" (183cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Spain"
-  },
-  {
-    "rank": "55",
     "player": "Miomir Kecmanovic",
     "playerLink": "https://www.atptour.com/en/players/miomir-kecmanovic/ki95/overview",
     "age": "25 (1999/08/31)",
@@ -550,27 +530,7 @@
     "country": "Serbia"
   },
   {
-    "rank": "56",
-    "player": "Cameron Norrie",
-    "playerLink": "https://www.atptour.com/en/players/cameron-norrie/n771/overview",
-    "age": "29 (1995/08/23)",
-    "weight": "181 lbs (82kg)",
-    "height": "6'2\" (188cm)",
-    "handedness": "Left-Handed, Two-Handed Backhand",
-    "country": "Great Britain"
-  },
-  {
-    "rank": "57",
-    "player": "Fabian Marozsan",
-    "playerLink": "https://www.atptour.com/en/players/fabian-marozsan/m0ci/overview",
-    "age": "25 (1999/10/08)",
-    "weight": "165 lbs (75kg)",
-    "height": "6'4\" (193cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Hungary"
-  },
-  {
-    "rank": "58",
+    "rank": "54",
     "player": "Adrian Mannarino",
     "playerLink": "https://www.atptour.com/en/players/adrian-mannarino/me82/overview",
     "age": "36 (1988/06/29)",
@@ -580,17 +540,37 @@
     "country": "France"
   },
   {
-    "rank": "59",
-    "player": "Roman Safiullin",
-    "playerLink": "https://www.atptour.com/en/players/roman-safiullin/sx50/overview",
-    "age": "27 (1997/08/07)",
-    "weight": "165 lbs (75kg)",
-    "height": "6'1\" (185cm)",
+    "rank": "55",
+    "player": "Gael Monfils",
+    "playerLink": "https://www.atptour.com/en/players/gael-monfils/mc65/overview",
+    "age": "38 (1986/09/01)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'4\" (193cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": ""
+    "country": "France"
   },
   {
-    "rank": "60",
+    "rank": "56",
+    "player": "Roberto Carballes Baena",
+    "playerLink": "https://www.atptour.com/en/players/roberto-carballes-baena/cf59/overview",
+    "age": "31 (1993/03/23)",
+    "weight": "170 lbs (77kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Spain"
+  },
+  {
+    "rank": "57",
+    "player": "Cameron Norrie",
+    "playerLink": "https://www.atptour.com/en/players/cameron-norrie/n771/overview",
+    "age": "29 (1995/08/23)",
+    "weight": "181 lbs (82kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Great Britain"
+  },
+  {
+    "rank": "58",
     "player": "Arthur Rinderknech",
     "playerLink": "https://www.atptour.com/en/players/arthur-rinderknech/rc91/overview",
     "age": "29 (1995/07/23)",
@@ -600,14 +580,34 @@
     "country": "France"
   },
   {
-    "rank": "61",
-    "player": "Alejandro Davidovich Fokina",
-    "playerLink": "https://www.atptour.com/en/players/alejandro-davidovich-fokina/dh50/overview",
-    "age": "25 (1999/06/05)",
-    "weight": "173 lbs (78kg)",
-    "height": "6'0\" (183cm)",
+    "rank": "59",
+    "player": "Fabian Marozsan",
+    "playerLink": "https://www.atptour.com/en/players/fabian-marozsan/m0ci/overview",
+    "age": "25 (1999/10/08)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'4\" (193cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Spain"
+    "country": "Hungary"
+  },
+  {
+    "rank": "60",
+    "player": "Roman Safiullin",
+    "playerLink": "https://www.atptour.com/en/players/roman-safiullin/sx50/overview",
+    "age": "27 (1997/08/07)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": ""
+  },
+  {
+    "rank": "61",
+    "player": "Zizou Bergs",
+    "playerLink": "https://www.atptour.com/en/players/zizou-bergs/bu13/overview",
+    "age": "25 (1999/06/03)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Belgium"
   },
   {
     "rank": "62",
@@ -621,6 +621,16 @@
   },
   {
     "rank": "63",
+    "player": "Alejandro Davidovich Fokina",
+    "playerLink": "https://www.atptour.com/en/players/alejandro-davidovich-fokina/dh50/overview",
+    "age": "25 (1999/06/05)",
+    "weight": "173 lbs (78kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Spain"
+  },
+  {
+    "rank": "64",
     "player": "Alexander Shevchenko",
     "playerLink": "https://www.atptour.com/en/players/alexander-shevchenko/s0h2/overview",
     "age": "23 (2000/11/29)",
@@ -630,27 +640,7 @@
     "country": "Kazakhstan"
   },
   {
-    "rank": "64",
-    "player": "Yoshihito Nishioka",
-    "playerLink": "https://www.atptour.com/en/players/yoshihito-nishioka/n732/overview",
-    "age": "29 (1995/09/27)",
-    "weight": "141 lbs (64kg)",
-    "height": "5'7\" (170cm)",
-    "handedness": "Left-Handed, Two-Handed Backhand",
-    "country": "Japan"
-  },
-  {
     "rank": "65",
-    "player": "Zizou Bergs",
-    "playerLink": "https://www.atptour.com/en/players/zizou-bergs/bu13/overview",
-    "age": "25 (1999/06/03)",
-    "weight": "187 lbs (85kg)",
-    "height": "6'1\" (185cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Belgium"
-  },
-  {
-    "rank": "66",
     "player": "Facundo Diaz Acosta",
     "playerLink": "https://www.atptour.com/en/players/facundo-diaz-acosta/d0cg/overview",
     "age": "23 (2000/12/15)",
@@ -660,14 +650,24 @@
     "country": "Argentina"
   },
   {
+    "rank": "66",
+    "player": "Corentin Moutet",
+    "playerLink": "https://www.atptour.com/en/players/corentin-moutet/mw02/overview",
+    "age": "25 (1999/04/19)",
+    "weight": "156 lbs (71kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "France"
+  },
+  {
     "rank": "67",
-    "player": "Botic Van De Zandschulp",
-    "playerLink": "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/overview",
-    "age": "29 (1995/10/04)",
-    "weight": "187 lbs (85kg)",
-    "height": "6'3\" (191cm)",
+    "player": "Arthur Cazaux",
+    "playerLink": "https://www.atptour.com/en/players/arthur-cazaux/c0h0/overview",
+    "age": "22 (2002/08/23)",
+    "weight": "162 lbs (73kg)",
+    "height": "6'0\" (183cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Netherlands"
+    "country": "France"
   },
   {
     "rank": "68",
@@ -691,13 +691,13 @@
   },
   {
     "rank": "70",
-    "player": "Corentin Moutet",
-    "playerLink": "https://www.atptour.com/en/players/corentin-moutet/mw02/overview",
-    "age": "25 (1999/04/19)",
-    "weight": "156 lbs (71kg)",
-    "height": "5'11\" (180cm)",
+    "player": "Yoshihito Nishioka",
+    "playerLink": "https://www.atptour.com/en/players/yoshihito-nishioka/n732/overview",
+    "age": "29 (1995/09/27)",
+    "weight": "141 lbs (64kg)",
+    "height": "5'7\" (170cm)",
     "handedness": "Left-Handed, Two-Handed Backhand",
-    "country": "France"
+    "country": "Japan"
   },
   {
     "rank": "71",
@@ -711,26 +711,6 @@
   },
   {
     "rank": "72",
-    "player": "Dusan Lajovic",
-    "playerLink": "https://www.atptour.com/en/players/dusan-lajovic/l987/overview",
-    "age": "34 (1990/06/30)",
-    "weight": "183 lbs (83kg)",
-    "height": "6'0\" (183cm)",
-    "handedness": "Right-Handed, One-Handed Backhand",
-    "country": "Serbia"
-  },
-  {
-    "rank": "73",
-    "player": "Pavel Kotov",
-    "playerLink": "https://www.atptour.com/en/players/pavel-kotov/k09f/overview",
-    "age": "25 (1998/11/18)",
-    "weight": "196 lbs (89kg)",
-    "height": "6'3\" (191cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": ""
-  },
-  {
-    "rank": "74",
     "player": "Yunchaokete Bu",
     "playerLink": "https://www.atptour.com/en/players/yunchaokete-bu/y09v/overview",
     "age": "22 (2002/01/19)",
@@ -740,17 +720,7 @@
     "country": "China"
   },
   {
-    "rank": "75",
-    "player": "Thiago Seyboth Wild",
-    "playerLink": "https://www.atptour.com/en/players/thiago-seyboth-wild/sx91/overview",
-    "age": "24 (2000/03/10)",
-    "weight": "176 lbs (80kg)",
-    "height": "6'1\" (185cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Brazil"
-  },
-  {
-    "rank": "76",
+    "rank": "73",
     "player": "Rinky Hijikata",
     "playerLink": "https://www.atptour.com/en/players/rinky-hijikata/h0bh/overview",
     "age": "23 (2001/02/23)",
@@ -758,6 +728,36 @@
     "height": "5'10\" (178cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
     "country": "Australia"
+  },
+  {
+    "rank": "74",
+    "player": "Fabio Fognini",
+    "playerLink": "https://www.atptour.com/en/players/fabio-fognini/f510/overview",
+    "age": "37 (1987/05/24)",
+    "weight": "174 lbs (79kg)",
+    "height": "5'10\" (178cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Italy"
+  },
+  {
+    "rank": "75",
+    "player": "Pavel Kotov",
+    "playerLink": "https://www.atptour.com/en/players/pavel-kotov/k09f/overview",
+    "age": "25 (1998/11/18)",
+    "weight": "196 lbs (89kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": ""
+  },
+  {
+    "rank": "76",
+    "player": "Thiago Seyboth Wild",
+    "playerLink": "https://www.atptour.com/en/players/thiago-seyboth-wild/sx91/overview",
+    "age": "24 (2000/03/10)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Brazil"
   },
   {
     "rank": "77",
@@ -771,26 +771,6 @@
   },
   {
     "rank": "78",
-    "player": "Taro Daniel",
-    "playerLink": "https://www.atptour.com/en/players/taro-daniel/da81/overview",
-    "age": "31 (1993/01/27)",
-    "weight": "185 lbs (84kg)",
-    "height": "6'3\" (191cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Japan"
-  },
-  {
-    "rank": "79",
-    "player": "Fabio Fognini",
-    "playerLink": "https://www.atptour.com/en/players/fabio-fognini/f510/overview",
-    "age": "37 (1987/05/24)",
-    "weight": "174 lbs (79kg)",
-    "height": "5'10\" (178cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Italy"
-  },
-  {
-    "rank": "80",
     "player": "Denis Shapovalov",
     "playerLink": "https://www.atptour.com/en/players/denis-shapovalov/su55/overview",
     "age": "25 (1999/04/15)",
@@ -798,6 +778,26 @@
     "height": "6'1\" (185cm)",
     "handedness": "Left-Handed, One-Handed Backhand",
     "country": "Canada"
+  },
+  {
+    "rank": "79",
+    "player": "Thanasi Kokkinakis",
+    "playerLink": "https://www.atptour.com/en/players/thanasi-kokkinakis/kd46/overview",
+    "age": "28 (1996/04/10)",
+    "weight": "185 lbs (84kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Australia"
+  },
+  {
+    "rank": "80",
+    "player": "Botic Van De Zandschulp",
+    "playerLink": "https://www.atptour.com/en/players/botic-van-de-zandschulp/v812/overview",
+    "age": "29 (1995/10/04)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Netherlands"
   },
   {
     "rank": "81",
@@ -811,26 +811,16 @@
   },
   {
     "rank": "82",
-    "player": "Daniel Altmaier",
-    "playerLink": "https://www.atptour.com/en/players/daniel-altmaier/ae14/overview",
-    "age": "26 (1998/09/12)",
-    "weight": "176 lbs (80kg)",
-    "height": "6'2\" (188cm)",
-    "handedness": "Right-Handed, One-Handed Backhand",
-    "country": "Germany"
+    "player": "Taro Daniel",
+    "playerLink": "https://www.atptour.com/en/players/taro-daniel/da81/overview",
+    "age": "31 (1993/01/27)",
+    "weight": "185 lbs (84kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Japan"
   },
   {
     "rank": "83",
-    "player": "Sebastian Ofner",
-    "playerLink": "https://www.atptour.com/en/players/sebastian-ofner/o513/overview",
-    "age": "28 (1996/05/12)",
-    "weight": "179 lbs (81kg)",
-    "height": "6'3\" (191cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Austria"
-  },
-  {
-    "rank": "84",
     "player": "Sumit Nagal",
     "playerLink": "https://www.atptour.com/en/players/sumit-nagal/n897/overview",
     "age": "27 (1997/08/16)",
@@ -840,57 +830,7 @@
     "country": "India"
   },
   {
-    "rank": "85",
-    "player": "Arthur Cazaux",
-    "playerLink": "https://www.atptour.com/en/players/arthur-cazaux/c0h0/overview",
-    "age": "22 (2002/08/23)",
-    "weight": "162 lbs (73kg)",
-    "height": "6'0\" (183cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "France"
-  },
-  {
-    "rank": "86",
-    "player": "Dominik Koepfer",
-    "playerLink": "https://www.atptour.com/en/players/dominik-koepfer/ke73/overview",
-    "age": "30 (1994/04/29)",
-    "weight": "175 lbs (79kg)",
-    "height": "5'11\" (180cm)",
-    "handedness": "Left-Handed, Two-Handed Backhand",
-    "country": "Germany"
-  },
-  {
-    "rank": "87",
-    "player": "Thanasi Kokkinakis",
-    "playerLink": "https://www.atptour.com/en/players/thanasi-kokkinakis/kd46/overview",
-    "age": "28 (1996/04/10)",
-    "weight": "185 lbs (84kg)",
-    "height": "6'4\" (193cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Australia"
-  },
-  {
-    "rank": "88",
-    "player": "Marton Fucsovics",
-    "playerLink": "https://www.atptour.com/en/players/marton-fucsovics/f724/overview",
-    "age": "32 (1992/02/08)",
-    "weight": "181 lbs (82kg)",
-    "height": "6'2\" (188cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Hungary"
-  },
-  {
-    "rank": "89",
-    "player": "Gabriel Diallo",
-    "playerLink": "https://www.atptour.com/en/players/gabriel-diallo/d0f6/overview",
-    "age": "23 (2001/09/24)",
-    "weight": "198 lbs (90kg)",
-    "height": "6'8\" (203cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Canada"
-  },
-  {
-    "rank": "90",
+    "rank": "84",
     "player": "Quentin Halys",
     "playerLink": "https://www.atptour.com/en/players/quentin-halys/hb64/overview",
     "age": "28 (1996/10/26)",
@@ -900,7 +840,47 @@
     "country": "France"
   },
   {
-    "rank": "91",
+    "rank": "85",
+    "player": "Sebastian Ofner",
+    "playerLink": "https://www.atptour.com/en/players/sebastian-ofner/o513/overview",
+    "age": "28 (1996/05/12)",
+    "weight": "179 lbs (81kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Austria"
+  },
+  {
+    "rank": "86",
+    "player": "Dusan Lajovic",
+    "playerLink": "https://www.atptour.com/en/players/dusan-lajovic/l987/overview",
+    "age": "34 (1990/06/30)",
+    "weight": "183 lbs (83kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "Serbia"
+  },
+  {
+    "rank": "87",
+    "player": "Dominik Koepfer",
+    "playerLink": "https://www.atptour.com/en/players/dominik-koepfer/ke73/overview",
+    "age": "30 (1994/04/29)",
+    "weight": "175 lbs (79kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Germany"
+  },
+  {
+    "rank": "88",
+    "player": "Gabriel Diallo",
+    "playerLink": "https://www.atptour.com/en/players/gabriel-diallo/d0f6/overview",
+    "age": "23 (2001/09/24)",
+    "weight": "198 lbs (90kg)",
+    "height": "6'8\" (203cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Canada"
+  },
+  {
+    "rank": "89",
     "player": "Emil Ruusuvuori",
     "playerLink": "https://www.atptour.com/en/players/emil-ruusuvuori/rh24/overview",
     "age": "25 (1999/04/02)",
@@ -910,7 +890,7 @@
     "country": "Finland"
   },
   {
-    "rank": "92",
+    "rank": "90",
     "player": "Adam Walton",
     "playerLink": "https://www.atptour.com/en/players/adam-walton/w09e/overview",
     "age": "25 (1999/04/17)",
@@ -920,7 +900,17 @@
     "country": "Australia"
   },
   {
-    "rank": "93",
+    "rank": "91",
+    "player": "Marton Fucsovics",
+    "playerLink": "https://www.atptour.com/en/players/marton-fucsovics/f724/overview",
+    "age": "32 (1992/02/08)",
+    "weight": "181 lbs (82kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Hungary"
+  },
+  {
+    "rank": "92",
     "player": "Yannick Hanfmann",
     "playerLink": "https://www.atptour.com/en/players/yannick-hanfmann/h997/overview",
     "age": "32 (1991/11/13)",
@@ -930,14 +920,24 @@
     "country": "Germany"
   },
   {
-    "rank": "94",
-    "player": "Max Purcell",
-    "playerLink": "https://www.atptour.com/en/players/max-purcell/ph71/overview",
-    "age": "26 (1998/04/03)",
+    "rank": "93",
+    "player": "Daniel Altmaier",
+    "playerLink": "https://www.atptour.com/en/players/daniel-altmaier/ae14/overview",
+    "age": "26 (1998/09/12)",
     "weight": "176 lbs (80kg)",
-    "height": "6'1\" (185cm)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "Germany"
+  },
+  {
+    "rank": "94",
+    "player": "Jacob Fearnley",
+    "playerLink": "https://www.atptour.com/en/players/jacob-fearnley/f0by/overview",
+    "age": "23 (2001/07/15)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'0\" (183cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Australia"
+    "country": "Great Britain"
   },
   {
     "rank": "95",
@@ -971,23 +971,23 @@
   },
   {
     "rank": "98",
-    "player": "Jacob Fearnley",
-    "playerLink": "https://www.atptour.com/en/players/jacob-fearnley/f0by/overview",
-    "age": "23 (2001/07/15)",
+    "player": "Max Purcell",
+    "playerLink": "https://www.atptour.com/en/players/max-purcell/ph71/overview",
+    "age": "26 (1998/04/03)",
     "weight": "176 lbs (80kg)",
-    "height": "6'0\" (183cm)",
+    "height": "6'1\" (185cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Great Britain"
+    "country": "Australia"
   },
   {
     "rank": "99",
-    "player": "Aleksandar Kovacevic",
-    "playerLink": "https://www.atptour.com/en/players/aleksandar-kovacevic/k0az/overview",
-    "age": "26 (1998/08/29)",
-    "weight": "174 lbs (79kg)",
-    "height": "6'0\" (183cm)",
-    "handedness": "Right-Handed, One-Handed Backhand",
-    "country": "United States"
+    "player": "Francisco Comesana",
+    "playerLink": "https://www.atptour.com/en/players/francisco-comesana/c0df/overview",
+    "age": "24 (2000/10/06)",
+    "weight": "158 lbs (72kg)",
+    "height": "5'10\" (178cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
   },
   {
     "rank": "100",
@@ -1001,13 +1001,13 @@
   },
   {
     "rank": "101",
-    "player": "Francisco Comesana",
-    "playerLink": "https://www.atptour.com/en/players/francisco-comesana/c0df/overview",
-    "age": "24 (2000/10/06)",
-    "weight": "158 lbs (72kg)",
-    "height": "5'10\" (178cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Argentina"
+    "player": "Aleksandar Kovacevic",
+    "playerLink": "https://www.atptour.com/en/players/aleksandar-kovacevic/k0az/overview",
+    "age": "26 (1998/08/29)",
+    "weight": "174 lbs (79kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "United States"
   },
   {
     "rank": "102",
@@ -1021,16 +1021,6 @@
   },
   {
     "rank": "103",
-    "player": "Damir Dzumhur",
-    "playerLink": "https://www.atptour.com/en/players/damir-dzumhur/d923/overview",
-    "age": "32 (1992/05/20)",
-    "weight": "150 lbs (68kg)",
-    "height": "5'9\" (175cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Bosnia-Herzegovina"
-  },
-  {
-    "rank": "104",
     "player": "Federico Coria",
     "playerLink": "https://www.atptour.com/en/players/federico-coria/ce77/overview",
     "age": "32 (1992/03/09)",
@@ -1038,6 +1028,16 @@
     "height": "5'11\" (180cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
     "country": "Argentina"
+  },
+  {
+    "rank": "104",
+    "player": "Damir Dzumhur",
+    "playerLink": "https://www.atptour.com/en/players/damir-dzumhur/d923/overview",
+    "age": "32 (1992/05/20)",
+    "weight": "150 lbs (68kg)",
+    "height": "5'9\" (175cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Bosnia-Herzegovina"
   },
   {
     "rank": "105",
@@ -1071,13 +1071,13 @@
   },
   {
     "rank": "108",
-    "player": "Alexander Ritschard",
-    "playerLink": "https://www.atptour.com/en/players/alexander-ritschard/rc04/overview",
-    "age": "30 (1994/03/24)",
-    "weight": "180 lbs (82kg)",
-    "height": "6'4\" (193cm)",
+    "player": "Mikhail Kukushkin",
+    "playerLink": "https://www.atptour.com/en/players/mikhail-kukushkin/k926/overview",
+    "age": "36 (1987/12/26)",
+    "weight": "159 lbs (72kg)",
+    "height": "6'0\" (183cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Switzerland"
+    "country": "Kazakhstan"
   },
   {
     "rank": "109",
@@ -1091,13 +1091,13 @@
   },
   {
     "rank": "110",
-    "player": "Mikhail Kukushkin",
-    "playerLink": "https://www.atptour.com/en/players/mikhail-kukushkin/k926/overview",
-    "age": "36 (1987/12/26)",
-    "weight": "159 lbs (72kg)",
-    "height": "6'0\" (183cm)",
+    "player": "Alexander Ritschard",
+    "playerLink": "https://www.atptour.com/en/players/alexander-ritschard/rc04/overview",
+    "age": "30 (1994/03/24)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'4\" (193cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Kazakhstan"
+    "country": "Switzerland"
   },
   {
     "rank": "111",
@@ -1111,26 +1111,6 @@
   },
   {
     "rank": "112",
-    "player": "Daniel Elahi Galan",
-    "playerLink": "https://www.atptour.com/en/players/daniel-elahi-galan/ge33/overview",
-    "age": "28 (1996/06/18)",
-    "weight": "159 lbs (72kg)",
-    "height": "6'3\" (191cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Colombia"
-  },
-  {
-    "rank": "113",
-    "player": "Billy Harris",
-    "playerLink": "https://www.atptour.com/en/players/billy-harris/hd68/overview",
-    "age": "29 (1995/01/25)",
-    "weight": "196 lbs (89kg)",
-    "height": "6'4\" (193cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Great Britain"
-  },
-  {
-    "rank": "114",
     "player": "Luca Van Assche",
     "playerLink": "https://www.atptour.com/en/players/luca-van-assche/v0dz/overview",
     "age": "20 (2004/05/11)",
@@ -1140,7 +1120,7 @@
     "country": "France"
   },
   {
-    "rank": "115",
+    "rank": "113",
     "player": "Chun-Hsin Tseng",
     "playerLink": "https://www.atptour.com/en/players/chun-hsin-tseng/t0ap/overview",
     "age": "23 (2001/08/08)",
@@ -1150,7 +1130,7 @@
     "country": "Chinese Taipei"
   },
   {
-    "rank": "116",
+    "rank": "114",
     "player": "Kamil Majchrzak",
     "playerLink": "https://www.atptour.com/en/players/kamil-majchrzak/mq75/overview",
     "age": "28 (1996/01/13)",
@@ -1160,7 +1140,7 @@
     "country": "Poland"
   },
   {
-    "rank": "117",
+    "rank": "115",
     "player": "Duje Ajdukovic",
     "playerLink": "https://www.atptour.com/en/players/duje-ajdukovic/a0cj/overview",
     "age": "23 (2001/02/05)",
@@ -1170,27 +1150,7 @@
     "country": "Croatia"
   },
   {
-    "rank": "118",
-    "player": "Mackenzie Mcdonald",
-    "playerLink": "https://www.atptour.com/en/players/mackenzie-mcdonald/mk66/overview",
-    "age": "29 (1995/04/16)",
-    "weight": "160 lbs (73kg)",
-    "height": "5'10\" (178cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "United States"
-  },
-  {
-    "rank": "119",
-    "player": "Christopher Eubanks",
-    "playerLink": "https://www.atptour.com/en/players/christopher-eubanks/e865/overview",
-    "age": "28 (1996/05/05)",
-    "weight": "180 lbs (82kg)",
-    "height": "6'7\" (201cm)",
-    "handedness": "Right-Handed, One-Handed Backhand",
-    "country": "United States"
-  },
-  {
-    "rank": "120",
+    "rank": "116",
     "player": "Jaime Faria",
     "playerLink": "https://www.atptour.com/en/players/jaime-faria/f0f2/overview",
     "age": "21 (2003/08/06)",
@@ -1200,27 +1160,27 @@
     "country": "Portugal"
   },
   {
-    "rank": "121",
-    "player": "Thiago Agustin Tirante",
-    "playerLink": "https://www.atptour.com/en/players/thiago-agustin-tirante/t0a1/overview",
-    "age": "23 (2001/04/10)",
-    "weight": "178 lbs (81kg)",
-    "height": "6'1\" (185cm)",
+    "rank": "117",
+    "player": "Billy Harris",
+    "playerLink": "https://www.atptour.com/en/players/billy-harris/hd68/overview",
+    "age": "29 (1995/01/25)",
+    "weight": "196 lbs (89kg)",
+    "height": "6'4\" (193cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Argentina"
+    "country": "Great Britain"
   },
   {
-    "rank": "122",
-    "player": "Hugo Dellien",
-    "playerLink": "https://www.atptour.com/en/players/hugo-dellien/da31/overview",
-    "age": "31 (1993/06/16)",
-    "weight": "165 lbs (75kg)",
-    "height": "5'11\" (180cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Bolivia"
+    "rank": "118",
+    "player": "Christopher Eubanks",
+    "playerLink": "https://www.atptour.com/en/players/christopher-eubanks/e865/overview",
+    "age": "28 (1996/05/05)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'7\" (201cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "United States"
   },
   {
-    "rank": "123",
+    "rank": "119",
     "player": "Nicolas Moreno De Alboran",
     "playerLink": "https://www.atptour.com/en/players/nicolas-moreno-de-alboran/mw18/overview",
     "age": "27 (1997/07/14)",
@@ -1230,17 +1190,17 @@
     "country": "United States"
   },
   {
-    "rank": "124",
-    "player": "Pierre-Hugues Herbert",
-    "playerLink": "https://www.atptour.com/en/players/pierre-hugues-herbert/h996/overview",
-    "age": "33 (1991/03/18)",
-    "weight": "165 lbs (75kg)",
-    "height": "6'2\" (188cm)",
+    "rank": "120",
+    "player": "Thiago Agustin Tirante",
+    "playerLink": "https://www.atptour.com/en/players/thiago-agustin-tirante/t0a1/overview",
+    "age": "23 (2001/04/10)",
+    "weight": "178 lbs (81kg)",
+    "height": "6'1\" (185cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "France"
+    "country": "Argentina"
   },
   {
-    "rank": "125",
+    "rank": "121",
     "player": "Learner Tien",
     "playerLink": "https://www.atptour.com/en/players/learner-tien/t0ha/overview",
     "age": "18 (2005/12/02)",
@@ -1250,27 +1210,17 @@
     "country": "United States"
   },
   {
-    "rank": "126",
-    "player": "Benjamin Bonzi",
-    "playerLink": "https://www.atptour.com/en/players/benjamin-bonzi/bm95/overview",
-    "age": "28 (1996/06/09)",
-    "weight": "180 lbs (82kg)",
-    "height": "6'0\" (183cm)",
+    "rank": "122",
+    "player": "Daniel Elahi Galan",
+    "playerLink": "https://www.atptour.com/en/players/daniel-elahi-galan/ge33/overview",
+    "age": "28 (1996/06/18)",
+    "weight": "159 lbs (72kg)",
+    "height": "6'3\" (191cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "France"
+    "country": "Colombia"
   },
   {
-    "rank": "127",
-    "player": "Valentin Vacherot",
-    "playerLink": "https://www.atptour.com/en/players/valentin-vacherot/va25/overview",
-    "age": "25 (1998/11/16)",
-    "weight": "184 lbs (83kg)",
-    "height": "6'4\" (193cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Monaco"
-  },
-  {
-    "rank": "128",
+    "rank": "123",
     "player": "Jozef Kovalik",
     "playerLink": "https://www.atptour.com/en/players/jozef-kovalik/kc04/overview",
     "age": "31 (1992/11/04)",
@@ -1280,27 +1230,57 @@
     "country": "Slovak Republic"
   },
   {
-    "rank": "129",
-    "player": "Laslo Djere",
-    "playerLink": "https://www.atptour.com/en/players/laslo-djere/db63/overview",
-    "age": "29 (1995/06/02)",
-    "weight": "181 lbs (82kg)",
-    "height": "6'2\" (188cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Serbia"
-  },
-  {
-    "rank": "130",
-    "player": "Roman Andres Burruchaga",
-    "playerLink": "https://www.atptour.com/en/players/roman-andres-burruchaga/b0fv/overview",
-    "age": "22 (2002/01/23)",
-    "weight": "176 lbs (80kg)",
+    "rank": "124",
+    "player": "Benjamin Bonzi",
+    "playerLink": "https://www.atptour.com/en/players/benjamin-bonzi/bm95/overview",
+    "age": "28 (1996/06/09)",
+    "weight": "180 lbs (82kg)",
     "height": "6'0\" (183cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Argentina"
+    "country": "France"
   },
   {
-    "rank": "131",
+    "rank": "125",
+    "player": "Hugo Dellien",
+    "playerLink": "https://www.atptour.com/en/players/hugo-dellien/da31/overview",
+    "age": "31 (1993/06/16)",
+    "weight": "165 lbs (75kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Bolivia"
+  },
+  {
+    "rank": "126",
+    "player": "Valentin Vacherot",
+    "playerLink": "https://www.atptour.com/en/players/valentin-vacherot/va25/overview",
+    "age": "25 (1998/11/16)",
+    "weight": "184 lbs (83kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Monaco"
+  },
+  {
+    "rank": "127",
+    "player": "Pierre-Hugues Herbert",
+    "playerLink": "https://www.atptour.com/en/players/pierre-hugues-herbert/h996/overview",
+    "age": "33 (1991/03/18)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
+  },
+  {
+    "rank": "128",
+    "player": "Mackenzie Mcdonald",
+    "playerLink": "https://www.atptour.com/en/players/mackenzie-mcdonald/mk66/overview",
+    "age": "29 (1995/04/16)",
+    "weight": "160 lbs (73kg)",
+    "height": "5'10\" (178cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
+  },
+  {
+    "rank": "129",
     "player": "Lloyd Harris",
     "playerLink": "https://www.atptour.com/en/players/lloyd-harris/hg86/overview",
     "age": "27 (1997/02/24)",
@@ -1310,7 +1290,7 @@
     "country": "South Africa"
   },
   {
-    "rank": "132",
+    "rank": "130",
     "player": "Leandro Riedi",
     "playerLink": "https://www.atptour.com/en/players/leandro-riedi/r0fs/overview",
     "age": "22 (2002/01/27)",
@@ -1318,6 +1298,26 @@
     "height": "6'3\" (191cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
     "country": "Switzerland"
+  },
+  {
+    "rank": "131",
+    "player": "Roman Andres Burruchaga",
+    "playerLink": "https://www.atptour.com/en/players/roman-andres-burruchaga/b0fv/overview",
+    "age": "22 (2002/01/23)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
+  },
+  {
+    "rank": "132",
+    "player": "Kei Nishikori",
+    "playerLink": "https://www.atptour.com/en/players/kei-nishikori/n552/overview",
+    "age": "34 (1989/12/29)",
+    "weight": "161 lbs (73kg)",
+    "height": "5'10\" (178cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Japan"
   },
   {
     "rank": "133",
@@ -1341,6 +1341,16 @@
   },
   {
     "rank": "135",
+    "player": "Federico Agustin Gomez",
+    "playerLink": "https://www.atptour.com/en/players/federico-agustin-gomez/gj16/overview",
+    "age": "27 (1996/11/26)",
+    "weight": "210 lbs (95kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
+  },
+  {
+    "rank": "136",
     "player": "Facundo Bagnis",
     "playerLink": "https://www.atptour.com/en/players/facundo-bagnis/bf23/overview",
     "age": "34 (1990/02/27)",
@@ -1350,7 +1360,7 @@
     "country": "Argentina"
   },
   {
-    "rank": "136",
+    "rank": "137",
     "player": "Marco Trungelliti",
     "playerLink": "https://www.atptour.com/en/players/marco-trungelliti/ta29/overview",
     "age": "34 (1990/01/31)",
@@ -1360,17 +1370,17 @@
     "country": "Argentina"
   },
   {
-    "rank": "137",
-    "player": "Maximilian Marterer",
-    "playerLink": "https://www.atptour.com/en/players/maximilian-marterer/mn13/overview",
-    "age": "",
-    "weight": "",
-    "height": "",
-    "handedness": "",
-    "country": ""
+    "rank": "138",
+    "player": "Raphael Collignon",
+    "playerLink": "https://www.atptour.com/en/players/raphael-collignon/c0jp/overview",
+    "age": "22 (2002/01/13)",
+    "weight": "189 lbs (86kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Belgium"
   },
   {
-    "rank": "138",
+    "rank": "139",
     "player": "Matteo Gigante",
     "playerLink": "https://www.atptour.com/en/players/matteo-gigante/g0gd/overview",
     "age": "22 (2002/01/04)",
@@ -1380,7 +1390,7 @@
     "country": "Italy"
   },
   {
-    "rank": "139",
+    "rank": "140",
     "player": "Yasutaka Uchiyama",
     "playerLink": "https://www.atptour.com/en/players/yasutaka-uchiyama/u134/overview",
     "age": "32 (1992/08/05)",
@@ -1390,17 +1400,17 @@
     "country": "Japan"
   },
   {
-    "rank": "140",
-    "player": "Kei Nishikori",
-    "playerLink": "https://www.atptour.com/en/players/kei-nishikori/n552/overview",
-    "age": "34 (1989/12/29)",
-    "weight": "161 lbs (73kg)",
-    "height": "5'10\" (178cm)",
+    "rank": "141",
+    "player": "Laslo Djere",
+    "playerLink": "https://www.atptour.com/en/players/laslo-djere/db63/overview",
+    "age": "29 (1995/06/02)",
+    "weight": "181 lbs (82kg)",
+    "height": "6'2\" (188cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Japan"
+    "country": "Serbia"
   },
   {
-    "rank": "141",
+    "rank": "142",
     "player": "Albert Ramos-Vinolas",
     "playerLink": "https://www.atptour.com/en/players/albert-ramos-vinolas/r772/overview",
     "age": "36 (1988/01/17)",
@@ -1410,7 +1420,7 @@
     "country": "Spain"
   },
   {
-    "rank": "142",
+    "rank": "143",
     "player": "Juan Manuel Cerundolo",
     "playerLink": "https://www.atptour.com/en/players/juan-manuel-cerundolo/c0c8/overview",
     "age": "22 (2001/11/15)",
@@ -1420,7 +1430,7 @@
     "country": "Argentina"
   },
   {
-    "rank": "143",
+    "rank": "144",
     "player": "Radu Albot",
     "playerLink": "https://www.atptour.com/en/players/radu-albot/a829/overview",
     "age": "34 (1989/11/11)",
@@ -1430,7 +1440,7 @@
     "country": "Moldova"
   },
   {
-    "rank": "144",
+    "rank": "145",
     "player": "Mitchell Krueger",
     "playerLink": "https://www.atptour.com/en/players/mitchell-krueger/kc12/overview",
     "age": "30 (1994/01/12)",
@@ -1440,7 +1450,7 @@
     "country": "United States"
   },
   {
-    "rank": "145",
+    "rank": "146",
     "player": "Seongchan Hong",
     "playerLink": "https://www.atptour.com/en/players/seongchan-hong/hc21/overview",
     "age": "27 (1997/06/30)",
@@ -1448,16 +1458,6 @@
     "height": "5'9\" (175cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
     "country": "South Korea"
-  },
-  {
-    "rank": "146",
-    "player": "Lukas Klein",
-    "playerLink": "https://www.atptour.com/en/players/lukas-klein/ki63/overview",
-    "age": "26 (1998/03/22)",
-    "weight": "187 lbs (85kg)",
-    "height": "6'4\" (193cm)",
-    "handedness": "Right-Handed, Unknown Backhand",
-    "country": "Slovak Republic"
   },
   {
     "rank": "147",
@@ -1471,16 +1471,6 @@
   },
   {
     "rank": "148",
-    "player": "Marc-Andrea Huesler",
-    "playerLink": "https://www.atptour.com/en/players/marc-andrea-huesler/hh06/overview",
-    "age": "28 (1996/06/24)",
-    "weight": "189 lbs (86kg)",
-    "height": "6'5\" (196cm)",
-    "handedness": "Left-Handed, Two-Handed Backhand",
-    "country": "Switzerland"
-  },
-  {
-    "rank": "149",
     "player": "Stan Wawrinka",
     "playerLink": "https://www.atptour.com/en/players/stan-wawrinka/w367/overview",
     "age": "39 (1985/03/28)",
@@ -1490,27 +1480,7 @@
     "country": "Switzerland"
   },
   {
-    "rank": "150",
-    "player": "Felipe Meligeni Alves",
-    "playerLink": "https://www.atptour.com/en/players/felipe-meligeni-alves/mw75/overview",
-    "age": "26 (1998/02/19)",
-    "weight": "182 lbs (83kg)",
-    "height": "6'1\" (185cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Brazil"
-  },
-  {
-    "rank": "151",
-    "player": "Joao Fonseca",
-    "playerLink": "https://www.atptour.com/en/players/joao-fonseca/f0fv/overview",
-    "age": "18 (2006/08/21)",
-    "weight": "162 lbs (73kg)",
-    "height": "6'1\" (185cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Brazil"
-  },
-  {
-    "rank": "152",
+    "rank": "149",
     "player": "Vit Kopriva",
     "playerLink": "https://www.atptour.com/en/players/vit-kopriva/ki82/overview",
     "age": "27 (1997/06/15)",
@@ -1520,7 +1490,47 @@
     "country": "Czechia"
   },
   {
+    "rank": "150",
+    "player": "Joao Fonseca",
+    "playerLink": "https://www.atptour.com/en/players/joao-fonseca/f0fv/overview",
+    "age": "18 (2006/08/21)",
+    "weight": "162 lbs (73kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Brazil"
+  },
+  {
+    "rank": "151",
+    "player": "Marc-Andrea Huesler",
+    "playerLink": "https://www.atptour.com/en/players/marc-andrea-huesler/hh06/overview",
+    "age": "",
+    "weight": "",
+    "height": "",
+    "handedness": "",
+    "country": ""
+  },
+  {
+    "rank": "152",
+    "player": "Tomas Barrios Vera",
+    "playerLink": "https://www.atptour.com/en/players/tomas-barrios-vera/bs86/overview",
+    "age": "26 (1997/12/10)",
+    "weight": "194 lbs (88kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Chile"
+  },
+  {
     "rank": "153",
+    "player": "Lukas Klein",
+    "playerLink": "https://www.atptour.com/en/players/lukas-klein/ki63/overview",
+    "age": "26 (1998/03/22)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Right-Handed, Unknown Backhand",
+    "country": "Slovak Republic"
+  },
+  {
+    "rank": "154",
     "player": "Rafael Nadal",
     "playerLink": "https://www.atptour.com/en/players/rafael-nadal/n409/overview",
     "age": "38 (1986/06/03)",
@@ -1530,47 +1540,17 @@
     "country": "Spain"
   },
   {
-    "rank": "154",
-    "player": "Hugo Grenier",
-    "playerLink": "https://www.atptour.com/en/players/hugo-grenier/gf95/overview",
-    "age": "28 (1996/03/23)",
-    "weight": "187 lbs (85kg)",
-    "height": "6'5\" (196cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "France"
-  },
-  {
     "rank": "155",
-    "player": "Gregoire Barrere",
-    "playerLink": "https://www.atptour.com/en/players/gregoire-barrere/bk24/overview",
-    "age": "30 (1994/02/16)",
-    "weight": "176 lbs (80kg)",
-    "height": "6'0\" (183cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "France"
+    "player": "Maximilian Marterer",
+    "playerLink": "https://www.atptour.com/en/players/maximilian-marterer/mn13/overview",
+    "age": "29 (1995/06/15)",
+    "weight": "171 lbs (78kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Germany"
   },
   {
     "rank": "156",
-    "player": "Terence Atmane",
-    "playerLink": "https://www.atptour.com/en/players/terence-atmane/a0gc/overview",
-    "age": "22 (2002/01/09)",
-    "weight": "176 lbs (80kg)",
-    "height": "6'4\" (193cm)",
-    "handedness": "Left-Handed, Two-Handed Backhand",
-    "country": "France"
-  },
-  {
-    "rank": "157",
-    "player": "Coleman Wong",
-    "playerLink": "https://www.atptour.com/en/players/coleman-wong/w0bh/overview",
-    "age": "20 (2004/06/06)",
-    "weight": "176 lbs (80kg)",
-    "height": "6'3\" (191cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Hong Kong"
-  },
-  {
-    "rank": "158",
     "player": "Hamad Medjedovic",
     "playerLink": "https://www.atptour.com/en/players/hamad-medjedovic/m0jf/overview",
     "age": "21 (2003/07/18)",
@@ -1580,7 +1560,37 @@
     "country": "Serbia"
   },
   {
+    "rank": "157",
+    "player": "Terence Atmane",
+    "playerLink": "https://www.atptour.com/en/players/terence-atmane/a0gc/overview",
+    "age": "22 (2002/01/09)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'4\" (193cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "France"
+  },
+  {
+    "rank": "158",
+    "player": "Hugo Grenier",
+    "playerLink": "https://www.atptour.com/en/players/hugo-grenier/gf95/overview",
+    "age": "28 (1996/03/23)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
+  },
+  {
     "rank": "159",
+    "player": "Coleman Wong",
+    "playerLink": "https://www.atptour.com/en/players/coleman-wong/w0bh/overview",
+    "age": "20 (2004/06/06)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Hong Kong"
+  },
+  {
+    "rank": "160",
     "player": "Tristan Boyer",
     "playerLink": "https://www.atptour.com/en/players/tristan-boyer/b0ej/overview",
     "age": "23 (2001/04/21)",
@@ -1588,16 +1598,6 @@
     "height": "6'2\" (188cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
     "country": "United States"
-  },
-  {
-    "rank": "160",
-    "player": "Federico Agustin Gomez",
-    "playerLink": "https://www.atptour.com/en/players/federico-agustin-gomez/gj16/overview",
-    "age": "27 (1996/11/26)",
-    "weight": "210 lbs (95kg)",
-    "height": "6'3\" (191cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Argentina"
   },
   {
     "rank": "161",
@@ -1633,14 +1633,34 @@
     "rank": "164",
     "player": "Stefano Napolitano",
     "playerLink": "https://www.atptour.com/en/players/stefano-napolitano/n679/overview",
-    "age": "",
-    "weight": "",
-    "height": "",
-    "handedness": "",
-    "country": ""
+    "age": "29 (1995/04/11)",
+    "weight": "198 lbs (90kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Italy"
   },
   {
     "rank": "165",
+    "player": "Felipe Meligeni Alves",
+    "playerLink": "https://www.atptour.com/en/players/felipe-meligeni-alves/mw75/overview",
+    "age": "26 (1998/02/19)",
+    "weight": "182 lbs (83kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Brazil"
+  },
+  {
+    "rank": "166",
+    "player": "Gregoire Barrere",
+    "playerLink": "https://www.atptour.com/en/players/gregoire-barrere/bk24/overview",
+    "age": "30 (1994/02/16)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
+  },
+  {
+    "rank": "167",
     "player": "Zachary Svajda",
     "playerLink": "https://www.atptour.com/en/players/zachary-svajda/s0k7/overview",
     "age": "21 (2002/11/29)",
@@ -1650,7 +1670,7 @@
     "country": "United States"
   },
   {
-    "rank": "166",
+    "rank": "168",
     "player": "Gustavo Heide",
     "playerLink": "https://www.atptour.com/en/players/gustavo-heide/h0du/overview",
     "age": "22 (2002/02/28)",
@@ -1660,107 +1680,7 @@
     "country": "Brazil"
   },
   {
-    "rank": "167",
-    "player": "Raphael Collignon",
-    "playerLink": "https://www.atptour.com/en/players/raphael-collignon/c0jp/overview",
-    "age": "22 (2002/01/13)",
-    "weight": "189 lbs (86kg)",
-    "height": "6'3\" (191cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Belgium"
-  },
-  {
-    "rank": "168",
-    "player": "August Holmgren",
-    "playerLink": "https://www.atptour.com/en/players/august-holmgren/h09n/overview",
-    "age": "26 (1998/04/22)",
-    "weight": "185 lbs (84kg)",
-    "height": "6'2\" (188cm)",
-    "handedness": "Right-Handed, One-Handed Backhand",
-    "country": "Denmark"
-  },
-  {
     "rank": "169",
-    "player": "Patrick Kypson",
-    "playerLink": "https://www.atptour.com/en/players/patrick-kypson/k0a3/overview",
-    "age": "24 (1999/10/28)",
-    "weight": "180 lbs (82kg)",
-    "height": "6'2\" (188cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "United States"
-  },
-  {
-    "rank": "170",
-    "player": "Tomas Barrios Vera",
-    "playerLink": "https://www.atptour.com/en/players/tomas-barrios-vera/bs86/overview",
-    "age": "26 (1997/12/10)",
-    "weight": "194 lbs (88kg)",
-    "height": "6'3\" (191cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Chile"
-  },
-  {
-    "rank": "171",
-    "player": "Elmer Moller",
-    "playerLink": "https://www.atptour.com/en/players/elmer-moller/m0k4/overview",
-    "age": "21 (2003/07/09)",
-    "weight": "160 lbs (73kg)",
-    "height": "6'0\" (183cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Denmark"
-  },
-  {
-    "rank": "172",
-    "player": "Gijs Brouwer",
-    "playerLink": "https://www.atptour.com/en/players/gijs-brouwer/bo10/overview",
-    "age": "28 (1996/03/14)",
-    "weight": "161 lbs (73kg)",
-    "height": "6'3\" (191cm)",
-    "handedness": "Left-Handed, Two-Handed Backhand",
-    "country": "Netherlands"
-  },
-  {
-    "rank": "173",
-    "player": "Titouan Droguet",
-    "playerLink": "https://www.atptour.com/en/players/titouan-droguet/d0dw/overview",
-    "age": "23 (2001/06/15)",
-    "weight": "176 lbs (80kg)",
-    "height": "6'3\" (191cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "France"
-  },
-  {
-    "rank": "174",
-    "player": "Juan Pablo Ficovich",
-    "playerLink": "https://www.atptour.com/en/players/juan-pablo-ficovich/fa43/overview",
-    "age": "27 (1997/01/24)",
-    "weight": "174 lbs (79kg)",
-    "height": "6'3\" (191cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Argentina"
-  },
-  {
-    "rank": "175",
-    "player": "Dmitry Popko",
-    "playerLink": "https://www.atptour.com/en/players/dmitry-popko/pg20/overview",
-    "age": "28 (1996/10/24)",
-    "weight": "192 lbs (87kg)",
-    "height": "6'3\" (191cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Kazakhstan"
-  },
-  {
-    "rank": "176",
-    "player": "Sho Shimabukuro",
-    "playerLink": "https://www.atptour.com/en/players/sho-shimabukuro/sy67/overview",
-    "age": "27 (1997/07/30)",
-    "weight": "173 lbs (78kg)",
-    "height": "5'11\" (180cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Japan"
-  },
-  {
-    "rank": "177",
     "player": "Tristan Schoolkate",
     "playerLink": "https://www.atptour.com/en/players/tristan-schoolkate/s0n0/overview",
     "age": "23 (2001/02/26)",
@@ -1770,17 +1690,37 @@
     "country": "Australia"
   },
   {
-    "rank": "178",
-    "player": "Alex Bolt",
-    "playerLink": "https://www.atptour.com/en/players/alex-bolt/bi81/overview",
-    "age": "31 (1993/01/05)",
-    "weight": "156 lbs (71kg)",
-    "height": "6'0\" (183cm)",
-    "handedness": "Left-Handed, Two-Handed Backhand",
-    "country": "Australia"
+    "rank": "170",
+    "player": "Nishesh Basavareddy",
+    "playerLink": "https://www.atptour.com/en/players/nishesh-basavareddy/b0nn/overview",
+    "age": "19 (2005/05/02)",
+    "weight": "154 lbs (70kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
   },
   {
-    "rank": "179",
+    "rank": "171",
+    "player": "Sho Shimabukuro",
+    "playerLink": "https://www.atptour.com/en/players/sho-shimabukuro/sy67/overview",
+    "age": "27 (1997/07/30)",
+    "weight": "173 lbs (78kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Japan"
+  },
+  {
+    "rank": "172",
+    "player": "Elmer Moller",
+    "playerLink": "https://www.atptour.com/en/players/elmer-moller/m0k4/overview",
+    "age": "21 (2003/07/09)",
+    "weight": "160 lbs (73kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Denmark"
+  },
+  {
+    "rank": "173",
     "player": "Henrique Rocha",
     "playerLink": "https://www.atptour.com/en/players/henrique-rocha/r0go/overview",
     "age": "20 (2004/04/06)",
@@ -1790,47 +1730,47 @@
     "country": "Portugal"
   },
   {
-    "rank": "180",
-    "player": "Paul Jubb",
-    "playerLink": "https://www.atptour.com/en/players/paul-jubb/j0a4/overview",
-    "age": "24 (1999/10/31)",
-    "weight": "158 lbs (72kg)",
-    "height": "5'11\" (180cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Great Britain"
-  },
-  {
-    "rank": "181",
-    "player": "Maks Kasnikowski",
-    "playerLink": "https://www.atptour.com/en/players/maks-kasnikowski/k0hc/overview",
-    "age": "21 (2003/07/06)",
-    "weight": "172 lbs (78kg)",
-    "height": "5'11\" (180cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Poland"
-  },
-  {
-    "rank": "182",
-    "player": "Matteo Martineau",
-    "playerLink": "https://www.atptour.com/en/players/matteo-martineau/mw76/overview",
-    "age": "25 (1999/01/16)",
-    "weight": "173 lbs (78kg)",
-    "height": "6'0\" (183cm)",
-    "handedness": "Right-Handed, One-Handed Backhand",
-    "country": "France"
-  },
-  {
-    "rank": "183",
-    "player": "Valentin Royer",
-    "playerLink": "https://www.atptour.com/en/players/valentin-royer/r0eb/overview",
-    "age": "23 (2001/05/29)",
-    "weight": "189 lbs (86kg)",
-    "height": "6'2\" (188cm)",
+    "rank": "174",
+    "player": "Titouan Droguet",
+    "playerLink": "https://www.atptour.com/en/players/titouan-droguet/d0dw/overview",
+    "age": "23 (2001/06/15)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'3\" (191cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
     "country": "France"
   },
   {
-    "rank": "184",
+    "rank": "175",
+    "player": "Juan Pablo Ficovich",
+    "playerLink": "https://www.atptour.com/en/players/juan-pablo-ficovich/fa43/overview",
+    "age": "27 (1997/01/24)",
+    "weight": "174 lbs (79kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
+  },
+  {
+    "rank": "176",
+    "player": "Dmitry Popko",
+    "playerLink": "https://www.atptour.com/en/players/dmitry-popko/pg20/overview",
+    "age": "28 (1996/10/24)",
+    "weight": "192 lbs (87kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Kazakhstan"
+  },
+  {
+    "rank": "177",
+    "player": "Gijs Brouwer",
+    "playerLink": "https://www.atptour.com/en/players/gijs-brouwer/bo10/overview",
+    "age": "28 (1996/03/14)",
+    "weight": "161 lbs (73kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Netherlands"
+  },
+  {
+    "rank": "178",
     "player": "Li Tu",
     "playerLink": "https://www.atptour.com/en/players/li-tu/tc01/overview",
     "age": "28 (1996/05/27)",
@@ -1840,27 +1780,27 @@
     "country": "Australia"
   },
   {
-    "rank": "185",
-    "player": "Beibit Zhukayev",
-    "playerLink": "https://www.atptour.com/en/players/beibit-zhukayev/z09z/overview",
-    "age": "24 (2000/10/12)",
-    "weight": "205 lbs (93kg)",
-    "height": "6'6\" (198cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Kazakhstan"
+    "rank": "179",
+    "player": "Alex Bolt",
+    "playerLink": "https://www.atptour.com/en/players/alex-bolt/bi81/overview",
+    "age": "31 (1993/01/05)",
+    "weight": "156 lbs (71kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Australia"
   },
   {
-    "rank": "186",
-    "player": "Alibek Kachmazov",
-    "playerLink": "https://www.atptour.com/en/players/alibek-kachmazov/k0e6/overview",
-    "age": "22 (2002/08/17)",
-    "weight": "179 lbs (81kg)",
-    "height": "6'1\" (185cm)",
-    "handedness": "Right-Handed, Unknown Backhand",
-    "country": ""
+    "rank": "180",
+    "player": "August Holmgren",
+    "playerLink": "https://www.atptour.com/en/players/august-holmgren/h09n/overview",
+    "age": "26 (1998/04/22)",
+    "weight": "185 lbs (84kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "Denmark"
   },
   {
-    "rank": "187",
+    "rank": "181",
     "player": "Omar Jasika",
     "playerLink": "https://www.atptour.com/en/players/omar-jasika/j553/overview",
     "age": "27 (1997/05/18)",
@@ -1870,7 +1810,37 @@
     "country": "Australia"
   },
   {
-    "rank": "188",
+    "rank": "182",
+    "player": "Patrick Kypson",
+    "playerLink": "https://www.atptour.com/en/players/patrick-kypson/k0a3/overview",
+    "age": "25 (1999/10/28)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
+  },
+  {
+    "rank": "183",
+    "player": "Paul Jubb",
+    "playerLink": "https://www.atptour.com/en/players/paul-jubb/j0a4/overview",
+    "age": "25 (1999/10/31)",
+    "weight": "158 lbs (72kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Great Britain"
+  },
+  {
+    "rank": "184",
+    "player": "Maks Kasnikowski",
+    "playerLink": "https://www.atptour.com/en/players/maks-kasnikowski/k0hc/overview",
+    "age": "21 (2003/07/06)",
+    "weight": "172 lbs (78kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Poland"
+  },
+  {
+    "rank": "185",
     "player": "Jan Choinski",
     "playerLink": "https://www.atptour.com/en/players/jan-choinski/ch12/overview",
     "age": "28 (1996/06/10)",
@@ -1880,17 +1850,17 @@
     "country": "Great Britain"
   },
   {
-    "rank": "189",
-    "player": "Henri Squire",
-    "playerLink": "https://www.atptour.com/en/players/henri-squire/s0ak/overview",
-    "age": "24 (2000/09/27)",
-    "weight": "180 lbs (82kg)",
-    "height": "6'5\" (196cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Germany"
+    "rank": "186",
+    "player": "Jurij Rodionov",
+    "playerLink": "https://www.atptour.com/en/players/jurij-rodionov/r09x/overview",
+    "age": "25 (1999/05/16)",
+    "weight": "184 lbs (83kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Austria"
   },
   {
-    "rank": "190",
+    "rank": "187",
     "player": "Murkel Dellien",
     "playerLink": "https://www.atptour.com/en/players/murkel-dellien/dc48/overview",
     "age": "27 (1997/09/16)",
@@ -1898,6 +1868,36 @@
     "height": "6'4\" (193cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
     "country": "Bolivia"
+  },
+  {
+    "rank": "188",
+    "player": "Alibek Kachmazov",
+    "playerLink": "https://www.atptour.com/en/players/alibek-kachmazov/k0e6/overview",
+    "age": "22 (2002/08/17)",
+    "weight": "179 lbs (81kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Unknown Backhand",
+    "country": ""
+  },
+  {
+    "rank": "189",
+    "player": "Matteo Martineau",
+    "playerLink": "https://www.atptour.com/en/players/matteo-martineau/mw76/overview",
+    "age": "25 (1999/01/16)",
+    "weight": "173 lbs (78kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "France"
+  },
+  {
+    "rank": "190",
+    "player": "Henri Squire",
+    "playerLink": "https://www.atptour.com/en/players/henri-squire/s0ak/overview",
+    "age": "24 (2000/09/27)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'5\" (196cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Germany"
   },
   {
     "rank": "191",
@@ -1911,46 +1911,6 @@
   },
   {
     "rank": "192",
-    "player": "Vilius Gaubas",
-    "playerLink": "https://www.atptour.com/en/players/vilius-gaubas/g0fw/overview",
-    "age": "19 (2004/12/29)",
-    "weight": "158 lbs (72kg)",
-    "height": "5'10\" (178cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Lithuania"
-  },
-  {
-    "rank": "193",
-    "player": "Timofey Skatov",
-    "playerLink": "https://www.atptour.com/en/players/timofey-skatov/s0gr/overview",
-    "age": "23 (2001/01/21)",
-    "weight": "159 lbs (72kg)",
-    "height": "5'9\" (175cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Kazakhstan"
-  },
-  {
-    "rank": "194",
-    "player": "Brandon Holt",
-    "playerLink": "https://www.atptour.com/en/players/brandon-holt/h09p/overview",
-    "age": "26 (1998/04/06)",
-    "weight": "180 lbs (82kg)",
-    "height": "6'1\" (185cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "United States"
-  },
-  {
-    "rank": "195",
-    "player": "Carlos Taberner",
-    "playerLink": "https://www.atptour.com/en/players/carlos-taberner/te16/overview",
-    "age": "27 (1997/08/08)",
-    "weight": "172 lbs (78kg)",
-    "height": "6'0\" (183cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Spain"
-  },
-  {
-    "rank": "196",
     "player": "Constant Lestienne",
     "playerLink": "https://www.atptour.com/en/players/constant-lestienne/lb66/overview",
     "age": "32 (1992/05/23)",
@@ -1960,24 +1920,64 @@
     "country": "France"
   },
   {
-    "rank": "197",
-    "player": "Nishesh Basavareddy",
-    "playerLink": "https://www.atptour.com/en/players/nishesh-basavareddy/b0nn/overview",
-    "age": "19 (2005/05/02)",
-    "weight": "154 lbs (70kg)",
-    "height": "5'11\" (180cm)",
+    "rank": "193",
+    "player": "Vilius Gaubas",
+    "playerLink": "https://www.atptour.com/en/players/vilius-gaubas/g0fw/overview",
+    "age": "19 (2004/12/29)",
+    "weight": "158 lbs (72kg)",
+    "height": "5'10\" (178cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "United States"
+    "country": "Lithuania"
+  },
+  {
+    "rank": "194",
+    "player": "Valentin Royer",
+    "playerLink": "https://www.atptour.com/en/players/valentin-royer/r0eb/overview",
+    "age": "23 (2001/05/29)",
+    "weight": "189 lbs (86kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
+  },
+  {
+    "rank": "195",
+    "player": "Timofey Skatov",
+    "playerLink": "https://www.atptour.com/en/players/timofey-skatov/s0gr/overview",
+    "age": "23 (2001/01/21)",
+    "weight": "159 lbs (72kg)",
+    "height": "5'9\" (175cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Kazakhstan"
+  },
+  {
+    "rank": "196",
+    "player": "Marin Cilic",
+    "playerLink": "https://www.atptour.com/en/players/marin-cilic/c977/overview",
+    "age": "36 (1988/09/28)",
+    "weight": "196 lbs (89kg)",
+    "height": "6'6\" (198cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Croatia"
+  },
+  {
+    "rank": "197",
+    "player": "Carlos Taberner",
+    "playerLink": "https://www.atptour.com/en/players/carlos-taberner/te16/overview",
+    "age": "27 (1997/08/08)",
+    "weight": "172 lbs (78kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Spain"
   },
   {
     "rank": "198",
-    "player": "Aziz Dougaz",
-    "playerLink": "https://www.atptour.com/en/players/aziz-dougaz/df88/overview",
-    "age": "27 (1997/03/26)",
-    "weight": "180 lbs (82kg)",
-    "height": "6'2\" (188cm)",
-    "handedness": "Left-Handed, Two-Handed Backhand",
-    "country": "Tunisia"
+    "player": "James Trotter",
+    "playerLink": "https://www.atptour.com/en/players/james-trotter/t0bw/overview",
+    "age": "25 (1999/07/29)",
+    "weight": "165 lbs (75kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Unknown Backhand",
+    "country": "Japan"
   },
   {
     "rank": "199",
@@ -1991,46 +1991,6 @@
   },
   {
     "rank": "200",
-    "player": "Clement Chidekh",
-    "playerLink": "https://www.atptour.com/en/players/clement-chidekh/c0bh/overview",
-    "age": "23 (2001/06/13)",
-    "weight": "165 lbs (75kg)",
-    "height": "5'11\" (180cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "France"
-  },
-  {
-    "rank": "201",
-    "player": "Marin Cilic",
-    "playerLink": "https://www.atptour.com/en/players/marin-cilic/c977/overview",
-    "age": "36 (1988/09/28)",
-    "weight": "196 lbs (89kg)",
-    "height": "6'6\" (198cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Croatia"
-  },
-  {
-    "rank": "202",
-    "player": "Jurij Rodionov",
-    "playerLink": "https://www.atptour.com/en/players/jurij-rodionov/r09x/overview",
-    "age": "25 (1999/05/16)",
-    "weight": "184 lbs (83kg)",
-    "height": "6'3\" (191cm)",
-    "handedness": "Left-Handed, Two-Handed Backhand",
-    "country": "Austria"
-  },
-  {
-    "rank": "203",
-    "player": "Pablo Carreno Busta",
-    "playerLink": "https://www.atptour.com/en/players/pablo-carreno-busta/cd85/overview",
-    "age": "33 (1991/07/12)",
-    "weight": "172 lbs (78kg)",
-    "height": "6'2\" (188cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Spain"
-  },
-  {
-    "rank": "204",
     "player": "Emilio Nava",
     "playerLink": "https://www.atptour.com/en/players/emilio-nava/n0am/overview",
     "age": "22 (2001/12/02)",
@@ -2040,7 +2000,17 @@
     "country": "United States"
   },
   {
-    "rank": "205",
+    "rank": "201",
+    "player": "Brandon Holt",
+    "playerLink": "https://www.atptour.com/en/players/brandon-holt/h09p/overview",
+    "age": "26 (1998/04/06)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
+  },
+  {
+    "rank": "202",
     "player": "Juan Pablo Varillas",
     "playerLink": "https://www.atptour.com/en/players/juan-pablo-varillas/v836/overview",
     "age": "29 (1995/10/06)",
@@ -2048,6 +2018,36 @@
     "height": "6'1\" (185cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
     "country": "Peru"
+  },
+  {
+    "rank": "203",
+    "player": "Clement Chidekh",
+    "playerLink": "https://www.atptour.com/en/players/clement-chidekh/c0bh/overview",
+    "age": "",
+    "weight": "",
+    "height": "",
+    "handedness": "",
+    "country": ""
+  },
+  {
+    "rank": "204",
+    "player": "Pablo Carreno Busta",
+    "playerLink": "https://www.atptour.com/en/players/pablo-carreno-busta/cd85/overview",
+    "age": "",
+    "weight": "",
+    "height": "",
+    "handedness": "",
+    "country": ""
+  },
+  {
+    "rank": "205",
+    "player": "Aziz Dougaz",
+    "playerLink": "https://www.atptour.com/en/players/aziz-dougaz/df88/overview",
+    "age": "27 (1997/03/26)",
+    "weight": "180 lbs (82kg)",
+    "height": "6'2\" (188cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Tunisia"
   },
   {
     "rank": "206",
@@ -2071,16 +2071,6 @@
   },
   {
     "rank": "208",
-    "player": "Enzo Couacaud",
-    "playerLink": "https://www.atptour.com/en/players/enzo-couacaud/cg94/overview",
-    "age": "29 (1995/03/01)",
-    "weight": "172 lbs (78kg)",
-    "height": "6'0\" (183cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "France"
-  },
-  {
-    "rank": "209",
     "player": "Adrian Andreev",
     "playerLink": "https://www.atptour.com/en/players/adrian-andreev/a0ab/overview",
     "age": "23 (2001/05/12)",
@@ -2090,147 +2080,27 @@
     "country": "Bulgaria"
   },
   {
-    "rank": "210",
-    "player": "Nick Hardt",
-    "playerLink": "https://www.atptour.com/en/players/nick-hardt/h0a4/overview",
-    "age": "24 (2000/09/20)",
-    "weight": "187 lbs (85kg)",
-    "height": "6'1\" (185cm)",
+    "rank": "209",
+    "player": "Enzo Couacaud",
+    "playerLink": "https://www.atptour.com/en/players/enzo-couacaud/cg94/overview",
+    "age": "29 (1995/03/01)",
+    "weight": "172 lbs (78kg)",
+    "height": "6'0\" (183cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Dominican Republic"
+    "country": "France"
+  },
+  {
+    "rank": "210",
+    "player": "Antoine Escoffier",
+    "playerLink": "https://www.atptour.com/en/players/antoine-escoffier/e768/overview",
+    "age": "",
+    "weight": "",
+    "height": "",
+    "handedness": "",
+    "country": ""
   },
   {
     "rank": "211",
-    "player": "Javier Barranco Cosano",
-    "playerLink": "https://www.atptour.com/en/players/javier-barranco-cosano/bv25/overview",
-    "age": "25 (1998/11/17)",
-    "weight": "161 lbs (73kg)",
-    "height": "5'11\" (180cm)",
-    "handedness": "Left-Handed, Two-Handed Backhand",
-    "country": "Spain"
-  },
-  {
-    "rank": "212",
-    "player": "Mark Lajal",
-    "playerLink": "https://www.atptour.com/en/players/mark-lajal/l0gh/overview",
-    "age": "21 (2003/05/12)",
-    "weight": "176 lbs (80kg)",
-    "height": "6'3\" (191cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Estonia"
-  },
-  {
-    "rank": "213",
-    "player": "Oriol Roca Batalla",
-    "playerLink": "https://www.atptour.com/en/players/oriol-roca-batalla/rb60/overview",
-    "age": "31 (1993/04/30)",
-    "weight": "165 lbs (75kg)",
-    "height": "5'9\" (175cm)",
-    "handedness": "Right-Handed, One-Handed Backhand",
-    "country": "Spain"
-  },
-  {
-    "rank": "214",
-    "player": "Filip Cristian Jianu",
-    "playerLink": "https://www.atptour.com/en/players/filip-cristian-jianu/j09x/overview",
-    "age": "23 (2001/09/18)",
-    "weight": "171 lbs (78kg)",
-    "height": "5'11\" (180cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Romania"
-  },
-  {
-    "rank": "215",
-    "player": "Ugo Blanchet",
-    "playerLink": "https://www.atptour.com/en/players/ugo-blanchet/bv16/overview",
-    "age": "25 (1999/01/05)",
-    "weight": "157 lbs (71kg)",
-    "height": "5'9\" (175cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "France"
-  },
-  {
-    "rank": "216",
-    "player": "Nicolas Mejia",
-    "playerLink": "https://www.atptour.com/en/players/nicolas-mejia/m0aw/overview",
-    "age": "24 (2000/02/11)",
-    "weight": "175 lbs (79kg)",
-    "height": "6'0\" (183cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Colombia"
-  },
-  {
-    "rank": "217",
-    "player": "Denis Kudla",
-    "playerLink": "https://www.atptour.com/en/players/denis-kudla/kb09/overview",
-    "age": "32 (1992/08/17)",
-    "weight": "175 lbs (79kg)",
-    "height": "5'11\" (180cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "United States"
-  },
-  {
-    "rank": "218",
-    "player": "Marc Polmans",
-    "playerLink": "https://www.atptour.com/en/players/marc-polmans/pg94/overview",
-    "age": "27 (1997/05/02)",
-    "weight": "172 lbs (78kg)",
-    "height": "6'2\" (188cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Australia"
-  },
-  {
-    "rank": "219",
-    "player": "Ethan Quinn",
-    "playerLink": "https://www.atptour.com/en/players/ethan-quinn/q02l/overview",
-    "age": "20 (2004/03/12)",
-    "weight": "180 lbs (82kg)",
-    "height": "6'3\" (191cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "United States"
-  },
-  {
-    "rank": "220",
-    "player": "Denis Yevseyev",
-    "playerLink": "https://www.atptour.com/en/players/denis-yevseyev/y171/overview",
-    "age": "31 (1993/05/22)",
-    "weight": "176 lbs (80kg)",
-    "height": "6'2\" (188cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Kazakhstan"
-  },
-  {
-    "rank": "221",
-    "player": "Yu Hsiou Hsu",
-    "playerLink": "https://www.atptour.com/en/players/yu-hsiou-hsu/h09f/overview",
-    "age": "25 (1999/04/02)",
-    "weight": "165 lbs (75kg)",
-    "height": "5'10\" (178cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Chinese Taipei"
-  },
-  {
-    "rank": "222",
-    "player": "Michael Mmoh",
-    "playerLink": "https://www.atptour.com/en/players/michael-mmoh/mp01/overview",
-    "age": "26 (1998/01/10)",
-    "weight": "198 lbs (90kg)",
-    "height": "6'2\" (188cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "United States"
-  },
-  {
-    "rank": "223",
-    "player": "Antoine Escoffier",
-    "playerLink": "https://www.atptour.com/en/players/antoine-escoffier/e768/overview",
-    "age": "32 (1992/02/29)",
-    "weight": "173 lbs (78kg)",
-    "height": "6'1\" (185cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "France"
-  },
-  {
-    "rank": "224",
     "player": "Yuta Shimizu",
     "playerLink": "https://www.atptour.com/en/players/yuta-shimizu/s0aq/overview",
     "age": "25 (1999/06/09)",
@@ -2240,37 +2110,77 @@
     "country": "Japan"
   },
   {
-    "rank": "225",
-    "player": "Ignacio Buse",
-    "playerLink": "https://www.atptour.com/en/players/ignacio-buse/b0id/overview",
-    "age": "20 (2004/03/25)",
+    "rank": "212",
+    "player": "Nick Hardt",
+    "playerLink": "https://www.atptour.com/en/players/nick-hardt/h0a4/overview",
+    "age": "",
+    "weight": "",
+    "height": "",
+    "handedness": "",
+    "country": ""
+  },
+  {
+    "rank": "213",
+    "player": "Filip Cristian Jianu",
+    "playerLink": "https://www.atptour.com/en/players/filip-cristian-jianu/j09x/overview",
+    "age": "23 (2001/09/18)",
     "weight": "171 lbs (78kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Romania"
+  },
+  {
+    "rank": "214",
+    "player": "Javier Barranco Cosano",
+    "playerLink": "https://www.atptour.com/en/players/javier-barranco-cosano/bv25/overview",
+    "age": "25 (1998/11/17)",
+    "weight": "161 lbs (73kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Spain"
+  },
+  {
+    "rank": "215",
+    "player": "Nikoloz Basilashvili",
+    "playerLink": "https://www.atptour.com/en/players/nikoloz-basilashvili/bg23/overview",
+    "age": "32 (1992/02/23)",
+    "weight": "174 lbs (79kg)",
     "height": "6'1\" (185cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Peru"
+    "country": "Georgia"
   },
   {
-    "rank": "226",
-    "player": "Gianluca Mager",
-    "playerLink": "https://www.atptour.com/en/players/gianluca-mager/ml57/overview",
-    "age": "29 (1994/12/01)",
-    "weight": "170 lbs (77kg)",
+    "rank": "216",
+    "player": "Alexis Galarneau",
+    "playerLink": "https://www.atptour.com/en/players/alexis-galarneau/gk06/overview",
+    "age": "25 (1999/03/02)",
+    "weight": "175 lbs (79kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Canada"
+  },
+  {
+    "rank": "217",
+    "player": "Nicolas Mejia",
+    "playerLink": "https://www.atptour.com/en/players/nicolas-mejia/m0aw/overview",
+    "age": "24 (2000/02/11)",
+    "weight": "175 lbs (79kg)",
+    "height": "6'0\" (183cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Colombia"
+  },
+  {
+    "rank": "218",
+    "player": "Denis Yevseyev",
+    "playerLink": "https://www.atptour.com/en/players/denis-yevseyev/y171/overview",
+    "age": "31 (1993/05/22)",
+    "weight": "176 lbs (80kg)",
     "height": "6'2\" (188cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Italy"
+    "country": "Kazakhstan"
   },
   {
-    "rank": "227",
-    "player": "Maxime Cressy",
-    "playerLink": "https://www.atptour.com/en/players/maxime-cressy/c0bc/overview",
-    "age": "27 (1997/05/08)",
-    "weight": "189 lbs (86kg)",
-    "height": "6'7\" (201cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "United States"
-  },
-  {
-    "rank": "228",
+    "rank": "219",
     "player": "Tung-Lin Wu",
     "playerLink": "https://www.atptour.com/en/players/tung-lin-wu/w857/overview",
     "age": "26 (1998/05/12)",
@@ -2280,19 +2190,69 @@
     "country": "Chinese Taipei"
   },
   {
-    "rank": "229",
-    "player": "Abdullah Shelbayh",
-    "playerLink": "https://www.atptour.com/en/players/abdullah-shelbayh/s0nv/overview",
-    "age": "20 (2003/11/16)",
-    "weight": "162 lbs (73kg)",
-    "height": "5'11\" (180cm)",
-    "handedness": "Left-Handed, Two-Handed Backhand",
-    "country": "Jordan"
+    "rank": "220",
+    "player": "Yu Hsiou Hsu",
+    "playerLink": "https://www.atptour.com/en/players/yu-hsiou-hsu/h09f/overview",
+    "age": "25 (1999/04/02)",
+    "weight": "165 lbs (75kg)",
+    "height": "5'10\" (178cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Chinese Taipei"
   },
   {
-    "rank": "230",
-    "player": "Santiago Rodriguez Taverna",
-    "playerLink": "https://www.atptour.com/en/players/santiago-rodriguez-taverna/rh59/overview",
+    "rank": "221",
+    "player": "Ignacio Buse",
+    "playerLink": "https://www.atptour.com/en/players/ignacio-buse/b0id/overview",
+    "age": "20 (2004/03/25)",
+    "weight": "171 lbs (78kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Peru"
+  },
+  {
+    "rank": "222",
+    "player": "Oriol Roca Batalla",
+    "playerLink": "https://www.atptour.com/en/players/oriol-roca-batalla/rb60/overview",
+    "age": "31 (1993/04/30)",
+    "weight": "165 lbs (75kg)",
+    "height": "5'9\" (175cm)",
+    "handedness": "Right-Handed, One-Handed Backhand",
+    "country": "Spain"
+  },
+  {
+    "rank": "223",
+    "player": "Denis Kudla",
+    "playerLink": "https://www.atptour.com/en/players/denis-kudla/kb09/overview",
+    "age": "32 (1992/08/17)",
+    "weight": "175 lbs (79kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
+  },
+  {
+    "rank": "224",
+    "player": "Ugo Blanchet",
+    "playerLink": "https://www.atptour.com/en/players/ugo-blanchet/bv16/overview",
+    "age": "25 (1999/01/05)",
+    "weight": "157 lbs (71kg)",
+    "height": "5'9\" (175cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "France"
+  },
+  {
+    "rank": "225",
+    "player": "Maxime Cressy",
+    "playerLink": "https://www.atptour.com/en/players/maxime-cressy/c0bc/overview",
+    "age": "27 (1997/05/08)",
+    "weight": "189 lbs (86kg)",
+    "height": "6'7\" (201cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "United States"
+  },
+  {
+    "rank": "226",
+    "player": "Gianluca Mager",
+    "playerLink": "https://www.atptour.com/en/players/gianluca-mager/ml57/overview",
     "age": "",
     "weight": "",
     "height": "",
@@ -2300,17 +2260,47 @@
     "country": ""
   },
   {
-    "rank": "231",
-    "player": "J.J. Wolf",
-    "playerLink": "https://www.atptour.com/en/players/j.j.-wolf/w09g/overview",
-    "age": "25 (1998/12/21)",
-    "weight": "178 lbs (81kg)",
-    "height": "6'0\" (183cm)",
+    "rank": "227",
+    "player": "Calvin Hemery",
+    "playerLink": "https://www.atptour.com/en/players/calvin-hemery/hb48/overview",
+    "age": "",
+    "weight": "",
+    "height": "",
+    "handedness": "",
+    "country": ""
+  },
+  {
+    "rank": "228",
+    "player": "Santiago Rodriguez Taverna",
+    "playerLink": "https://www.atptour.com/en/players/santiago-rodriguez-taverna/rh59/overview",
+    "age": "25 (1999/07/16)",
+    "weight": "181 lbs (82kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Argentina"
+  },
+  {
+    "rank": "229",
+    "player": "Mark Lajal",
+    "playerLink": "https://www.atptour.com/en/players/mark-lajal/l0gh/overview",
+    "age": "21 (2003/05/12)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'3\" (191cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "Estonia"
+  },
+  {
+    "rank": "230",
+    "player": "Michael Mmoh",
+    "playerLink": "https://www.atptour.com/en/players/michael-mmoh/mp01/overview",
+    "age": "26 (1998/01/10)",
+    "weight": "198 lbs (90kg)",
+    "height": "6'2\" (188cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
     "country": "United States"
   },
   {
-    "rank": "232",
+    "rank": "231",
     "player": "Khumoyun Sultanov",
     "playerLink": "https://www.atptour.com/en/players/khumoyun-sultanov/sr81/overview",
     "age": "26 (1998/10/27)",
@@ -2320,44 +2310,54 @@
     "country": "Uzbekistan"
   },
   {
+    "rank": "232",
+    "player": "Abdullah Shelbayh",
+    "playerLink": "https://www.atptour.com/en/players/abdullah-shelbayh/s0nv/overview",
+    "age": "20 (2003/11/16)",
+    "weight": "162 lbs (73kg)",
+    "height": "5'11\" (180cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Jordan"
+  },
+  {
     "rank": "233",
-    "player": "Adolfo Daniel Vallejo",
-    "playerLink": "https://www.atptour.com/en/players/adolfo-daniel-vallejo/v0dp/overview",
-    "age": "20 (2004/04/28)",
-    "weight": "165 lbs (75kg)",
-    "height": "6'0\" (183cm)",
+    "player": "Beibit Zhukayev",
+    "playerLink": "https://www.atptour.com/en/players/beibit-zhukayev/z09z/overview",
+    "age": "24 (2000/10/12)",
+    "weight": "205 lbs (93kg)",
+    "height": "6'6\" (198cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Paraguay"
+    "country": "Kazakhstan"
   },
   {
     "rank": "234",
-    "player": "Calvin Hemery",
-    "playerLink": "https://www.atptour.com/en/players/calvin-hemery/hb48/overview",
-    "age": "29 (1995/01/28)",
-    "weight": "184 lbs (83kg)",
-    "height": "6'3\" (191cm)",
+    "player": "Andres Andrade",
+    "playerLink": "https://www.atptour.com/en/players/andres-andrade/ag08/overview",
+    "age": "25 (1998/12/14)",
+    "weight": "160 lbs (73kg)",
+    "height": "5'11\" (180cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "France"
+    "country": "Ecuador"
   },
   {
     "rank": "235",
-    "player": "Liam Draxl",
-    "playerLink": "https://www.atptour.com/en/players/liam-draxl/d0dp/overview",
-    "age": "22 (2001/12/05)",
-    "weight": "175 lbs (79kg)",
-    "height": "6'1\" (185cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Canada"
+    "player": "Adolfo Daniel Vallejo",
+    "playerLink": "https://www.atptour.com/en/players/adolfo-daniel-vallejo/v0dp/overview",
+    "age": "",
+    "weight": "",
+    "height": "",
+    "handedness": "",
+    "country": ""
   },
   {
     "rank": "236",
-    "player": "Alexis Galarneau",
-    "playerLink": "https://www.atptour.com/en/players/alexis-galarneau/gk06/overview",
-    "age": "25 (1999/03/02)",
-    "weight": "175 lbs (79kg)",
-    "height": "5'11\" (180cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Canada"
+    "player": "Liam Draxl",
+    "playerLink": "https://www.atptour.com/en/players/liam-draxl/d0dp/overview",
+    "age": "",
+    "weight": "",
+    "height": "",
+    "handedness": "",
+    "country": ""
   },
   {
     "rank": "237",
@@ -2371,16 +2371,6 @@
   },
   {
     "rank": "238",
-    "player": "Shintaro Mochizuki",
-    "playerLink": "https://www.atptour.com/en/players/shintaro-mochizuki/m0hu/overview",
-    "age": "21 (2003/06/02)",
-    "weight": "154 lbs (70kg)",
-    "height": "5'9\" (175cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Japan"
-  },
-  {
-    "rank": "239",
     "player": "Milos Raonic",
     "playerLink": "https://www.atptour.com/en/players/milos-raonic/r975/overview",
     "age": "33 (1990/12/27)",
@@ -2390,14 +2380,24 @@
     "country": "Canada"
   },
   {
+    "rank": "239",
+    "player": "Gonzalo Oliveira",
+    "playerLink": "https://www.atptour.com/en/players/gonzalo-oliveira/o482/overview",
+    "age": "29 (1995/02/17)",
+    "weight": "174 lbs (79kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Venezuela"
+  },
+  {
     "rank": "240",
-    "player": "Rudolf Molleker",
-    "playerLink": "https://www.atptour.com/en/players/rudolf-molleker/m0ac/overview",
-    "age": "24 (2000/10/26)",
-    "weight": "180 lbs (82kg)",
-    "height": "6'2\" (188cm)",
+    "player": "Gonzalo Bueno",
+    "playerLink": "https://www.atptour.com/en/players/gonzalo-bueno/b0gr/overview",
+    "age": "20 (2004/04/03)",
+    "weight": "160 lbs (73kg)",
+    "height": "5'8\" (173cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Germany"
+    "country": "Peru"
   },
   {
     "rank": "241",
@@ -2421,22 +2421,16 @@
   },
   {
     "rank": "243",
-    "player": null,
-    "playerLink": "https://www.atptour.com/en/players/alexander-blockx/b0pg/overview",
-    "age": ""
+    "player": "Ethan Quinn",
+    "playerLink": "https://www.atptour.com/en/players/ethan-quinn/q02l/overview",
+    "age": "",
+    "weight": "",
+    "height": "",
+    "handedness": "",
+    "country": ""
   },
   {
     "rank": "244",
-    "player": "Gonzalo Bueno",
-    "playerLink": "https://www.atptour.com/en/players/gonzalo-bueno/b0gr/overview",
-    "age": "20 (2004/04/03)",
-    "weight": "160 lbs (73kg)",
-    "height": "5'8\" (173cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Peru"
-  },
-  {
-    "rank": "245",
     "player": "Eliot Spizzirri",
     "playerLink": "https://www.atptour.com/en/players/eliot-spizzirri/s0ja/overview",
     "age": "22 (2001/12/23)",
@@ -2446,14 +2440,24 @@
     "country": "United States"
   },
   {
-    "rank": "246",
-    "player": "Andres Andrade",
-    "playerLink": "https://www.atptour.com/en/players/andres-andrade/ag08/overview",
-    "age": "25 (1998/12/14)",
-    "weight": "160 lbs (73kg)",
+    "rank": "245",
+    "player": "Zsombor Piros",
+    "playerLink": "https://www.atptour.com/en/players/zsombor-piros/p09o/overview",
+    "age": "25 (1999/10/13)",
+    "weight": "150 lbs (68kg)",
     "height": "5'11\" (180cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Ecuador"
+    "country": "Hungary"
+  },
+  {
+    "rank": "246",
+    "player": "Daniel Rincon",
+    "playerLink": "https://www.atptour.com/en/players/daniel-rincon/r0fp/overview",
+    "age": "21 (2003/01/07)",
+    "weight": "187 lbs (85kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Left-Handed, Two-Handed Backhand",
+    "country": "Spain"
   },
   {
     "rank": "247",
@@ -2467,16 +2471,26 @@
   },
   {
     "rank": "248",
-    "player": "Zsombor Piros",
-    "playerLink": "https://www.atptour.com/en/players/zsombor-piros/p09o/overview",
-    "age": "25 (1999/10/13)",
-    "weight": "150 lbs (68kg)",
-    "height": "5'11\" (180cm)",
+    "player": "Shintaro Mochizuki",
+    "playerLink": "https://www.atptour.com/en/players/shintaro-mochizuki/m0hu/overview",
+    "age": "21 (2003/06/02)",
+    "weight": "154 lbs (70kg)",
+    "height": "5'9\" (175cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Hungary"
+    "country": "Japan"
   },
   {
     "rank": "249",
+    "player": "Yan Bai",
+    "playerLink": "https://www.atptour.com/en/players/yan-bai/be69/overview",
+    "age": "35 (1989/05/21)",
+    "weight": "176 lbs (80kg)",
+    "height": "6'1\" (185cm)",
+    "handedness": "Right-Handed, Two-Handed Backhand",
+    "country": "China"
+  },
+  {
+    "rank": "250",
     "player": "Geoffrey Blancaneaux",
     "playerLink": "https://www.atptour.com/en/players/geoffrey-blancaneaux/bu54/overview",
     "age": "26 (1998/08/08)",
@@ -2484,15 +2498,5 @@
     "height": "5'11\" (180cm)",
     "handedness": "Right-Handed, Two-Handed Backhand",
     "country": "France"
-  },
-  {
-    "rank": "250",
-    "player": "Jay Clarke",
-    "playerLink": "https://www.atptour.com/en/players/jay-clarke/ci14/overview",
-    "age": "26 (1998/07/27)",
-    "weight": "184 lbs (83kg)",
-    "height": "6'0\" (183cm)",
-    "handedness": "Right-Handed, Two-Handed Backhand",
-    "country": "Great Britain"
   }
 ]

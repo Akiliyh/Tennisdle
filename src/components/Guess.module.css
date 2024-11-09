@@ -10,4 +10,16 @@
     display: flex;
     overflow: hidden;
     justify-content: center;
+    margin-top: 20px;
+}
+
+.try .fill {
+    height: 24px; /* Same as strong height */
+    display: block;
+}
+
+.try {
+    margin-left: 20px;
+    font-style: italic;
+    font-weight: bold;
 }

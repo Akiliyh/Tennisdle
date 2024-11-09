@@ -88,7 +88,7 @@ const toCapitalCase = (str) => {
 
     console.log(players);
 
-    fs.writeFileSync('atp_ranking_data.json', JSON.stringify(players, null, 2));
+    fs.writeFileSync('./atp_ranking_data.json', JSON.stringify(players, null, 2));
 
     await browserObj.close();
 })();
