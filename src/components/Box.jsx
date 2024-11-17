@@ -3,7 +3,7 @@ import styles from './Box.module.css';
 import classNames from 'classnames';
 import ReactCountryFlag from "react-country-flag";
 
-const Box = ({title, value, place, isCorrect, compare, type = "string"}) => {
+const Box = ({title, value, place, isCorrect, compare, type = "string", delay}) => {
 
   const boxClass = classNames(styles.line, {
     [styles.correct]: isCorrect === true,
@@ -18,7 +18,7 @@ const Box = ({title, value, place, isCorrect, compare, type = "string"}) => {
   return (
     <div className={styles.box}>
       <strong>{title}</strong>
-      <div className={boxClass}>
+      <div className={boxClass} style={{animationDelay: delay + "s"}}>
         {type === "country" ? <ReactCountryFlag countryCode={value} style={{width: 'unset', height: 'unset',}}svg /> : <span>{value}</span>}
       </div>
     </div>

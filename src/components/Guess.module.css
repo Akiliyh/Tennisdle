@@ -3,14 +3,15 @@
     left: 0;
     right: 0;
     margin: auto;
-    width: 80%;
+    min-width: 80%;
+    margin-bottom: 50px;
 }
 
 .line {
     display: flex;
-    overflow: hidden;
     justify-content: center;
     margin-top: 20px;
+    animation: line_entrance .8s cubic-bezier(.03,.91,.36,.99);
 }
 
 .try .fill {
@@ -22,4 +23,13 @@
     margin-left: 20px;
     font-style: italic;
     font-weight: bold;
+}
+
+@keyframes line_entrance {
+    0% {
+        transform: translateY(-50px);
+    };
+    100% {
+        transform: translateY(0);
+    }
 }

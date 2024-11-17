@@ -1,7 +1,6 @@
 .box {
     display: flex;
     flex-direction: column;
-    overflow: hidden;
     gap: 5px;
 }
 
@@ -27,6 +26,8 @@
     align-content: center;
     border-right: 2px solid var(--t-gray);
     min-width: 50px;
+    animation: box_entrance .8s cubic-bezier(.03,.91,.36,.99) forwards;
+    opacity: 0;
 }
 
 .start{
@@ -67,5 +68,16 @@
     padding-bottom: 0;
     overflow: hidden;
     display: flex;
-    padding-right: 50px;
+    padding-right: 65px;
+}
+
+@keyframes box_entrance {
+    0% {
+        transform: translateY(50px);
+        opacity: 0;
+    };
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
 }

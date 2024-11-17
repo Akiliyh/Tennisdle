@@ -5,10 +5,6 @@ const Input = ({ player, handleGuess }) => {
   const [inputValue, setInputValue] = useState('');
   const [suggestions, setSuggestions] = useState([]);
 
-  /*const removeDiacritics = (str) => {
-    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-  };*/
-
   const handleInputChange = (event) => {
     const value = event.target.value;
     setInputValue(value);
@@ -17,7 +13,6 @@ const Input = ({ player, handleGuess }) => {
       const filteredSuggestions = player
   .filter(name => typeof name === "string" && name.toLowerCase().includes(value.toLowerCase()))
   .sort((a, b) => a.localeCompare(b));
-
       
       setSuggestions(filteredSuggestions);
     } else {
@@ -26,7 +21,7 @@ const Input = ({ player, handleGuess }) => {
   };
 
   const handleSuggestionClick = (suggestion) => {
-    setInputValue(suggestion);
+    setInputValue(''); /* actually put suggestion here and add a button to guess and reset */
     setSuggestions([]);
     handleGuess(suggestion);
   };
