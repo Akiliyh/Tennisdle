@@ -12,6 +12,9 @@
     justify-content: center;
     margin-top: 20px;
     animation: line_entrance .8s cubic-bezier(.03,.91,.36,.99);
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .try .fill {
