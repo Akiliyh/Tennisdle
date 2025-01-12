@@ -12,7 +12,7 @@ const Box = ({title, value, place, isCorrect, compare, type = "string", delay}) 
     [styles.less]: compare == "less",
     [styles.start]: place === "start",
     [styles.end]: place === "end",
-    [styles.country]: type === "country",
+    [styles.country]: type === "country"
   });
 
   return (

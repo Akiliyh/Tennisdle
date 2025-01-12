@@ -46,7 +46,7 @@ const Guess = ({ guesses, data, correctAnswer }) => {
     return match ? parseInt(match[1], 10) : null;
   }
 
-  // Get first two chars of the age string ex: 25 (1999/10/05)
+  // Get first two chars of the age string ex: 25 (1999/10/05) => 25
   function getAge(ageString) {
     return parseInt(ageString.slice(0, 2), 10);
   }
@@ -105,7 +105,7 @@ const Guess = ({ guesses, data, correctAnswer }) => {
 
   return (
     <div className={styles.container}>
-      {guessedPlayersInfo.slice().reverse().map((playerInfo, index) => (
+      {guessedPlayersInfo.slice().map((playerInfo, index) => (
         playerInfo && (
           <div key={index} className={styles.line}>
             <Box title="Player" value={playerInfo.player} place="start"></Box>
@@ -117,7 +117,7 @@ const Guess = ({ guesses, data, correctAnswer }) => {
             <Box title="Country" value={getCountryCode(playerInfo.country)} isCorrect={playerInfo.isSameNationality} type="country" place="end" delay={1.2}></Box>
             <div className={styles.try}>
               <span className={styles.fill}></span>
-              <p>{(guessedPlayersInfo.length - index) + "."}</p> {/* Number of tries */}
+              <p>{(index+1) + "."}</p> {/* Number of tries */}
             </div>
             
           </div>
