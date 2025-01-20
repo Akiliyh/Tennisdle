@@ -44,6 +44,17 @@
     flex-direction: column;
     text-wrap: nowrap;
     justify-content: center;
+    text-align: left;
+    padding-left: 20px;
+
+}
+
+.line :first-child {
+    text-transform: capitalize;
+}
+
+.line span.units {
+    font-size: 1rem;
 }
 
 .end{

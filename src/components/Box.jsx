@@ -35,7 +35,12 @@ const Box = ({title, value, place, isCorrect, compare, type = "string", delay}) 
             <span key={index}>{word}</span>
           ))
         ) : (
+          <>
           <span>{value}</span>
+          {type === "height" && <span className={styles.units}> cm</span>}
+          {type === "weight" && <span className={styles.units}> kg</span>}
+
+          </>
         )}
       </div>
     </div>
