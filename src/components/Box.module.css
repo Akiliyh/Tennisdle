@@ -29,11 +29,18 @@
     min-width: 50px;
     animation: box_entrance .8s cubic-bezier(.03,.91,.36,.99) forwards;
     opacity: 0;
+    font-weight: bold;
+    font-family: "InterItalic";
+    text-transform: uppercase;
 }
 
-.start{
+.start{ /* name */
     border-left: 2px solid var(--t-blue);
     border-radius: 10vw 0 0 10vw;
+    display: flex;
+    flex-direction: column;
+    text-wrap: nowrap;
+    justify-content: center;
 }
 
 .end{
@@ -70,6 +77,23 @@
     overflow: hidden;
     display: flex;
     padding-right: 65px;
+}
+
+.hand {
+    padding-left: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    overflow: hidden;
+    display: flex;
+    padding-right: 65px;
+}
+
+.handLeft img{
+    transform: scaleX(-1.8) scaleY(1.8);
+}
+
+.handRight img{
+    transform: scale(1.8);
 }
 
 @keyframes box_entrance {

@@ -12,14 +12,31 @@ const Box = ({title, value, place, isCorrect, compare, type = "string", delay}) 
     [styles.less]: compare == "less",
     [styles.start]: place === "start",
     [styles.end]: place === "end",
-    [styles.country]: type === "country"
+    [styles.country]: type === "country",
+    [styles.hand]: type === "hand",
+    [styles.handRight]: value === "Right",
+    [styles.handLeft]: value === "Left",
   });
+
+  value === "name"
 
   return (
     <div className={styles.box}>
       <strong>{title}</strong>
       <div className={boxClass} style={{animationDelay: delay + "s"}}>
-        {type === "country" ? <ReactCountryFlag countryCode={value} style={{width: 'unset', height: 'unset',}}svg /> : <span>{value}</span>}
+
+        {type === "country" ? (
+          <ReactCountryFlag countryCode={value} style={{ width: 'unset', height: 'unset' }} svg/>
+        ) : type === "hand" ? (
+          <img src="hand.svg" alt="hand" />
+        ) : // Replace value with spans for each word if value === "name"
+        type === "name" ? (
+          value.split(' ').map((word, index) => (
+            <span key={index}>{word}</span>
+          ))
+        ) : (
+          <span>{value}</span>
+        )}
       </div>
     </div>
   )
