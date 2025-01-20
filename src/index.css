@@ -1,3 +1,19 @@
+@font-face {
+  font-family: PPMonument;
+  src: url(./font/PPMONUMENTEXTENDED-REGULAR.OTF);
+}
+
+@font-face {
+  font-family: Inter;
+  src: url(./font/InterVariable.woff2);
+}
+
+@font-face {
+  font-family: InterItalic;
+  src: url(./font/InterVariable-Italic.woff2);
+}
+
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;

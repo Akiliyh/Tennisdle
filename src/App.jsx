@@ -6,11 +6,12 @@ import rankingsDataWTA from './data/wta_ranking_data.json'
 import Input from './components/Input'
 import Guess from './components/Guess'
 import Fireworks from './components/Fireworks'
+import Modal from './components/Modal'
 
 const playerNamesATP = rankingsDataATP.map(player => player.player);
 
 const getRandomPlayer = (data) => {
-  const limit = Math.min(200, data.length); // Only top 200
+  const limit = Math.min(100, data.length); // Only top 100
   const randomIndex = Math.floor(Math.random() * limit);
   return data[randomIndex];
 };
@@ -66,7 +67,12 @@ function App() {
       <Input player={playerNamesATP} handleGuess={handleGuess}></Input>
       <Guess guesses={guesses} data={rankingsDataATP} correctAnswer={randomPlayer}></Guess>
 
-      {gameOver && <Fireworks></Fireworks>}
+      {gameOver && 
+      <>
+      <Fireworks></Fireworks>
+      <Modal correctAnswer={randomPlayer} guesses={guesses}></Modal>
+      </>
+      }
     </>
   )
 }

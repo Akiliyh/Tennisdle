@@ -108,7 +108,7 @@ const Guess = ({ guesses, data, correctAnswer }) => {
       {guessedPlayersInfo.slice().map((playerInfo, index) => (
         playerInfo && (
           <div key={index} className={styles.line}>
-            <Box title="Player" value={playerInfo.player} place="start"></Box>
+            <Box title="Player" value={playerInfo.player} type="name" place="start"></Box>
             <Box title="Rank" value={playerInfo.rank} isCorrect={playerInfo.isRankCorrect} compare={playerInfo.compareRank} delay={.2}></Box>
             <Box title="Age" value={playerInfo.age} isCorrect={playerInfo.isAgeCorrect} compare={playerInfo.compareAge} delay={.4}></Box>
             <Box title="Weight" value={playerInfo.weight} isCorrect={playerInfo.isWeightCorrect} compare={playerInfo.compareWeight} delay={.6}></Box>
