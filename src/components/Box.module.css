@@ -22,7 +22,6 @@
 .line {
     border-top: 2px solid var(--t-blue);
     border-bottom: 2px solid var(--t-blue);
-    padding: 10px;
     height: 100%;
     align-content: center;
     border-right: 2px solid var(--t-gray);
@@ -34,7 +33,11 @@
     text-transform: uppercase;
 }
 
-.start{ /* name */
+.line:not(.start) {
+    font-size: 2rem;
+}
+
+.line.start{ /* name */
     border-left: 2px solid var(--t-blue);
     border-radius: 10vw 0 0 10vw;
     display: flex;

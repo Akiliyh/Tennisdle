@@ -110,9 +110,9 @@ const Guess = ({ guesses, data, correctAnswer }) => {
           <div key={index} className={styles.line}>
             <Box title="Player" value={playerInfo.player} type="name" place="start"></Box>
             <Box title="Rank" value={playerInfo.rank} isCorrect={playerInfo.isRankCorrect} compare={playerInfo.compareRank} delay={.2}></Box>
-            <Box title="Age" value={playerInfo.age} isCorrect={playerInfo.isAgeCorrect} compare={playerInfo.compareAge} delay={.4}></Box>
-            <Box title="Weight" value={playerInfo.weight} isCorrect={playerInfo.isWeightCorrect} compare={playerInfo.compareWeight} delay={.6}></Box>
-            <Box title="Height" value={playerInfo.height} isCorrect={playerInfo.isHeightCorrect} compare={playerInfo.compareHeight} delay={.8}></Box>
+            <Box title="Age" value={getAge(playerInfo.age)} isCorrect={playerInfo.isAgeCorrect} compare={playerInfo.compareAge} delay={.4}></Box>
+            <Box title="Weight" value={getWeightInKg(playerInfo.weight)} isCorrect={playerInfo.isWeightCorrect} compare={playerInfo.compareWeight} delay={.6}></Box>
+            <Box title="Height" value={getHeightInCm(playerInfo.height)} isCorrect={playerInfo.isHeightCorrect} compare={playerInfo.compareHeight} delay={.8}></Box>
             <Box title="Plays" value={getHandedness(playerInfo.handedness)} isCorrect={playerInfo.isHandCorrect} type="hand" delay={1}></Box>
             <Box title="Country" value={getCountryCode(playerInfo.country)} isCorrect={playerInfo.isSameNationality} type="country" place="end" delay={1.2}></Box>
             <div className={styles.try}>
