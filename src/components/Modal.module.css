@@ -27,8 +27,25 @@
     padding: 50px;
 }
 
-.content span {
-    /* text-align: left; */
+.content .timerContainer {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.content .timer {
+    color: var(--t-blue);
+    font-size: 4rem;
+}
+
+.content .player {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.content .player img {
+    width: 50px;
 }
 
 @keyframes fade_in {
