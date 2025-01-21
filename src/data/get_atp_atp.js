@@ -43,6 +43,7 @@ const toCapitalCase = (str) => {
                 const profilePage = await browserObj.newPage();
                 await profilePage.goto(player.playerLink);
                 await profilePage.waitForSelector('.player_name');
+                await profilePage.waitForSelector('.pd_content');
 
                 const profileData = await profilePage.evaluate(() => {
                     const player = document.querySelector('.player_name')?.innerText.trim() || '';
