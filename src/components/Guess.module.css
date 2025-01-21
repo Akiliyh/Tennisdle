@@ -26,8 +26,17 @@
 
 .try {
     margin-left: 20px;
-    font-style: italic;
+    font-family: "InterItalic";
     font-weight: bold;
+    justify-content: space-around;
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.try p{
+    font-size: 2rem;
+    margin: 0;
 }
 
 @keyframes line_entrance {
