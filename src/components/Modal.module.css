@@ -23,8 +23,9 @@
     min-height: 50vh;
     border-radius: 10px;
     border: 1px solid var(--t-blue);
-    animation: dive_in forwards ease-out 1s;
+    animation: dive_in forwards ease-out 1s .5s;
     padding: 50px;
+    opacity: 0;
 }
 
 .content .timerContainer {
