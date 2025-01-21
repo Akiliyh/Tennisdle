@@ -18,8 +18,6 @@ const Box = ({title, value, place, isCorrect, compare, type = "string", delay}) 
     [styles.handLeft]: value === "Left",
   });
 
-  value === "name"
-
   return (
     <div className={styles.box}>
       <strong>{title}</strong>
