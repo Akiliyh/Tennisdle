@@ -16,6 +16,47 @@ const getRandomPlayer = (data) => {
   return data[randomIndex];
 };
 
+const getRandomPlayerDaily = (data) => {
+  const date = new Date(); // cur date new Date(2025,10,5) for testing
+
+  const maxLimit = Math.min(100, data.length); // Limit to top 100 players
+
+  // Generate a unique string based on the date
+  const dateKey = date.getFullYear() + "-" + date.getMonth() + 1 + "-" + date.getDate();
+  console.log(`Date Key: ${dateKey}`);
+  console.log(dateKey.charCodeAt(dateKey.length-1));
+
+   // Hashing mechanism to generate a seed from the date string
+   let seed = 0;
+   for (let i = 0; i < dateKey.length; i++) {
+     if (i === dateKey.length - 1) {
+       // Amplify the effect of the last character (the day of the month)
+       seed = (seed * 31 + dateKey.charCodeAt(i) * 1000);
+     } else {
+       seed = (seed * 31 + dateKey.charCodeAt(i));
+     }
+   }
+
+  // Deterministic randomness
+  const prng = (seed) => {
+    const a = 1664525;  // Multiplier
+    const c = 1013904223; // Increment
+    const m = 4294967296;  // Modulus (2^32)
+
+    // Linear congruential generator formula
+    seed = (a * seed + c) % m;
+    return seed / m; // Returns a floating point number between 0 and 1
+  };
+
+  // Generate the random index
+  const randomValue = prng(seed);
+  const randomIndex = Math.floor(randomValue * maxLimit);  // Ensure the index is within range
+
+  return data[randomIndex];
+};
+
+
+
 function App() {
   const [randomPlayer, setRandomPlayer] = useState(null);
   const [guesses, setGuesses] = useState([]);
@@ -26,7 +67,7 @@ function App() {
   };
 
   const handleGetRandomPlayer = () => {
-    const player = getRandomPlayer(rankingsDataATP);
+    const player = getRandomPlayerDaily(rankingsDataATP);
     setRandomPlayer(player);
   };
 
