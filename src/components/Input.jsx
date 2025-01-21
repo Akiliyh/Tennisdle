@@ -4,13 +4,14 @@ import styles from './Input.module.css';
 const Input = ({ player, handleGuess }) => {
   const [inputValue, setInputValue] = useState('');
   const [suggestions, setSuggestions] = useState([]);
+  const [playerList, setPlayerList] = useState(player);
 
   const handleInputChange = (event) => {
     const value = event.target.value;
     setInputValue(value);
 
     if (value) {
-      const filteredSuggestions = player
+      const filteredSuggestions = playerList
   .filter(name => typeof name === "string" && name.toLowerCase().includes(value.toLowerCase()))
   .sort((a, b) => a.localeCompare(b));
       
@@ -23,6 +24,7 @@ const Input = ({ player, handleGuess }) => {
   const handleSuggestionClick = (suggestion) => {
     setInputValue(''); /* actually put suggestion here and add a button to guess and reset */
     setSuggestions([]);
+    setPlayerList(setRemainingPlayers(suggestion));
     handleGuess(suggestion);
   };
 
@@ -32,6 +34,17 @@ const Input = ({ player, handleGuess }) => {
       handleSuggestionClick(suggestion);
     }
   };
+
+  // remove wrong answers from the suggestion list
+  const setRemainingPlayers = (suggestion) => {
+    const updatedPlayers = [];
+    for (let i = 0; i < playerList.length; i++) {
+      if (playerList[i] !== suggestion) {
+        updatedPlayers.push(playerList[i]);
+      }
+    }
+    return updatedPlayers;
+  }
 
   return (
     <div className={styles.inputContainer}>
