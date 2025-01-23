@@ -41,12 +41,22 @@
     border-left: 2px solid var(--t-blue);
     border-radius: 10vw 0 0 10vw;
     display: flex;
-    flex-direction: column;
     text-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: center;
     text-align: left;
     padding-left: 20px;
+    padding-right: 10px;
+    justify-content: left;
+}
 
+.line.start span{ /* name */
+    width: fit-content;
+    padding-right: 5px;
+}
+
+.line.start span:last-child{ /* name */
+    padding-right: 0;
 }
 
 .line :first-child {
