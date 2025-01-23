@@ -26,6 +26,7 @@
     animation: dive_in forwards ease-out 1s .5s;
     padding: 50px;
     opacity: 0;
+    gap: 20px;
 }
 
 .content .timerContainer {

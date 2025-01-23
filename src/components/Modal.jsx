@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import styles from './Modal.module.css';
 import ReactCountryFlag from "react-country-flag";
 
-const Modal = ({ correctAnswer, guesses }) => {
+const Modal = ({ tries, correctAnswer, guesses }) => {
   const [timeRemaining, setTimeRemaining] = useState(getTimeUntilNextDay());
 
   const allCountryCodes = [
@@ -74,6 +74,7 @@ const Modal = ({ correctAnswer, guesses }) => {
         <span>n° {correctAnswer.rank}</span>
         
         </div>
+        <span>In {tries} tries</span>
 
 
         <div className={styles.timerContainer}>

@@ -61,6 +61,7 @@ function App() {
   const [randomPlayer, setRandomPlayer] = useState(null);
   const [guesses, setGuesses] = useState([]);
   const [gameOver, setGameOver] = useState(false);
+  const [tries, setTries] = useState(0);
 
   const handleGuess = (guess) => {
     setGuesses((prevGuesses) => [...prevGuesses, guess]);
@@ -69,6 +70,10 @@ function App() {
   const handleGetRandomPlayer = () => {
     const player = getRandomPlayerDaily(rankingsDataATP);
     setRandomPlayer(player);
+  };
+
+  const handleNbTries = () => {
+    setTries(tries+1);
   };
 
   const checkGuessedPlayer = (guesses, randomPlayer) => {
@@ -106,13 +111,13 @@ function App() {
   return (
     <>
     <h1 className='title'>Tennisdle</h1>
-      <Input player={playerNamesATP} handleGuess={handleGuess}></Input>
+      <Input handleNbTries={handleNbTries} player={playerNamesATP} handleGuess={handleGuess}></Input>
       <Guess guesses={guesses} data={rankingsDataATP} correctAnswer={randomPlayer}></Guess>
 
       {gameOver && 
       <>
       <Fireworks></Fireworks>
-      <Modal correctAnswer={randomPlayer} guesses={guesses}></Modal>
+      <Modal correctAnswer={randomPlayer} tries={tries} guesses={guesses}></Modal>
       </>
       }
     </>

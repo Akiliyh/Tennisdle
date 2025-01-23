@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import styles from './Input.module.css';
 import { IoClose } from "react-icons/io5";
 
-const Input = ({ player, handleGuess }) => {
+const Input = ({ handleNbTries, player, handleGuess }) => {
   const [inputValue, setInputValue] = useState('');
   const [suggestions, setSuggestions] = useState([]);
   const [playerList, setPlayerList] = useState(player);
@@ -67,6 +67,7 @@ const Input = ({ player, handleGuess }) => {
     setPlayerList(setRemainingPlayers(inputValue));
     handleGuess(inputValue);
     console.log(playerList);
+    handleNbTries();
   };
 
   // remove wrong answers from the suggestion list
