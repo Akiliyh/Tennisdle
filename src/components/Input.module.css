@@ -1,3 +1,37 @@
+.guessSection {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    gap: 15px;
+}
+
+.guessSection button {
+    border-radius: 50px;
+    background-image: linear-gradient(to left,var(--t-gray), var(--t-gray), var(--t-green), var(--t-light-green));
+    background-size: 300%;
+    background-position: right;
+    transition: background-position .3s ease;
+}
+
+.guessSection button:hover {
+    border: transparent 1px solid;
+    cursor: not-allowed;
+}
+
+.guessSection button.active {
+    transition: background-image 1s ease;
+    transition: background-position .3s ease;
+    background-size: 300%;
+    background-position: left;
+    background-image: linear-gradient(to left,var(--t-gray), var(--t-gray), var(--t-green), var(--t-light-green));
+}
+
+.guessSection button.active:hover {
+    border: var(--t-blue) 1px solid;
+    cursor: pointer;
+}
+
 .suggestions {
     list-style: none;
     text-align: left;
@@ -26,12 +60,6 @@
 .suggestions li:hover {
     background-color: rgb(56, 56, 56);
     cursor: pointer;
-}
-
-.inputContainer {
-    width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 input {
