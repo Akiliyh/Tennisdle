@@ -1,14 +1,17 @@
 import React, { useState, useEffect } from "react";
 import styles from './Input.module.css';
+import { IoClose } from "react-icons/io5";
 
 const Input = ({ player, handleGuess }) => {
   const [inputValue, setInputValue] = useState('');
   const [suggestions, setSuggestions] = useState([]);
   const [playerList, setPlayerList] = useState(player);
-  const [isBtnActive, setIsBtnActive] = useState(false);
+  const [isGuessBtnActive, setIsGuessBtnActive] = useState(false);
+  const [isCloseBtnActive, setIsCloseBtnActive] = useState(false);
 
   useEffect(() => {
-    inputValue != "" ? setIsBtnActive(true) : setIsBtnActive(false);
+    inputValue != "" ? setIsGuessBtnActive(true) : setIsGuessBtnActive(false);
+    inputValue != "" ? setIsCloseBtnActive(true) : setIsCloseBtnActive(false);
   }, [inputValue]);
 
   const handleInputChange = (event) => {
@@ -77,6 +80,10 @@ const Input = ({ player, handleGuess }) => {
     return updatedPlayers;
   }
 
+  const resetInput = () => {
+    setInputValue('');
+  }
+
   return (
     <div className={styles.guessSection}>
       <div className={styles.inputContainer}>
@@ -87,6 +94,8 @@ const Input = ({ player, handleGuess }) => {
           onKeyDown={guessInput}
           placeholder="Type a player name..."
         />
+        <IoClose onClick={() => resetInput()} className={styles.closeIcon + (isCloseBtnActive ? ' ' + styles.active : '')}  />
+
         {suggestions.length > 0 && (
           <ul className={styles.suggestions}>
             {suggestions.map((suggestion, index) => (
@@ -97,7 +106,7 @@ const Input = ({ player, handleGuess }) => {
           </ul>
         )}
       </div>
-      <button className={isBtnActive ? styles.active : ''} onClick={(e) => guess()}>Guess</button>
+      <button className={isGuessBtnActive ? styles.active : ''} onClick={(e) => guess()}>Guess</button>
     </div>
   );
 };
