@@ -105,6 +105,7 @@ function App() {
 
   return (
     <>
+    <h1 className='title'>Tennisdle</h1>
       <Input player={playerNamesATP} handleGuess={handleGuess}></Input>
       <Guess guesses={guesses} data={rankingsDataATP} correctAnswer={randomPlayer}></Guess>
 

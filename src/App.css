@@ -5,6 +5,11 @@
   text-align: center;
 }
 
+.title {
+  font-family: "InterItalic";
+  text-transform: uppercase;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
