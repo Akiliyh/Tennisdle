@@ -10,7 +10,7 @@
     border-radius: 50px;
     background-image: linear-gradient(to left,var(--t-gray), var(--t-gray), var(--t-green), var(--t-light-green));
     background-size: 300%;
-    background-position: right;
+    background-position: calc(100% + 1px); /* deal with the extra space */
     transition: background-position .3s ease;
 }
 
@@ -23,7 +23,7 @@
     transition: background-image 1s ease;
     transition: background-position .3s ease;
     background-size: 300%;
-    background-position: left;
+    background-position: calc(0% - 1px); /* deal with the extra space */
     background-image: linear-gradient(to left,var(--t-gray), var(--t-gray), var(--t-green), var(--t-light-green));
 }
 

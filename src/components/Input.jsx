@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import styles from './Input.module.css';
 import { IoClose } from "react-icons/io5";
 
-const Input = ({ handleNbTries, player, handleGuess }) => {
+const Input = ({ isGameOver, handleNbTries, player, handleGuess }) => {
   const [inputValue, setInputValue] = useState('');
   const [suggestions, setSuggestions] = useState([]);
   const [playerList, setPlayerList] = useState(player);
@@ -87,8 +87,9 @@ const Input = ({ handleNbTries, player, handleGuess }) => {
 
   return (
     <div className={styles.guessSection}>
-      <div className={styles.inputContainer}>
+      <div className={styles.inputContainer + (isGameOver ? '' + styles.disabled : '')}>
         <input
+          {...(isGameOver && {disabled: true})}
           type="text"
           value={inputValue}
           onChange={handleInputChange}

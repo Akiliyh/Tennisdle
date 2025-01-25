@@ -4,7 +4,7 @@ import { IoCaretDown, IoCaretUp, IoClose, IoHandLeftSharp, IoHandRightSharp } fr
 import { FaCheck } from "react-icons/fa";
 import Box from './Box';
 
-const Guess = ({ guesses, data, correctAnswer }) => {
+const Guess = ({ guesses, data, correctAnswer, onGuessUpdate }) => {
   const [guessedPlayersInfo, setGuessedPlayersInfo] = useState([]);
   const [lastGuess, setLastGuess] = useState(null);
 
@@ -101,9 +101,14 @@ const Guess = ({ guesses, data, correctAnswer }) => {
         ...playerInfo, isCorrect, compareAge, compareRank, compareHeight, compareWeight, compareHandedness, isRankCorrect, isHandCorrect, isHeightCorrect, isWeightCorrect, isAgeCorrect, isSameNationality
       };
 
-      setGuessedPlayersInfo(prevGuesses => [...prevGuesses, newGuessInfo]);
-    }
-  }, [guesses, data, correctAnswer, lastGuess]);
+      setGuessedPlayersInfo(prevGuesses => {
+        const updatedGuesses = [...prevGuesses, newGuessInfo];
+        onGuessUpdate(updatedGuesses);
+        return updatedGuesses;
+      });
+
+      }
+  }, [guesses, data, correctAnswer, lastGuess, onGuessUpdate]);
 
   return (
     <div className={styles.container}>
