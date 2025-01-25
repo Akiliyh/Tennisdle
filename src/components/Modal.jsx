@@ -1,9 +1,11 @@
 import React, { useState, useEffect } from "react";
 import styles from './Modal.module.css';
 import ReactCountryFlag from "react-country-flag";
+import { IoClose, IoClipboard } from "react-icons/io5";
 
-const Modal = ({ tries, correctAnswer, guesses }) => {
+const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }) => {
   const [timeRemaining, setTimeRemaining] = useState(getTimeUntilNextDay());
+  const [isClosing, setIsClosing] = useState(false);
 
   const allCountryCodes = [
     "AF", "AX", "AL", "DZ", "AS", "AD", "AO", "AI", "AQ", "AG", "AR", "AM", "AW", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BQ", "BA", "BW", "BV", "BR", "IO", "BN", "BG", "BF", "BI", "CV", "KH", "CM", "CA", "KY", "CF", "TD", "CL", "CN", "CX", "CC", "CO", "KM", "CD", "CG",
@@ -64,9 +66,17 @@ const Modal = ({ tries, correctAnswer, guesses }) => {
     return hrs + ":" + mins + ":" + secs;
   };
 
+  const close = () => {
+    setIsClosing(true);
+    setTimeout(() => {
+      closeModal();
+    }, 2000);
+  };
+
   return (
-    <div className={styles.modal}>
-      <div className={styles.content}>
+    <div className={styles.modal + (isClosing ? ' ' + styles.closing : '')}>
+      <div className={styles.content + (isClosing ? ' ' + styles.closing : '')}>
+      <IoClose onClick={() => close()} className={styles.closeIcon}  />
         <span>Congrats you found!</span>
         <div className={styles.player}>
         <ReactCountryFlag countryCode={getCountryCode(correctAnswer.country)} style={{ width: '50px', height: 'unset' }} svg/>
@@ -75,6 +85,9 @@ const Modal = ({ tries, correctAnswer, guesses }) => {
         
         </div>
         <span>In {tries} tries</span>
+        <button className={styles.clipboard}> 
+        <IoClipboard></IoClipboard> Copy results
+        </button>
 
 
         <div className={styles.timerContainer}>
