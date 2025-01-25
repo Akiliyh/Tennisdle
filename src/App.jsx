@@ -24,18 +24,18 @@ const getRandomPlayerDaily = (data) => {
   // Generate a unique string based on the date
   const dateKey = date.getFullYear() + "-" + date.getMonth() + 1 + "-" + date.getDate();
   console.log(`Date Key: ${dateKey}`);
-  console.log(dateKey.charCodeAt(dateKey.length-1));
+  console.log(dateKey.charCodeAt(dateKey.length - 1));
 
-   // Hashing mechanism to generate a seed from the date string
-   let seed = 0;
-   for (let i = 0; i < dateKey.length; i++) {
-     if (i === dateKey.length - 1) {
-       // Amplify the effect of the last character (the day of the month)
-       seed = (seed * 31 + dateKey.charCodeAt(i) * 1000);
-     } else {
-       seed = (seed * 31 + dateKey.charCodeAt(i));
-     }
-   }
+  // Hashing mechanism to generate a seed from the date string
+  let seed = 0;
+  for (let i = 0; i < dateKey.length; i++) {
+    if (i === dateKey.length - 1) {
+      // Amplify the effect of the last character (the day of the month)
+      seed = (seed * 31 + dateKey.charCodeAt(i) * 1000);
+    } else {
+      seed = (seed * 31 + dateKey.charCodeAt(i));
+    }
+  }
 
   // Deterministic randomness
   const prng = (seed) => {
@@ -62,6 +62,17 @@ function App() {
   const [guesses, setGuesses] = useState([]);
   const [gameOver, setGameOver] = useState(false);
   const [tries, setTries] = useState(0);
+  const [isModalVisible, setModalVisible] = useState(true);
+  const [guessedPlayersInfo, setGuessedPlayersInfo] = useState([]);
+
+  const handleGuessUpdate = (updatedGuesses) => {
+    setGuessedPlayersInfo(updatedGuesses);
+    console.log(updatedGuesses);
+  };
+
+  const closeModal = () => {
+    setModalVisible(false);
+  };
 
   const handleGuess = (guess) => {
     setGuesses((prevGuesses) => [...prevGuesses, guess]);
@@ -73,19 +84,18 @@ function App() {
   };
 
   const handleNbTries = () => {
-    setTries(tries+1);
+    setTries(tries + 1);
   };
 
   const checkGuessedPlayer = (guesses, randomPlayer) => {
     // we check the new player guessed
     if (guesses.length > 0) {
-      console.log(guesses[guesses.length-1]);
+      console.log(guesses[guesses.length - 1]);
       console.log(randomPlayer.player);
-      if (guesses[guesses.length-1] == randomPlayer.player)
-      {
+      if (guesses[guesses.length - 1] == randomPlayer.player) {
         console.log("Tu as trouvé !");
         setGameOver(true);
-      } 
+      }
       else {
         console.log("pas bon");
       }
@@ -110,15 +120,21 @@ function App() {
 
   return (
     <>
-    <h1 className='title'>Tennisdle</h1>
-      <Input handleNbTries={handleNbTries} player={playerNamesATP} handleGuess={handleGuess}></Input>
-      <Guess guesses={guesses} data={rankingsDataATP} correctAnswer={randomPlayer}></Guess>
+    <a href="/">
+      <h1 className='title'>Tennisdle</h1>
+    </a>
+      
+      <Input isGameOver={gameOver} handleNbTries={handleNbTries} player={playerNamesATP} handleGuess={handleGuess}></Input>
+      <Guess onGuessUpdate={handleGuessUpdate} guesses={guesses} data={rankingsDataATP} correctAnswer={randomPlayer}></Guess>
 
-      {gameOver && 
-      <>
-      <Fireworks></Fireworks>
-      <Modal correctAnswer={randomPlayer} tries={tries} guesses={guesses}></Modal>
-      </>
+      {gameOver &&
+        <>
+          <Fireworks></Fireworks>
+          {isModalVisible &&
+            <Modal guessedPlayersInfo={guessedPlayersInfo} closeModal={closeModal} correctAnswer={randomPlayer} tries={tries} guesses={guesses}></Modal>
+          }
+        </>
+
       }
     </>
   )

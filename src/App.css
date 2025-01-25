@@ -8,6 +8,10 @@
 .title {
   font-family: "InterItalic";
   text-transform: uppercase;
+  color: white;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .logo {
