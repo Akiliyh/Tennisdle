@@ -1,6 +1,6 @@
 .modal {
     width: 100vw;
-    height: 100vh;
+    height: 100%;
     position: absolute;
     top: 0;
     left: 0;
@@ -21,8 +21,7 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin-top: 12.5vh;
     min-height: 50vh;
     border-radius: 10px;
     border: 1px solid var(--t-blue);
@@ -30,6 +29,7 @@
     padding: 50px;
     opacity: 0;
     gap: 20px;
+    height: fit-content;
 }
 
 .content.closing {
