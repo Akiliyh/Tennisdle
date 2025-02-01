@@ -6,6 +6,8 @@ import { IoClose, IoClipboard } from "react-icons/io5";
 const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }) => {
   const [timeRemaining, setTimeRemaining] = useState(getTimeUntilNextDay());
   const [isClosing, setIsClosing] = useState(false);
+  const [resultDiagram, setResultDiagram] = useState("");
+  const [isCopied, setIsCopied] = useState(false);
 
   const allCountryCodes = [
     "AF", "AX", "AL", "DZ", "AS", "AD", "AO", "AI", "AQ", "AG", "AR", "AM", "AW", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BQ", "BA", "BW", "BV", "BR", "IO", "BN", "BG", "BF", "BI", "CV", "KH", "CM", "CA", "KY", "CF", "TD", "CL", "CN", "CX", "CC", "CO", "KM", "CD", "CG",
@@ -44,6 +46,7 @@ const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }
 
   // Update the countdown every second
   useEffect(() => {
+    console.log(guessedPlayersInfo);
     const timer = setInterval(() => {
       setTimeRemaining((prev) => {
         const nextValue = prev - 1;
@@ -56,7 +59,7 @@ const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }
     }, 1000);
 
     return () => clearInterval(timer); // Cleanup interval on component unmount
-  }, []);
+  }, [guessedPlayersInfo]);
 
   // Format time into HH:MM:SS
   const formatTime = (seconds) => {
@@ -64,6 +67,46 @@ const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }
     const mins = Math.floor((seconds % 3600) / 60).toString().padStart(2, "0");
     const secs = (seconds % 60).toString().padStart(2, "0");
     return hrs + ":" + mins + ":" + secs;
+  };
+
+  const copyToClipboard = () => {
+    let today = new Date();
+    let resultText = `Tennisdle - ${today.toLocaleDateString('en-GB')}
+    `
+
+    const attributes = [
+      { isCorrect: 'isRankCorrect', compare: 'compareRank' },
+      { isCorrect: 'isAgeCorrect', compare: 'compareAge' },
+      { isCorrect: 'isWeightCorrect', compare: 'compareWeight' },
+      { isCorrect: 'isHeightCorrect', compare: 'compareHeight' },
+      { isCorrect: 'isHandCorrect', compare: null }, // No 'compare' for this one
+      { isCorrect: 'isSameNationality', compare: null } // No 'compare' for this one
+    ];
+
+    for (let i = 0; i < guessedPlayersInfo.length; i++) {
+      resultText += '\n'; // separate each player scores
+      for (let j = 0; j < attributes.length; j++) {
+      const isCorrect = guessedPlayersInfo[i][attributes[j].isCorrect];
+      const compare = guessedPlayersInfo[i][attributes[j].compare];
+
+      if (isCorrect) {
+        resultText += '🟩';
+      } else if (compare === 'less') {
+        resultText += '⬇️';
+      } else if (compare === 'greater') {
+        resultText += '⬆️';
+      } else {
+        resultText += '🟥'; // Default incorrect state (for hand or nationality)
+      }
+    }
+    }
+
+    setResultDiagram(resultText);
+
+    if (!isCopied) {
+      navigator.clipboard.writeText(resultText);
+      setIsCopied(true)
+    }
   };
 
   const close = () => {
@@ -76,17 +119,19 @@ const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }
   return (
     <div className={styles.modal + (isClosing ? ' ' + styles.closing : '')}>
       <div className={styles.content + (isClosing ? ' ' + styles.closing : '')}>
-      <IoClose onClick={() => close()} className={styles.closeIcon}  />
+        <IoClose onClick={() => close()} className={styles.closeIcon} />
         <span>Congrats you found!</span>
         <div className={styles.player}>
-        <ReactCountryFlag countryCode={getCountryCode(correctAnswer.country)} style={{ width: '50px', height: 'unset' }} svg/>
-        <span>{correctAnswer.player}</span>
-        <span>n° {correctAnswer.rank}</span>
-        
+          <ReactCountryFlag countryCode={getCountryCode(correctAnswer.country)} style={{ width: '50px', height: 'unset' }} svg />
+          <span>{correctAnswer.player}</span>
+          <span>n° {correctAnswer.rank}</span>
+
         </div>
-        <span>In {tries} tries</span>
-        <button className={styles.clipboard}> 
-        <IoClipboard></IoClipboard> Copy results
+        <span>In {tries} {tries === 1 ? 'try' : 'tries'}</span>
+        <div>{resultDiagram}</div>
+        <button className={styles.clipboard} onClick={copyToClipboard}>
+          <IoClipboard></IoClipboard> 
+          {isCopied ? 'Copied!' : 'Copy results'} 
         </button>
 
 
