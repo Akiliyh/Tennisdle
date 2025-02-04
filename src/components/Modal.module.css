@@ -21,7 +21,7 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
-    margin-top: 12.5vh;
+    margin-top: 3.5vh; /* change based on modal size */
     min-height: 50vh;
     border-radius: 10px;
     border: 1px solid var(--t-blue);

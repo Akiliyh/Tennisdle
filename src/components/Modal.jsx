@@ -27,6 +27,12 @@ const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }
     }
   });
 
+  const numberToEmoji = (num) => { // in results transform int string to emojis
+    const digits = ['0️⃣', '1️⃣', '2️⃣', '3️⃣', '4️⃣', '5️⃣', '6️⃣', '7️⃣', '8️⃣', '9️⃣'];
+    return num.toString().split('').map(digit => digits[parseInt(digit)]).join('');
+  };
+  
+
   // Function to get the country code by name
   function getCountryCode(countryName) {
     if (countryName === "Great Britain") return "GB"; // special cases not working properly
@@ -85,6 +91,12 @@ const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }
 
     for (let i = 0; i < guessedPlayersInfo.length; i++) {
       resultText += '\n'; // separate each player scores
+      if (i > 5) { // don't display everything cause long yk
+        resultText += '+';
+        resultText += numberToEmoji(guessedPlayersInfo.length - 5) + ' guesses';
+        stopLoop = true;
+        break;
+      }
       for (let j = 0; j < attributes.length; j++) {
       const isCorrect = guessedPlayersInfo[i][attributes[j].isCorrect];
       const compare = guessedPlayersInfo[i][attributes[j].compare];
