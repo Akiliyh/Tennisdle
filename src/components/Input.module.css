@@ -66,6 +66,7 @@ input {
     padding: 10px;
     border-radius: 100px;
     border: var(--t-blue) solid 1px;
+    padding-right: 30px;
 }
 
 .inputContainer {
