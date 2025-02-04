@@ -88,6 +88,11 @@
     width: 50px;
 }
 
+.results {
+    display: flex;
+    flex-direction: column;
+}
+
 @keyframes fade_in {
     0% {
         background-color: rgba(0, 0, 0, 0);
