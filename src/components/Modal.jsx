@@ -93,7 +93,7 @@ const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }
         resultText += '🟩';
       } else if (compare === 'less') {
         resultText += '⬇️';
-      } else if (compare === 'greater') {
+      } else if (compare === 'more') {
         resultText += '⬆️';
       } else {
         resultText += '🟥'; // Default incorrect state (for hand or nationality)
@@ -101,7 +101,8 @@ const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }
     }
     }
 
-    setResultDiagram(resultText);
+    setResultDiagram(resultText.split('\n').slice(1).map((line, index) => <span key={index}>{line}</span>));
+
 
     if (!isCopied) {
       navigator.clipboard.writeText(resultText);
@@ -128,7 +129,7 @@ const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }
 
         </div>
         <span>In {tries} {tries === 1 ? 'try' : 'tries'}</span>
-        <div>{resultDiagram}</div>
+        <div className={styles.results}>{resultDiagram}</div>
         <button className={styles.clipboard} onClick={copyToClipboard}>
           <IoClipboard></IoClipboard> 
           {isCopied ? 'Copied!' : 'Copy results'} 
