@@ -68,6 +68,10 @@ function App() {
   const handleGuessUpdate = (updatedGuesses) => {
     setGuessedPlayersInfo(updatedGuesses);
     console.log(updatedGuesses);
+
+    // save array to local storage
+    const localGuessedPlayersInfo = JSON.stringify(updatedGuesses);
+    localStorage.setItem('localGuessedPlayersInfo', localGuessedPlayersInfo);
   };
 
   const closeModal = () => {
@@ -95,6 +99,14 @@ function App() {
       if (guesses[guesses.length - 1] == randomPlayer.player) {
         console.log("Tu as trouvé !");
         setGameOver(true);
+
+        // we save the correct guess in localStorage
+      const numberOfGuesses = guesses.length;
+      console.log(guessedPlayersInfo);
+      const dateKey = new Date().toISOString().split('T')[0]; // set cur day as key
+      
+      localStorage.setItem('guessedCorrectly', dateKey);
+      localStorage.setItem('numberOfGuesses', numberOfGuesses);
       }
       else {
         console.log("pas bon");
@@ -104,6 +116,30 @@ function App() {
 
   useEffect(() => {
     handleGetRandomPlayer();
+  }, []);
+
+  useEffect(() => {
+    const storedDate = localStorage.getItem('guessedCorrectly');
+    const currentDate = new Date().toISOString().split('T')[0]; // Get current date (YYYY-MM-DD)
+  
+    // If it's a new day, reset the localStorage
+    if (storedDate !== currentDate) {
+      localStorage.clear();
+    }
+  }, []);
+
+  useEffect(() => {
+    const guessedCorrectly = localStorage.getItem('guessedCorrectly');
+    const numberTries = localStorage.getItem('numberOfGuesses');
+    const localGuessedPlayersInfo = localStorage.getItem('localGuessedPlayersInfo');
+    if (guessedCorrectly === new Date().toISOString().split('T')[0]) {
+      setGameOver(true); // if already guessed then display it so
+      setTries(numberTries);
+      console.log(localGuessedPlayersInfo);
+      const parsedGuessedPlayersInfo = JSON.parse(localGuessedPlayersInfo);
+      
+      setGuessedPlayersInfo(parsedGuessedPlayersInfo);
+    }
   }, []);
 
   useEffect(() => {
