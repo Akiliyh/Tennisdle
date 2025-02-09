@@ -94,7 +94,6 @@ const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }
       if (i > 5) { // don't display everything cause long yk
         resultText += '+';
         resultText += numberToEmoji(guessedPlayersInfo.length - 5) + ' guesses';
-        stopLoop = true;
         break;
       }
       for (let j = 0; j < attributes.length; j++) {
