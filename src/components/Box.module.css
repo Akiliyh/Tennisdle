@@ -35,6 +35,7 @@
 
 .line:not(.start) {
     font-size: 2rem;
+    text-wrap: nowrap;
 }
 
 .line.start{ /* name */
