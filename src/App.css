@@ -50,3 +50,55 @@
 .read-the-docs {
   color: #888;
 }
+
+.game-description {
+  background-color: var(--t-gray);
+  color: white;
+  padding: 1rem;
+  border-radius: 10px;
+  max-width: 600px;
+  text-align: center;
+  transition: 1s ease;
+  overflow: hidden;
+  max-height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.game-description h2 {
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.footer p {
+  color: var(--t-gray);
+}
+
+.footer a {
+  color: var(--t-gray);
+  text-decoration: underline;
+}
+
+.footer a:hover {
+  filter: opacity(50%);
+}
+
+.game-description.fade-out {
+  opacity: 0;
+  max-height: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .game-description {
+    max-height: 250px;
+  }
+}

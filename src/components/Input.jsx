@@ -56,7 +56,7 @@ const Input = ({ isGameOver, handleNbTries, player, handleGuess }) => {
       return;
     }
     // Check if the inputValue exists in the playerList
-  const playerExists = playerList.some(player => player.toLowerCase() === inputValue.toLowerCase());
+    const playerExists = playerList.some(player => player.toLowerCase() === inputValue.toLowerCase());
 
     setSuggestions([]);
     if (!playerExists) {

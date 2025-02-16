@@ -4,6 +4,8 @@
     margin-right: auto;
     width: fit-content;
     gap: 15px;
+    padding-top: 15px;
+    margin-bottom: 15px;
 }
 
 .guessSection button {

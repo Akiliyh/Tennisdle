@@ -64,6 +64,7 @@ function App() {
   const [tries, setTries] = useState(0);
   const [isModalVisible, setModalVisible] = useState(true);
   const [guessedPlayersInfo, setGuessedPlayersInfo] = useState([]);
+  const [fadeOutDesc, setFadeOutDesc] = useState(false);
 
   const handleGuessUpdate = (updatedGuesses) => {
     setGuessedPlayersInfo(updatedGuesses);
@@ -88,7 +89,12 @@ function App() {
   };
 
   const handleNbTries = () => {
-    setTries(tries + 1);
+    if (tries === 0) {
+      setFadeOutDesc(true);
+      setTimeout(() => setTries(tries + 1), 1500); // Delay removal for animation
+    } else {
+      setTries(tries + 1);
+    }
   };
 
   const checkGuessedPlayer = (guesses, randomPlayer) => {
@@ -159,6 +165,13 @@ function App() {
     <a href="/">
       <h1 className='title'>Tennisdle</h1>
     </a>
+
+    {tries === 0 && (
+        <div className={`game-description ${fadeOutDesc ? 'fade-out' : ''}`}>
+          <h2>How to Play</h2>
+          <p>Try to guess the mystery tennis player of the day! Each day, a new player is randomly selected from the top 100 rankings. With every incorrect guess, you will receive clues such as the player's nationality, ranking, or playing style to help you find the correct answer!</p>
+        </div>
+      )}
       
       <Input isGameOver={gameOver} handleNbTries={handleNbTries} player={playerNamesATP} handleGuess={handleGuess}></Input>
       <Guess onGuessUpdate={handleGuessUpdate} guesses={guesses} data={rankingsDataATP} correctAnswer={randomPlayer}></Guess>
@@ -172,6 +185,9 @@ function App() {
         </>
 
       }
+      <footer className="footer">
+        <p>Data sourced from <a href="https://www.atptour.com/" target="_blank" rel="noopener noreferrer">ATP Tour</a></p>
+      </footer>
     </>
   )
 }
