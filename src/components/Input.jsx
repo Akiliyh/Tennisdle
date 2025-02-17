@@ -83,6 +83,7 @@ const Input = ({ isGameOver, handleNbTries, player, handleGuess }) => {
 
   const resetInput = () => {
     setInputValue('');
+    setSuggestions([]);
   }
 
   return (

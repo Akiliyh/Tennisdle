@@ -84,10 +84,12 @@ input {
     fill: var(--t-blue);
     opacity: 0;
     transition: 0s;
-    cursor: pointer;
+    pointer-events: none;
 }
 
 .closeIcon.active {
     opacity: 1;
     transition: 1s ease;
+    cursor: pointer;
+    pointer-events: all;
 }
