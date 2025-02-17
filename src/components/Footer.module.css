@@ -1,0 +1,19 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.footer p {
+    color: var(--t-gray);
+}
+
+.footer a {
+    color: var(--t-gray);
+    text-decoration: underline;
+}
+
+.footer a:hover {
+    filter: opacity(50%);
+}

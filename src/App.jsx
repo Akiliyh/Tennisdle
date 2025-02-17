@@ -7,6 +7,8 @@ import Input from './components/Input'
 import Guess from './components/Guess'
 import Fireworks from './components/Fireworks'
 import Modal from './components/Modal'
+import Footer from './components/Footer'
+import Rules from './components/Rules'
 
 const playerNamesATP = rankingsDataATP.map(player => player.player);
 
@@ -63,6 +65,7 @@ function App() {
   const [gameOver, setGameOver] = useState(false);
   const [tries, setTries] = useState(0);
   const [isModalVisible, setModalVisible] = useState(true);
+  const [areRulesVisible, setAreRulesVisible] = useState(true);
   const [guessedPlayersInfo, setGuessedPlayersInfo] = useState([]);
   const [fadeOutDesc, setFadeOutDesc] = useState(false);
 
@@ -89,12 +92,14 @@ function App() {
   };
 
   const handleNbTries = () => {
+    // remove rules
     if (tries === 0) {
       setFadeOutDesc(true);
-      setTimeout(() => setTries(tries + 1), 1500); // Delay removal for animation
-    } else {
-      setTries(tries + 1);
+      setTimeout(() => {
+        setAreRulesVisible(false);
+      }, 1500);
     }
+    setTries(tries + 1);
   };
 
   const checkGuessedPlayer = (guesses, randomPlayer) => {
@@ -103,7 +108,7 @@ function App() {
       console.log(guesses[guesses.length - 1]);
       console.log(randomPlayer.player);
       if (guesses[guesses.length - 1] == randomPlayer.player) {
-        console.log("Tu as trouvé !");
+        // user has won
         setGameOver(true);
 
         // we save the correct guess in localStorage
@@ -113,9 +118,6 @@ function App() {
       
       localStorage.setItem('guessedCorrectly', dateKey);
       localStorage.setItem('numberOfGuesses', numberOfGuesses);
-      }
-      else {
-        console.log("pas bon");
       }
     }
   };
@@ -166,12 +168,9 @@ function App() {
       <h1 className='title'>Tennisdle</h1>
     </a>
 
-    {tries === 0 && (
-        <div className={`game-description ${fadeOutDesc ? 'fade-out' : ''}`}>
-          <h2>How to Play</h2>
-          <p>Try to guess the mystery tennis player of the day! Each day, a new player is randomly selected from the top 100 rankings. With every incorrect guess, you will receive clues such as the player's nationality, ranking, or playing style to help you find the correct answer!</p>
-        </div>
-      )}
+    {areRulesVisible && 
+    <Rules fadeOutDesc={fadeOutDesc}></Rules>
+    }
       
       <Input isGameOver={gameOver} handleNbTries={handleNbTries} player={playerNamesATP} handleGuess={handleGuess}></Input>
       <Guess onGuessUpdate={handleGuessUpdate} guesses={guesses} data={rankingsDataATP} correctAnswer={randomPlayer}></Guess>
@@ -185,9 +184,7 @@ function App() {
         </>
 
       }
-      <footer className="footer">
-        <p>Data sourced from <a href="https://www.atptour.com/" target="_blank" rel="noopener noreferrer">ATP Tour</a></p>
-      </footer>
+      <Footer></Footer>
     </>
   )
 }

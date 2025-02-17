@@ -1,0 +1,31 @@
+.game_description {
+    background-color: var(--t-gray);
+    color: white;
+    padding: 1rem;
+    border-radius: 10px;
+    max-width: 600px;
+    text-align: center;
+    transition: 1s ease;
+    overflow: hidden;
+    max-height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .game_description h2 {
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+  }
+  
+  .game_description.fade_out {
+    opacity: 0;
+    max-height: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  
+  @media (max-width: 768px) {
+    .game_description {
+      max-height: 250px;
+    }
+  }
