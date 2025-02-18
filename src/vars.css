@@ -1,8 +1,18 @@
 :root {
+    /* old */
     --t-green: #4FA543;
     --t-light-green: #57F151;
     --t-red: #AB4141;
     --t-blue: #8833FF;
     --t-gray: #464646;
     --t-deep-gray: #292525;
+    
+    --t-n-black: #181819;
+    --t-n-blue: #152BC7;
+    --t-n-pink: #FF6B6B;
+    --t-n-gray: #2e3046;
+    --t-n-deep-gray: #2a2a31;
+    --t-n-red: #F04141;
+    --t-n-cyan: #A0A8FF;
+    --t-n-deep-pink: #6f2b2b;
 }

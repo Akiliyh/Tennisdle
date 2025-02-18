@@ -15,7 +15,7 @@
 }
 
 .content {
-    background-color: var(--t-deep-gray);
+    background-color: var(--t-n-deep-gray);
     margin-left: auto;
     margin-right: auto;
     display: flex;
@@ -24,7 +24,7 @@
     margin-top: 3.5vh; /* change based on modal size */
     min-height: 50vh;
     border-radius: 10px;
-    border: 1px solid var(--t-blue);
+    border: 1px solid var(--t-n-blue);
     animation: dive_in forwards ease-out 1s .5s;
     padding: 50px;
     opacity: 0;
@@ -56,7 +56,7 @@
   align-content: revert;
   align-items: center;
   border-radius: 50px;
-  background-image: linear-gradient(to left,var(--t-gray), var(--t-gray), var(--t-green), var(--t-light-green));
+  background-image: linear-gradient(to left,var(--t-n-gray), var(--t-n-gray), var(--t-n-red), var(--t-n-pink));
     background-size: 300%;
     background-position: calc(100% + 1px); /* deal with the extra space */
     transition: background-position .3s ease;
@@ -67,7 +67,7 @@
     transition: background-position .3s ease;
     background-size: 300%;
     background-position: calc(0% - 1px); /* deal with the extra space */
-    background-image: linear-gradient(to left,var(--t-gray), var(--t-gray), var(--t-green), var(--t-light-green));
+    background-image: linear-gradient(to left,var(--t-n-gray), var(--t-n-gray), var(--t-n-red), var(--t-n-pink));
 }
 
 .content .timerContainer {
@@ -77,7 +77,7 @@
 }
 
 .content .timer {
-    color: var(--t-blue);
+    color: var(--t-n-pink);
     font-size: 4rem;
 }
 

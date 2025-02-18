@@ -6,14 +6,14 @@
 }
 
 .footer p {
-    color: var(--t-gray);
+    color: var(--t-n-gray);
 }
 
 .footer a {
-    color: var(--t-gray);
+    color: var(--t-n-gray);
     text-decoration: underline;
 }
 
 .footer a:hover {
-    filter: opacity(50%);
+    filter: opacity(60%);
 }

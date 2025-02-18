@@ -10,7 +10,7 @@
 
 .guessSection button {
     border-radius: 50px;
-    background-image: linear-gradient(to left,var(--t-gray), var(--t-gray), var(--t-green), var(--t-light-green));
+    background-image: linear-gradient(to left,var(--t-n-gray), var(--t-n-gray), var(--t-n-red), var(--t-n-pink));
     background-size: 300%;
     background-position: calc(100% + 1px); /* deal with the extra space */
     transition: background-position .3s ease;
@@ -26,11 +26,11 @@
     transition: background-position .3s ease;
     background-size: 300%;
     background-position: calc(0% - 1px); /* deal with the extra space */
-    background-image: linear-gradient(to left,var(--t-gray), var(--t-gray), var(--t-green), var(--t-light-green));
+    background-image: linear-gradient(to left,var(--t-n-gray), var(--t-n-gray), var(--t-n-red), var(--t-n-pink));
 }
 
 .guessSection button.active:hover {
-    border: var(--t-blue) 1px solid;
+    border: var(--t-n-blue) 1px solid;
     cursor: pointer;
 }
 
@@ -40,7 +40,7 @@
     max-height: 200px;
     padding: 0;
     overflow: scroll;
-    border: 1px solid var(--t-blue);
+    border: 1px solid var(--t-n-blue);
     border-radius: 5px;
     position: absolute;
     left: 0;
@@ -49,30 +49,36 @@
     width: fit-content;
     margin-left: auto;
     margin-right: auto;
-    background-color: #242424;
+    background-color: var(--t-n-deep-gray);
     z-index: 999;
 }
 
 .suggestions li {
-    border: solid 1px rgb(56, 56, 56);
+    border: solid 1px var(--t-n-gray);
     transition: .5s ease;
     padding: 8px;
 }
 
 .suggestions li:hover {
-    background-color: rgb(56, 56, 56);
+    background-color: var(--t-n-gray);
     cursor: pointer;
 }
 
 input {
     padding: 10px;
     border-radius: 100px;
-    border: var(--t-blue) solid 1px;
+    border: var(--t-n-blue) solid 1px;
     padding-right: 30px;
 }
 
 .inputContainer {
     position: relative;
+}
+
+
+input:focus {
+    border: var(--t-n-pink) solid 1px;
+    outline: 1px var(--t-n-pink) solid;
 }
 
 /* REMOVE ICON */
@@ -81,7 +87,7 @@ input {
     position: absolute;
     top: 10px;
     right: 10px;
-    fill: var(--t-blue);
+    fill: var(--t-n-pink);
     opacity: 0;
     transition: 0s;
     pointer-events: none;

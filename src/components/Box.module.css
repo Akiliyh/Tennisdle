@@ -8,7 +8,7 @@
 .box strong {
     font-weight: normal;
     text-align: left;
-    color: var(--t-gray);
+    color: var(--t-n-gray);
 }
 
 .correct {
@@ -20,11 +20,11 @@
 }
 
 .line {
-    border-top: 2px solid var(--t-blue);
-    border-bottom: 2px solid var(--t-blue);
+    border-top: 2px solid var(--t-n-blue);
+    border-bottom: 2px solid var(--t-n-blue);
     height: 100%;
     align-content: center;
-    border-right: 2px solid var(--t-gray);
+    border-right: 2px solid var(--t-n-gray);
     min-width: 50px;
     animation: box_entrance .8s cubic-bezier(.03,.91,.36,.99) forwards;
     opacity: 0;
@@ -39,7 +39,7 @@
 }
 
 .line.start{ /* name */
-    border-left: 2px solid var(--t-blue);
+    border-left: 2px solid var(--t-n-blue);
     border-radius: 10vw 0 0 10vw;
     display: flex;
     text-wrap: nowrap;
@@ -69,7 +69,7 @@
 }
 
 .end{
-    border-right: 2px solid var(--t-blue);
+    border-right: 2px solid var(--t-n-blue);
     border-radius: 0 10vw 10vw 0;
 }
 
