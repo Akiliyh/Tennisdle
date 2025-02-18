@@ -40,7 +40,7 @@
     max-height: 200px;
     padding: 0;
     overflow: scroll;
-    border: 1px solid var(--t-n-blue);
+    border: 1px solid var(--t-n-pink);
     border-radius: 5px;
     position: absolute;
     left: 0;
