@@ -13,4 +13,10 @@
   width: fit-content;
   margin-left: auto;
   margin-right: auto;
+  gap: 15px;
+  display: flex;
+}
+
+.title:hover h1 {
+  color: white;
 }

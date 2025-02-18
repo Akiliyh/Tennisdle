@@ -1,0 +1,18 @@
+<svg width="59" height="59" viewBox="0 0 59 59" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_213_497" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="59" height="59">
+<rect x="20.2286" width="5.05714" height="59" fill="white"/>
+<rect x="6.74286" width="5.05714" height="59" fill="white"/>
+<rect x="47.2" width="5.05714" height="59" fill="white"/>
+<rect x="33.7143" width="5.05714" height="59" fill="white"/>
+<rect x="59" y="23.6" width="5.05715" height="59" transform="rotate(90 59 23.6)" fill="white"/>
+</mask>
+<g mask="url(#mask0_213_497)">
+<mask id="mask1_213_497" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-4" y="-2" width="69" height="63">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M64.0572 -1.68571H-3.3714V60.6857H64.0572V-1.68571ZM29.5 48.8857C39.2754 48.8857 47.2 40.9612 47.2 31.1857C47.2 21.4103 39.2754 13.4857 29.5 13.4857C19.7246 13.4857 11.8 21.4103 11.8 31.1857C11.8 40.9612 19.7246 48.8857 29.5 48.8857Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_213_497)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M29.5 59C61.6193 59 87.6571 32.9622 87.6571 0.842857C87.6571 -31.2764 61.6193 -57.3143 29.5 -57.3143C-2.61933 -57.3143 -28.6572 -31.2764 -28.6572 0.842857C-28.6572 32.9622 -2.61933 59 29.5 59Z" fill="white"/>
+</g>
+</g>
+<circle cx="29.5" cy="31.1857" r="12.6429" fill="#FF6B6B"/>
+</svg>

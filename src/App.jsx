@@ -164,8 +164,9 @@ function App() {
 
   return (
     <>
-    <a href="/">
-      <h1 className='title'>Tennisdle</h1>
+    <a href="/" className='title'>
+      <img src="/logo.svg" alt="Tennisdle logo" />
+      <h1>Tennisdle</h1>
     </a>
 
     {areRulesVisible && 
