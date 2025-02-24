@@ -8,6 +8,7 @@
     animation: fade_in forwards ease 2s normal;
     font-family: Inter;
     font-size: 2rem;
+    z-index: 999;
 }
 
 .modal.closing {
