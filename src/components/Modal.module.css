@@ -16,7 +16,7 @@
 }
 
 .content {
-    background-color: var(--t-n-deep-gray);
+    background-color: var(--t-n-black);
     margin-left: auto;
     margin-right: auto;
     display: flex;

@@ -8,6 +8,7 @@ const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }
   const [isClosing, setIsClosing] = useState(false);
   const [resultDiagram, setResultDiagram] = useState("");
   const [isCopied, setIsCopied] = useState(false);
+  const [resultText, setResultText] = useState("");
 
   const allCountryCodes = [
     "AF", "AX", "AL", "DZ", "AS", "AD", "AO", "AI", "AQ", "AG", "AR", "AM", "AW", "AU", "AT", "AZ", "BS", "BH", "BD", "BB", "BY", "BE", "BZ", "BJ", "BM", "BT", "BO", "BQ", "BA", "BW", "BV", "BR", "IO", "BN", "BG", "BF", "BI", "CV", "KH", "CM", "CA", "KY", "CF", "TD", "CL", "CN", "CX", "CC", "CO", "KM", "CD", "CG",
@@ -76,6 +77,13 @@ const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }
   };
 
   const copyToClipboard = () => {
+    if (!isCopied) {
+      navigator.clipboard.writeText(resultText);
+      setIsCopied(true);
+    }
+  };
+
+  const displayResults = () => {
     let today = new Date();
     let resultText = `Tennisdle - ${today.toLocaleDateString('en-GB')}
     `
@@ -111,15 +119,13 @@ const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }
       }
     }
     }
-
+    setResultText(resultText);
     setResultDiagram(resultText.split('\n').slice(1).map((line, index) => <span key={index}>{line}</span>));
-
-
-    if (!isCopied) {
-      navigator.clipboard.writeText(resultText);
-      setIsCopied(true)
-    }
   };
+
+  useEffect(() => {
+    displayResults();
+  }, [guessedPlayersInfo]);
 
   const close = () => {
     setIsClosing(true);
