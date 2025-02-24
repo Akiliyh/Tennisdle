@@ -141,6 +141,7 @@ function App() {
     const numberTries = localStorage.getItem('numberOfGuesses');
     const localGuessedPlayersInfo = localStorage.getItem('localGuessedPlayersInfo');
     if (guessedCorrectly === new Date().toISOString().split('T')[0]) {
+      setAreRulesVisible(false);
       setGameOver(true); // if already guessed then display it so
       setTries(numberTries);
       console.log(localGuessedPlayersInfo);
