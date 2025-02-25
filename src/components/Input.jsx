@@ -1,13 +1,17 @@
 import React, { useState, useEffect } from "react";
 import styles from './Input.module.css';
+import Error from './Error';
 import { IoClose } from "react-icons/io5";
 
-const Input = ({ isGameOver, handleNbTries, player, handleGuess }) => {
+const Input = ({ guessedPlayersData, isGameOver, handleNbTries, player, handleGuess }) => {
+  const [guessedPlayersInfo, setGuessedPlayersInfo] = useState(guessedPlayersData);
+
   const [inputValue, setInputValue] = useState('');
   const [suggestions, setSuggestions] = useState([]);
   const [playerList, setPlayerList] = useState(player);
   const [isGuessBtnActive, setIsGuessBtnActive] = useState(false);
   const [isCloseBtnActive, setIsCloseBtnActive] = useState(false);
+  const [doesPlayerExist, setDoesPlayerExist] = useState(true);
 
   useEffect(() => {
     inputValue != "" ? setIsGuessBtnActive(true) : setIsGuessBtnActive(false);
@@ -19,8 +23,14 @@ const Input = ({ isGameOver, handleNbTries, player, handleGuess }) => {
     setInputValue(value);
 
     if (value) {
+      const guessedPlayerNames = guessedPlayersInfo.map(player => player.player); // Extract names
+
       const filteredSuggestions = playerList
-        .filter(name => typeof name === "string" && name.toLowerCase().includes(value.toLowerCase()))
+        .filter(name =>
+          typeof name === "string" &&
+          name.toLowerCase().includes(value.toLowerCase()) &&
+          !guessedPlayerNames.includes(name) // Remove already guessed players
+        )
         .sort((a, b) => a.localeCompare(b));
 
       setSuggestions(filteredSuggestions);
@@ -61,7 +71,15 @@ const Input = ({ isGameOver, handleNbTries, player, handleGuess }) => {
     setSuggestions([]);
     if (!playerExists) {
       console.error('Error: The entered name does not match any player in the list.');
-      return; // todo add error message in ui
+      setDoesPlayerExist(false);
+      setTimeout(() => {
+        setDoesPlayerExist(true);
+      }, 2000);
+      setInputValue(""); // reset input value
+      return;
+
+    } else {
+      setDoesPlayerExist(true);
     }
     setInputValue('');
     setPlayerList(setRemainingPlayers(inputValue));
@@ -90,14 +108,14 @@ const Input = ({ isGameOver, handleNbTries, player, handleGuess }) => {
     <div className={styles.guessSection}>
       <div className={styles.inputContainer + (isGameOver ? '' + styles.disabled : '')}>
         <input
-          {...(isGameOver && {disabled: true})}
+          {...(isGameOver && { disabled: true })}
           type="text"
           value={inputValue}
           onChange={handleInputChange}
           onKeyDown={guessInput}
           placeholder="Type a player name..."
         />
-        <IoClose onClick={() => resetInput()} className={styles.closeIcon + (isCloseBtnActive ? ' ' + styles.active : '')}  />
+        <IoClose onClick={() => resetInput()} className={styles.closeIcon + (isCloseBtnActive ? ' ' + styles.active : '')} />
 
         {suggestions.length > 0 && (
           <ul className={styles.suggestions}>
@@ -110,6 +128,10 @@ const Input = ({ isGameOver, handleNbTries, player, handleGuess }) => {
         )}
       </div>
       <button className={isGuessBtnActive ? styles.active : ''} onClick={(e) => guess()}>Guess</button>
+
+      {!doesPlayerExist &&
+        <Error></Error>
+      }
     </div>
   );
 };
