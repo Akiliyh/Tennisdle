@@ -1,11 +1,13 @@
 import React, { useState, useEffect } from "react";
 import styles from './Guess.module.css';
-import { IoCaretDown, IoCaretUp, IoClose, IoHandLeftSharp, IoHandRightSharp } from "react-icons/io5";
+import { IoClose } from "react-icons/io5";
 import { FaCheck } from "react-icons/fa";
 import Box from './Box';
 
-const Guess = ({ guesses, data, correctAnswer, onGuessUpdate }) => {
-  const [guessedPlayersInfo, setGuessedPlayersInfo] = useState([]);
+const Guess = ({ guessedPlayersData, guesses, data, correctAnswer, onGuessUpdate }) => {
+  const [guessedPlayersInfo, setGuessedPlayersInfo] = useState(guessedPlayersData);
+  console.log(guessedPlayersInfo);
+
   const [lastGuess, setLastGuess] = useState(null);
 
   const allCountryCodes = [
@@ -30,6 +32,7 @@ const Guess = ({ guesses, data, correctAnswer, onGuessUpdate }) => {
   function getCountryCode(countryName) {
     if (countryName === "Great Britain") return "GB"; // special cases not working properly
     if (countryName === "Chinese Taipei") return "TW";
+    if (countryName === "Hong Kong") return "HK";
     if (countryName === "Bosnia-Herzegovina") return "BA";
     if (!countryName) return "UN";
     return countryLookup[countryName] || 'Country not found';
@@ -84,8 +87,8 @@ const Guess = ({ guesses, data, correctAnswer, onGuessUpdate }) => {
 
       const compareAge = correctAge > playerAge ? "more" : "less"; // keep in mind this is only useful when the result is false, meaning that correct can't be equal to the guess
 
-      const compareHandedness = getHandedness(playerInfo.handedness) !== getHandedness(correctAnswer.handedness) ? <IoClose color="red" />
-        : <FaCheck color="green" />;
+      const compareHandedness = getHandedness(playerInfo.handedness) == getHandedness(correctAnswer.handedness) ? <FaCheck color="green" />
+        : <IoClose color="red" />;
 
       const compareRank = parseInt(correctAnswer.rank) > parseInt(playerInfo.rank) ? "more" : "less";
 
@@ -94,7 +97,7 @@ const Guess = ({ guesses, data, correctAnswer, onGuessUpdate }) => {
       const isHeightCorrect = getHeightInCm(playerInfo.height) === getHeightInCm(correctAnswer.height);
       const isAgeCorrect = getAge(playerInfo.age) === getAge(correctAnswer.age);
 
-      const isHandCorrect = playerInfo.handedness === correctAnswer.handedness;
+      const isHandCorrect = getHandedness(playerInfo.handedness) === getHandedness(correctAnswer.handedness);
       const isSameNationality = playerInfo.country === correctAnswer.country;
 
       const newGuessInfo = {
