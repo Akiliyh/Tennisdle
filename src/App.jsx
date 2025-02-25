@@ -25,8 +25,6 @@ const getRandomPlayerDaily = (data) => {
 
   // Generate a unique string based on the date
   const dateKey = date.getFullYear() + "-" + date.getMonth() + 1 + "-" + date.getDate();
-  console.log(`Date Key: ${dateKey}`);
-  console.log(dateKey.charCodeAt(dateKey.length - 1));
 
   // Hashing mechanism to generate a seed from the date string
   let seed = 0;
@@ -63,10 +61,16 @@ function App() {
   const [randomPlayer, setRandomPlayer] = useState(null);
   const [guesses, setGuesses] = useState([]);
   const [gameOver, setGameOver] = useState(false);
-  const [tries, setTries] = useState(0);
+  const [tries, setTries] = useState(() => {
+    const storedGuesses = localStorage.getItem('numberOfGuesses');
+    return storedGuesses ? JSON.parse(storedGuesses) : 0; // if no LS then you initialize
+  });
   const [isModalVisible, setModalVisible] = useState(true);
   const [areRulesVisible, setAreRulesVisible] = useState(true);
-  const [guessedPlayersInfo, setGuessedPlayersInfo] = useState([]);
+  const [guessedPlayersInfo, setGuessedPlayersInfo] = useState(() => {
+    const storedGuesses = localStorage.getItem('localGuessedPlayersInfo');
+    return storedGuesses ? JSON.parse(storedGuesses) : []; // if no LS then you initialize
+  });
   const [fadeOutDesc, setFadeOutDesc] = useState(false);
 
   const handleGuessUpdate = (updatedGuesses) => {
@@ -76,6 +80,7 @@ function App() {
     // save array to local storage
     const localGuessedPlayersInfo = JSON.stringify(updatedGuesses);
     localStorage.setItem('localGuessedPlayersInfo', localGuessedPlayersInfo);
+    localStorage.setItem('numberOfGuesses', updatedGuesses.length);
   };
 
   const closeModal = () => {
@@ -93,12 +98,12 @@ function App() {
 
   const handleNbTries = () => {
     // remove rules
-    if (tries === 0) {
-      setFadeOutDesc(true);
-      setTimeout(() => {
-        setAreRulesVisible(false);
-      }, 1500);
-    }
+
+    setFadeOutDesc(true);
+    setTimeout(() => {
+      setAreRulesVisible(false);
+    }, 1500);
+
     setTries(tries + 1);
   };
 
@@ -112,12 +117,12 @@ function App() {
         setGameOver(true);
 
         // we save the correct guess in localStorage
-      const numberOfGuesses = guesses.length;
-      console.log(guessedPlayersInfo);
-      const dateKey = new Date().toISOString().split('T')[0]; // set cur day as key
-      
-      localStorage.setItem('guessedCorrectly', dateKey);
-      localStorage.setItem('numberOfGuesses', numberOfGuesses);
+        const numberOfGuesses = guesses.length;
+        console.log(guessedPlayersInfo);
+        const dateKey = new Date().toISOString().split('T')[0]; // set cur day as key
+
+        localStorage.setItem('guessedCorrectly', dateKey);
+        localStorage.setItem('numberOfGuesses', numberOfGuesses);
       }
     }
   };
@@ -129,7 +134,7 @@ function App() {
   useEffect(() => {
     const storedDate = localStorage.getItem('guessedCorrectly');
     const currentDate = new Date().toISOString().split('T')[0]; // Get current date (YYYY-MM-DD)
-  
+
     // If it's a new day, reset the localStorage
     if (storedDate !== currentDate) {
       localStorage.clear();
@@ -144,10 +149,30 @@ function App() {
       setAreRulesVisible(false);
       setGameOver(true); // if already guessed then display it so
       setTries(numberTries);
-      console.log(localGuessedPlayersInfo);
-      const parsedGuessedPlayersInfo = JSON.parse(localGuessedPlayersInfo);
-      
-      setGuessedPlayersInfo(parsedGuessedPlayersInfo);
+
+    }
+    console.log(localGuessedPlayersInfo);
+    const parsedGuessedPlayersInfo = JSON.parse(localGuessedPlayersInfo);
+
+    setGuessedPlayersInfo(parsedGuessedPlayersInfo);
+
+    // if (guessedPlayersInfo && guessedPlayersInfo.length > 0) { // if array empty then remove rules
+    //   setAreRulesVisible(false);
+    // }
+  }, []);
+
+  // init localStorage
+  useEffect(() => {
+    if (!localStorage.getItem('guessedCorrectly')) {
+      localStorage.setItem('guessedCorrectly', JSON.stringify(false));
+    }
+
+    if (!localStorage.getItem('numberOfGuesses')) {
+      localStorage.setItem('numberOfGuesses', JSON.stringify(0));
+    }
+
+    if (!localStorage.getItem('localGuessedPlayersInfo')) {
+      localStorage.setItem('localGuessedPlayersInfo', JSON.stringify([]));
     }
   }, []);
 
@@ -165,17 +190,17 @@ function App() {
 
   return (
     <>
-    <a href="/" className='title'>
-      <img src="/logo.svg" alt="Tennisdle logo" />
-      <h1>Tennisdle</h1>
-    </a>
+      <a href="/" className='title'>
+        <img src="/logo.svg" alt="Tennisdle logo" />
+        <h1>Tennisdle</h1>
+      </a>
 
-    {areRulesVisible && 
-    <Rules fadeOutDesc={fadeOutDesc}></Rules>
-    }
-      
-      <Input isGameOver={gameOver} handleNbTries={handleNbTries} player={playerNamesATP} handleGuess={handleGuess}></Input>
-      <Guess onGuessUpdate={handleGuessUpdate} guesses={guesses} data={rankingsDataATP} correctAnswer={randomPlayer}></Guess>
+      {areRulesVisible &&
+        <Rules fadeOutDesc={fadeOutDesc}></Rules>
+      }
+
+      <Input guessedPlayersData={guessedPlayersInfo} isGameOver={gameOver} handleNbTries={handleNbTries} player={playerNamesATP} handleGuess={handleGuess}></Input>
+      <Guess onGuessUpdate={handleGuessUpdate} guessedPlayersData={guessedPlayersInfo} guesses={guesses} data={rankingsDataATP} correctAnswer={randomPlayer}></Guess>
 
       {gameOver &&
         <>
