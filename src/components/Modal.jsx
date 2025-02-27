@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import styles from './Modal.module.css';
+import Button from './Button';
 import ReactCountryFlag from "react-country-flag";
 import { IoClose, IoClipboard } from "react-icons/io5";
 
@@ -97,14 +98,14 @@ const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }
       { isCorrect: 'isSameNationality', compare: null } // No 'compare' for this one
     ];
 
-    for (let i = 0; i < guessedPlayersInfo.length; i++) {
+    for (let i = guessedPlayersInfo.length - 1; i >= 0; i--) {
       resultText += '\n'; // separate each player scores
       if (i > 5) { // don't display everything cause long yk
         resultText += '+';
         resultText += numberToEmoji(guessedPlayersInfo.length - 5) + ' guesses';
         break;
       }
-      for (let j = 0; j < attributes.length; j++) {
+      for (let j = attributes.length-1; j > 0; j--) {
       const isCorrect = guessedPlayersInfo[i][attributes[j].isCorrect];
       const compare = guessedPlayersInfo[i][attributes[j].compare];
 
@@ -147,10 +148,8 @@ const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }
         </div>
         <span>In {tries} {tries === 1 ? 'try' : 'tries'}</span>
         <div className={styles.results}>{resultDiagram}</div>
-        <button className={styles.clipboard} onClick={copyToClipboard}>
-          <IoClipboard></IoClipboard> 
-          {isCopied ? 'Copied!' : 'Copy results'} 
-        </button>
+
+        <Button classname={'clipboard'} func={copyToClipboard} icon={"clipboard"} content={isCopied ? 'Copied!' : 'Copy results'}></Button>
 
 
         <div className={styles.timerContainer}>
