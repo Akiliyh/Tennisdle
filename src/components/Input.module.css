@@ -72,6 +72,8 @@ input {
     border-radius: 100px;
     border: var(--t-n-blue) solid 1px;
     padding-right: 30px;
+    background-color: var(--t-n-deep-gray);
+    color: white;
 }
 
 .inputContainer {

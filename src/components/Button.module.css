@@ -1,33 +1,37 @@
 button {
     width: fit-content;
-  margin-left: auto;
-  margin-right: auto;
-  display: flex;
-  font-size: 1rem;
-  gap: 5px;
-  align-content: revert;
-  align-items: center;
-  border-radius: 50px;
-  background-image: linear-gradient(to left,var(--t-n-gray), var(--t-n-gray), var(--t-n-red), var(--t-n-pink));
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    font-size: 1rem;
+    gap: 5px;
+    align-content: revert;
+    align-items: center;
+    border-radius: 50px;
+    background-image: linear-gradient(to left, var(--t-n-gray), var(--t-n-gray), var(--t-n-red), var(--t-n-pink));
     background-size: 300%;
-    background-position: calc(100% + 1px); /* deal with the extra space */
+    background-position: calc(100% + 1px);
+    /* deal with the extra space */
     transition: background-position .3s ease;
+    color: white;
 }
 
 button:hover {
     transition: background-image 1s ease;
     transition: background-position .3s ease;
     background-size: 300%;
-    background-position: calc(0% - 1px); /* deal with the extra space */
-    background-image: linear-gradient(to left,var(--t-n-gray), var(--t-n-gray), var(--t-n-red), var(--t-n-pink));
+    background-position: calc(0% - 1px);
+    /* deal with the extra space */
+    background-image: linear-gradient(to left, var(--t-n-gray), var(--t-n-gray), var(--t-n-red), var(--t-n-pink));
 }
 
 button.active {
     transition: background-image 1s ease;
     transition: background-position .3s ease;
     background-size: 300%;
-    background-position: calc(0% - 1px); /* deal with the extra space */
-    background-image: linear-gradient(to left,var(--t-n-gray), var(--t-n-gray), var(--t-n-red), var(--t-n-pink));
+    background-position: calc(0% - 1px);
+    /* deal with the extra space */
+    background-image: linear-gradient(to left, var(--t-n-gray), var(--t-n-gray), var(--t-n-red), var(--t-n-pink));
 }
 
 button.active:hover {
