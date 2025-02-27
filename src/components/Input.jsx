@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import styles from './Input.module.css';
 import Error from './Error';
+import Button from './Button';
 import { IoClose } from "react-icons/io5";
 
 const Input = ({ guessedPlayersData, isGameOver, handleNbTries, player, handleGuess }) => {
@@ -127,7 +128,8 @@ const Input = ({ guessedPlayersData, isGameOver, handleNbTries, player, handleGu
           </ul>
         )}
       </div>
-      <button className={isGuessBtnActive ? styles.active : ''} onClick={(e) => guess()}>Guess</button>
+
+      <Button classname={isGuessBtnActive ? 'active' : ''} func={(e) => guess()} content={"Guess"}></Button>
 
       {!doesPlayerExist &&
         <Error></Error>
