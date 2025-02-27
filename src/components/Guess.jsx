@@ -20,6 +20,25 @@ const Guess = ({ guessedPlayersData, guesses, data, correctAnswer, onGuessUpdate
 
   const regionNamesInEnglish = new Intl.DisplayNames(['en'], { type: 'region' });
 
+  useEffect(() => {
+    let storedDate = localStorage.getItem('guessedCorrectly');
+    const currentDate = new Date().toISOString().split('T')[0]; // Get current date (YYYY-MM-DD)
+
+    // defines if we need to parse the value or if it is a string
+    try {
+      storedDate = JSON.parse(storedDate); // Attempt to parse, but catch errors
+    } catch (error) {
+      // If parsing fails, storedDate remains a string
+    }
+
+    // If it's a new day, reset the data
+    if (storedDate != false && storedDate != currentDate) {
+      console.log(storedDate);
+      console.log(currentDate);
+      setGuessedPlayersInfo([]);
+    }
+  }, []);
+
   const countryLookup = {};
   allCountryCodes.forEach(code => {
     const countryName = regionNamesInEnglish.of(code);
