@@ -113,8 +113,7 @@ function App() {
       console.log(guesses[guesses.length - 1]);
       console.log(randomPlayer.player);
       if (guesses[guesses.length - 1] == randomPlayer.player) {
-        // user has won
-        setGameOver(true);
+        
 
         // we save the correct guess in localStorage
         const numberOfGuesses = guesses.length;
@@ -123,6 +122,9 @@ function App() {
 
         localStorage.setItem('guessedCorrectly', dateKey);
         localStorage.setItem('numberOfGuesses', numberOfGuesses);
+        
+        // user has won
+        setGameOver(true);
       }
     }
   };
@@ -152,7 +154,8 @@ function App() {
 
     }
     console.log(localGuessedPlayersInfo);
-    const parsedGuessedPlayersInfo = JSON.parse(localGuessedPlayersInfo);
+    const parsedGuessedPlayersInfo = localGuessedPlayersInfo ? JSON.parse(localGuessedPlayersInfo) : [];
+
 
     setGuessedPlayersInfo(parsedGuessedPlayersInfo);
 
