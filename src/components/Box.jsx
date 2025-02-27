@@ -26,7 +26,7 @@ const Box = ({title, value, place, isCorrect, compare, type = "string", delay}) 
         {type === "country" ? (
           <ReactCountryFlag countryCode={value} style={{ width: 'unset', height: 'unset' }} svg/>
         ) : type === "hand" ? (
-          <img src="hand.svg" alt="hand" />
+          <img src="../hand.svg" alt="hand" />
         ) : // Replace value with spans for each word if value === "name"
         type === "name" ? (
           value.split(' ').map((word, index) => (
