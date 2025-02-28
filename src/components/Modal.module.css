@@ -78,7 +78,7 @@
 @keyframes fade_in {
     0% {
         background-color: rgba(0, 0, 0, 0);
-     };
+     }
     100% {
         background-color: rgba(0, 0, 0, 0.4);
     }
@@ -87,7 +87,7 @@
 @keyframes fade_out {
     0% {
         background-color: rgba(0, 0, 0, 0.4);
-     };
+     }
     100% {
         background-color: rgba(0, 0, 0, 0);
     }
@@ -98,7 +98,7 @@
     0% {
         transform: translateY(100px);
         opacity: 0;
-     };
+     }
     100% {
         transform: translateY(0px);
         opacity: 1;
@@ -109,7 +109,7 @@
     0% {
         transform: translateY(0x);
         opacity: 1;
-     };
+     }
     100% {
         transform: translateY(100px);
         opacity: 0;
