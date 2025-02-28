@@ -6,7 +6,7 @@ import Box from './Box';
 
 const Guess = ({ guessedPlayersData, guesses, data, correctAnswer, onGuessUpdate }) => {
   const [guessedPlayersInfo, setGuessedPlayersInfo] = useState(guessedPlayersData);
-  console.log(guessedPlayersInfo);
+  // console.log(guessedPlayersInfo);
 
   const [lastGuess, setLastGuess] = useState(null);
 
@@ -109,7 +109,7 @@ const Guess = ({ guessedPlayersData, guesses, data, correctAnswer, onGuessUpdate
       const compareHandedness = getHandedness(playerInfo.handedness) == getHandedness(correctAnswer.handedness) ? <FaCheck color="green" />
         : <IoClose color="red" />;
 
-      const compareRank = parseInt(correctAnswer.rank) > parseInt(playerInfo.rank) ? "more" : "less";
+      const compareRank = parseInt(correctAnswer.rank) < parseInt(playerInfo.rank) ? "more" : "less";
 
       const isRankCorrect = playerInfo.rank === correctAnswer.rank;
       const isWeightCorrect = getWeightInKg(playerInfo.weight) === getWeightInKg(correctAnswer.weight);

@@ -85,7 +85,6 @@ const Input = ({ guessedPlayersData, isGameOver, handleNbTries, player, handleGu
     setInputValue('');
     setPlayerList(setRemainingPlayers(inputValue));
     handleGuess(inputValue);
-    console.log(playerList);
     handleNbTries();
   };
 

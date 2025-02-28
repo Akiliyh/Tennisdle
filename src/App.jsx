@@ -39,7 +39,7 @@ const getRandomPlayerDaily = (data) => {
 
   // Deterministic randomness
   const prng = (seed) => {
-    const a = 1664525;  // Multiplier
+    const a = 1664535;  // Multiplier
     const c = 1013904223; // Increment
     const m = 4294967296;  // Modulus (2^32)
 
@@ -75,7 +75,7 @@ function App() {
 
   const handleGuessUpdate = (updatedGuesses) => {
     setGuessedPlayersInfo(updatedGuesses);
-    console.log(updatedGuesses);
+    // console.log(updatedGuesses); // display guesses
 
     // save array to local storage
     const localGuessedPlayersInfo = JSON.stringify(updatedGuesses);
@@ -110,10 +110,7 @@ function App() {
   const checkGuessedPlayer = (guesses, randomPlayer) => {
     // we check the new player guessed
     if (guesses.length > 0) {
-      console.log(guesses[guesses.length - 1]);
-      console.log(randomPlayer.player);
       if (guesses[guesses.length - 1] == randomPlayer.player) {
-        
 
         // we save the correct guess in localStorage
         const numberOfGuesses = guesses.length;
@@ -184,8 +181,8 @@ function App() {
   }, []);
 
   useEffect(() => {
-    if (randomPlayer) {
-      console.log(randomPlayer);
+    if (randomPlayer) { // display the correct answer for debug
+      // console.log(randomPlayer);
     }
   }, [randomPlayer]);
 

@@ -54,7 +54,6 @@ const Modal = ({ closeModal, tries, correctAnswer, guesses, guessedPlayersInfo }
 
   // Update the countdown every second
   useEffect(() => {
-    console.log(guessedPlayersInfo);
     const timer = setInterval(() => {
       setTimeRemaining((prev) => {
         const nextValue = prev - 1;
