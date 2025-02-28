@@ -26,8 +26,8 @@
     align-content: center;
     border-right: 2px solid var(--t-n-gray);
     min-width: 50px;
-    animation: box_entrance .8s cubic-bezier(.03,.91,.36,.99) forwards;
     opacity: 0;
+    animation: box_entrance .8s cubic-bezier(.03,.91,.36,.99) forwards;
     font-weight: bold;
     font-family: "InterItalic";
     text-transform: uppercase;
@@ -125,7 +125,7 @@
     0% {
         transform: translateY(50px);
         opacity: 0;
-    };
+    }
     100% {
         transform: translateY(0);
         opacity: 1;
