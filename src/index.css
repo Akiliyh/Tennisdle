@@ -67,3 +67,13 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2em;
+  }
+
+  .title img{
+    width: 40px;
+  }
+}
