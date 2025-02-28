@@ -177,6 +177,10 @@ function App() {
     if (!localStorage.getItem('localGuessedPlayersInfo')) {
       localStorage.setItem('localGuessedPlayersInfo', JSON.stringify([]));
     }
+
+    if (!localStorage.getItem('curDate')) {
+      localStorage.setItem('curDate', new Date().toISOString().split('T')[0]);
+    }
   }, []);
 
   useEffect(() => {
